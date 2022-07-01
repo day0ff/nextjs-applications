@@ -1,0 +1,12 @@
+# IDEs and editors
+**/.idea
+
+# dependencies
+**/node_modules
+
+# snapshot
+package-lock.json
+yarn.lock
+
+# logs
+npm-debug.log
