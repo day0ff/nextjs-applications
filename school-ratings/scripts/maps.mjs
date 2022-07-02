@@ -1,9 +1,11 @@
 import {readFile, writeFile} from 'fs/promises';
 import {Client} from "@googlemaps/google-maps-services-js";
+const secrets = await readFile(new URL('../secrets/secrets.json', import.meta.url));
 
 const db = await readFile(new URL('../db/db.json', import.meta.url));
 
 const {schools} = JSON.parse(db);
+const {apiKey} = JSON.parse(secrets);
 
 const map = new Client({});
 
@@ -13,7 +15,7 @@ const schoolsPromiseArray = schools.map(school => {
         params: {
             query: `Polska, Warszawa, ${address}`,
             language: "pl",
-            key: "AIzaSyD6KIs2SJbbjxLY_f8niBxGSa-Yvv7zclc"
+            key: apiKey
         },
     }).then(response => {
         const {location} = response.data.results[0].geometry
