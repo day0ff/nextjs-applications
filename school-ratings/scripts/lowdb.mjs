@@ -15,7 +15,10 @@ const processedDB = new Low(processedAdapter);
 await rawDB.read();
 
 const { values } = rawDB.data || {};
-const schools = values.map(([position, name, address, rating]) => ({position, name, address, rating}));
+const schools = values.map(([position, name, address, ratingString]) => {
+    const rating = Number(ratingString.replace(',', '.'))
+    return ({position, name, address, rating})
+});
 
 await processedDB.read();
 processedDB.data = {schools};

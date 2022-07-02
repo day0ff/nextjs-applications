@@ -27,6 +27,6 @@ const schoolsPromiseArray = schools.map(school => {
 })
 
 const results = await Promise.allSettled(schoolsPromiseArray).then(results => results?.map(({value}, index) => value ?? schools[index]));
-const data = JSON.stringify(results, null, 2);
+const data = JSON.stringify({schools: results}, null, 2);
 
 await writeFile(new URL('../db/db.json', import.meta.url), data);

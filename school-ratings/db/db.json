@@ -1,3062 +1,3456 @@
-[
-  {
-    "position": "1",
-    "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 92",
-    "address": "ul. Patriotów 347",
-    "rating": "93,53",
-    "location": {
-      "lat": 52.2100055,
-      "lng": 21.1619526
-    }
-  },
-  {
-    "position": "2",
-    "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 81 FUNDACJI \"RODZICE DZIECIOM\"",
-    "address": "ul. Ludwika Krzywickiego 30",
-    "rating": "92,41",
-    "location": {
-      "lat": 52.2192412,
-      "lng": 21.0000982
-    }
-  },
-  {
-    "position": "3",
-    "name": "SZKOŁA PODSTAWOWA PRZY SPOŁECZNYM LICEUM OGÓLNOKSZTAŁCĄCYM NR 4 IM. BATALIONU AK \"PARASOL\"",
-    "address": "ul. Hawajska 14a",
-    "rating": "91,19",
-    "location": {
-      "lat": 52.1508943,
-      "lng": 21.0411672
-    }
-  },
-  {
-    "position": "4",
-    "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 6 SIÓSTR NIEPOKALANEK IM. BŁ. M. MARCELINY DAROWSKIEJ",
-    "address": "ul. Jerzego Zaruby 2",
-    "rating": "90,86",
-    "location": {
-      "lat": 52.1277925,
-      "lng": 21.0758051
-    }
-  },
-  {
-    "position": "5",
-    "name": "SZKOŁA PODSTAWOWA NR 9 SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
-    "address": "ul. Wiolinowa 6",
-    "rating": "90,57",
-    "location": {
-      "lat": 52.1591355,
-      "lng": 21.0277262
-    }
-  },
-  {
-    "position": "6",
-    "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 51 IM. JANA BRZECHWY",
-    "address": "ul. Harfowa 2",
-    "rating": "88,96",
-    "location": {
-      "lat": 52.2001694,
-      "lng": 20.9651999
-    }
-  },
-  {
-    "position": "7",
-    "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 10 IM.KARDYNAŁA STEFANA WYSZYŃSKIEGO SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
-    "address": "ul. Ostrobramska 72",
-    "rating": "88,77",
-    "location": {
-      "lat": 52.2355439,
-      "lng": 21.1118328
-    }
-  },
-  {
-    "position": "8",
-    "name": "SPOŁECZNA SZKOŁA PODSTAWOWA INTEGRACYJNA NR 100 SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
-    "address": "ul. Wolumen 3",
-    "rating": "88,69",
-    "location": {
-      "lat": 52.284392,
-      "lng": 20.9395112
-    }
-  },
-  {
-    "position": "9",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI DWUJĘZYCZNYMI NR 20 IM. JANA GUTENBERGA FUNDACJI SZKOLNEJ W WARSZAWIE",
-    "address": "ul. Obrzeżna 12a",
-    "rating": "88,58",
-    "location": {
-      "lat": 52.172207,
-      "lng": 21.0002989
-    }
-  },
-  {
-    "position": "10",
-    "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 30 SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
-    "address": "ul. Astronautów 11",
-    "rating": "88,12",
-    "location": {
-      "lat": 52.1827216,
-      "lng": 20.974129
-    }
-  },
-  {
-    "position": "11",
-    "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 4 IM. WŁADYSŁAWA GRABSKIEGO SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
-    "address": "ul. Traktorzystów 16",
-    "rating": "87,99",
-    "location": {
-      "lat": 52.1984669,
-      "lng": 20.8892533
-    }
-  },
-  {
-    "position": "12",
-    "name": "SZKOŁA PODSTAWOWA NR 369 IM. ANTONIEGO BOLESŁAWA DOBROWOLSKIEGO",
-    "address": "ul. Stanisława Przybyszewskiego 45",
-    "rating": "87,59",
-    "location": {
-      "lat": 52.2766568,
-      "lng": 20.9405905
-    }
-  },
-  {
-    "position": "13",
-    "name": "DWUJĘZYCZNA SZKOŁA PODSTAWOWA NR 1",
-    "address": "ul. Wspólna 55",
-    "rating": "87,54",
-    "location": {
-      "lat": 52.24857050000001,
-      "lng": 21.194443
-    }
-  },
-  {
-    "position": "14",
-    "name": "SZKOŁA PODSTAWOWA NR 3 PRZYMIERZA RODZIN IM. BŁOGOSŁAWIONEGO KS. JERZEGO POPIEŁUSZKI",
-    "address": "ul. Tomasza Nocznickiego 7",
-    "rating": "87,36",
-    "location": {
-      "lat": 52.2964366,
-      "lng": 20.9381538
-    }
-  },
-  {
-    "position": "15",
-    "name": "NIEPUBLICZNA SZKOŁA PODSTAWOWA NR 47 IM. ROBERTA SCHUMANA FUNDACJI \"PRIMUS\"",
-    "address": "ul. płk. Zoltána Baló 1",
-    "rating": "87,31",
-    "location": {
-      "lat": 52.132819,
-      "lng": 21.0614221
-    }
-  },
-  {
-    "position": "16",
-    "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 14 IM. DZIECI ZJEDNOCZONEJ EUROPY SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
-    "address": "ul. Bachmacka 3",
-    "rating": "87,3",
-    "location": {
-      "lat": 52.1939697,
-      "lng": 21.0049972
-    }
-  },
-  {
-    "position": "17",
-    "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 1 IM. JANA NOWAKA-JEZIORAŃSKIEGO",
-    "address": "ul. Nowoursynowska 139 U",
-    "rating": "87,1",
-    "location": {
-      "lat": 52.1500859,
-      "lng": 21.060262
-    }
-  },
-  {
-    "position": "18",
-    "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 63 IMIENIA WISŁAWY SZYMBORSKIEJ W WARSZAWIE",
-    "address": "ul. Wał Miedzeszyński 141",
-    "rating": "86,54",
-    "location": {
-      "lat": 52.161504,
-      "lng": 21.16666
-    }
-  },
-  {
-    "position": "19",
-    "name": "SZKOŁA PODSTAWOWA SIÓSTR FELICJANEK NR 28 IM. BŁ. MARII ANGELI TRUSZKOWSKIEJ",
-    "address": "ul. Azaliowa 10",
-    "rating": "86,52",
-    "location": {
-      "lat": 52.2371734,
-      "lng": 21.1537312
-    }
-  },
-  {
-    "position": "20",
-    "name": "PRYWATNA ŻEŃSKA SZKOŁA PODSTAWOWA Z ODDZIAŁAMI DWUJĘZYCZNYMI IM. CECYLII PLATER-ZYBERKÓWNY",
-    "address": "ul. Piękna 24/26",
-    "rating": "86,17",
-    "location": {
-      "lat": 52.22355169999999,
-      "lng": 21.0180924
-    }
-  },
-  {
-    "position": "21",
-    "name": "SZKOŁA PODSTAWOWA NR 112 PRZYMIERZA RODZIN IM. JANA PAWŁA II",
-    "address": "ul. Marii Grzegorzewskiej 10",
-    "rating": "86,07",
-    "location": {
-      "lat": 52.1515554,
-      "lng": 21.0562953
-    }
-  },
-  {
-    "position": "22",
-    "name": "SZKOŁA PODSTAWOWA NR 24 SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
-    "address": "ul. Powstańców Śląskich 67a",
-    "rating": "86,06",
-    "location": {
-      "lat": 52.2342655,
-      "lng": 20.9117634
-    }
-  },
-  {
-    "position": "23",
-    "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 2 IM. POLSKICH MATEMATYKÓW ZWYCIĘZCÓW ENIGMY SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
-    "address": "ul. Dziatwy 6",
-    "rating": "85,87",
-    "location": {
-      "lat": 52.3306865,
-      "lng": 20.9691897
-    }
-  },
-  {
-    "position": "24",
-    "name": "PUBLICZNA SZKOŁA PODSTAWOWA SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
-    "address": "al. Aleja Sztandarów 2",
-    "rating": "85,7",
-    "location": {
-      "lat": 52.2653514,
-      "lng": 21.170211
-    }
-  },
-  {
-    "position": "25",
-    "name": "KATOLICKA SZKOŁA PODSTAWOWA NR 7 IM. KS. KARD. STEFANA WYSZYŃSKIEGO",
-    "address": "ul. Ogrodowa 3a",
-    "rating": "85,63",
-    "location": {
-      "lat": 52.2397141,
-      "lng": 20.9940295
-    }
-  },
-  {
-    "position": "26",
-    "name": "NIEPUBLICZNA SZKOŁA PODSTAWOWA \"NASZA SZKOŁA\" IM. JANUSZA KORCZAKA W WARSZAWIE",
-    "address": "ul. Liczydło 3",
-    "rating": "85,51",
-    "location": {
-      "lat": 52.313828,
-      "lng": 20.979863
-    }
-  },
-  {
-    "position": "27",
-    "name": "OGÓLNOKSZTAŁCĄCA SZKOŁA MUZYCZNA I ST. IM. STANISŁAWA MONIUSZKI W WARSZAWIE",
-    "address": "ul. Kawęczyńska 23",
-    "rating": "85,24",
-    "location": {
-      "lat": 52.2567348,
-      "lng": 21.0541058
-    }
-  },
-  {
-    "position": "28",
-    "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 62 IM. JOANNY KOLASIŃSKIEJ",
-    "address": "ul. Skrajna 10",
-    "rating": "84,98",
-    "location": {
-      "lat": 52.2940087,
-      "lng": 21.0203663
-    }
-  },
-  {
-    "position": "29",
-    "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 98 \"DIDASKO\"",
-    "address": "ul. Terespolska 19",
-    "rating": "84,9",
-    "location": {
-      "lat": 52.2499067,
-      "lng": 21.0696871
-    }
-  },
-  {
-    "position": "30",
-    "name": "PODSTAWOWA SZKOŁA MIĘDZYNARODOWA/THE INTERNATIONAL SCHOOL",
-    "address": "ul. Jagielska 2",
-    "rating": "84,75",
-    "location": {
-      "lat": 52.1122147,
-      "lng": 21.03999
-    }
-  },
-  {
-    "position": "31",
-    "name": "KATOLICKA SZKOŁA PODSTAWOWA IM. KS. PIOTRA SKARGI",
-    "address": "ul. Józefa Bema 73/75",
-    "rating": "84,63",
-    "location": {
-      "lat": 52.2272827,
-      "lng": 20.9584556
-    }
-  },
-  {
-    "position": "32",
-    "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 16 SPOŁECZNEGOTOWARZYSTWA OŚWIATOWEGO",
-    "address": "al. Aleja \"Solidarności\" 113c",
-    "rating": "84,61",
-    "location": {
-      "lat": 52.2417111,
-      "lng": 20.9957828
-    }
-  },
-  {
-    "position": "33",
-    "name": "NIEPUBLICZNA SZKOŁA PODSTAWOWA IM. JULIUSZA VERNE'A",
-    "address": "ul. Marymoncka 34",
-    "rating": "84,26",
-    "location": {
-      "lat": 52.2845092,
-      "lng": 20.9572562
-    }
-  },
-  {
-    "position": "34",
-    "name": "DWUJĘZYCZNA SPOŁECZNA SZKOŁA PODSTAWOWA NR 5 IMIENIA ZAWISZY CZARNEGO SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
-    "address": "ul. Paryska 25",
-    "rating": "84,19",
-    "location": {
-      "lat": 52.22885059999999,
-      "lng": 21.0573055
-    }
-  },
-  {
-    "position": "35",
-    "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 41 EDU BENE",
-    "address": "ul. Świętojerska 24",
-    "rating": "84,18",
-    "location": {
-      "lat": 52.249651,
-      "lng": 20.9996109
-    }
-  },
-  {
-    "position": "36",
-    "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 26 IM. PROF. JIGORO KANO SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
-    "address": "ul. Puławska 97b",
-    "rating": "83,48",
-    "location": {
-      "lat": 52.1987326,
-      "lng": 21.0258085
-    }
-  },
-  {
-    "position": "37",
-    "name": "PRYWATNA MĘSKA SZKOŁA PODSTAWOWA IM. CECYLII PLATER-ZYBERKÓWNY",
-    "address": "ul. Piękna 24",
-    "rating": "83,23",
-    "location": {
-      "lat": 52.22355169999999,
-      "lng": 21.0180924
-    }
-  },
-  {
-    "position": "38",
-    "name": "OGÓLNOKSZTAŁCĄCA SZKOŁA MUZYCZNA II ST. IM. ZENONA BRZEWSKIEGO W WARSZAWIE",
-    "address": "ul. Rakowiecka 21",
-    "rating": "83,14",
-    "location": {
-      "lat": 52.2085318,
-      "lng": 21.0159165
-    }
-  },
-  {
-    "position": "39",
-    "name": "\"ŻAGLE\" SZKOŁA PODSTAWOWA STOWARZYSZENIA STERNIK",
-    "address": "ul. Mieczysława Pożaryskiego 28",
-    "rating": "83,02",
-    "location": {
-      "lat": 52.2071441,
-      "lng": 21.1739217
-    }
-  },
-  {
-    "position": "40",
-    "name": "KATOLICKA SZKOŁA PODSTAWOWA IM. HELENY KMIEĆ FUNDACJI NA RZECZ RODZINY",
-    "address": "ul. Przy Bażantarni 3",
-    "rating": "82,96",
-    "location": {
-      "lat": 52.1370132,
-      "lng": 21.065385
-    }
-  },
-  {
-    "position": "41",
-    "name": "SZKOŁA PODSTAWOWA NR 363 IM. PROF. WITOLDA DOROSZEWSKIEGO",
-    "address": "ul. Rozłogi 10",
-    "rating": "82,85",
-    "location": {
-      "lat": 52.22397059999999,
-      "lng": 20.9004148
-    }
-  },
-  {
-    "position": "42",
-    "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 11 SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
-    "address": "ul. Toruńska 23",
-    "rating": "82,74",
-    "location": {
-      "lat": 52.29559580000001,
-      "lng": 21.0166909
-    }
-  },
-  {
-    "position": "43",
-    "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 13 Z ODDZIAŁAMI DWUJĘZYCZNYMI IM. LOTNIKÓW AMERYKAŃSKICH",
-    "address": "ul. Kazimierza Wóycickiego 1/3",
-    "rating": "82,38",
-    "location": {
-      "lat": 52.3111652,
-      "lng": 20.9168183
-    }
-  },
-  {
-    "position": "44",
-    "name": "SZKOŁA PODSTAWOWA NR 2 PRZYMIERZA RODZIN IM. KS. JANA TWARDOWSKIEGO",
-    "address": "ul. Racławicka 14",
-    "rating": "82,32",
-    "location": {
-      "lat": 52.1995356,
-      "lng": 21.0196312
-    }
-  },
-  {
-    "position": "45",
-    "name": "MULTISCHOOL INTERNATIONAL SCHOOL SZKOŁA PODSTAWOWA",
-    "address": "ul. Niedźwiedzia 46",
-    "rating": "82,11",
-    "location": {
-      "lat": 52.1772402,
-      "lng": 21.0200634
-    }
-  },
-  {
-    "position": "46",
-    "name": "SZKOŁA PODSTAWOWA NIEPUBLICZNA NR 74 IM. BŁOGOSŁAWIONEGO HONORATA KOŹMIŃSKIEGO",
-    "address": "ul. Władysława Smoleńskiego 31",
-    "rating": "81,92",
-    "location": {
-      "lat": 52.279623,
-      "lng": 20.9627877
-    }
-  },
-  {
-    "position": "47",
-    "name": "SZKOŁA PODSTAWOWA ZAKONU PIJARÓW IM. O. ONUFREGO KOPCZYŃSKIEGO W WARSZAWIE",
-    "address": "ul. Gwintowa 3",
-    "rating": "81,73",
-    "location": {
-      "lat": 52.20818999999999,
-      "lng": 21.0825266
-    }
-  },
-  {
-    "position": "48",
-    "name": "SZKOŁA PODSTAWOWA NIEPUBLICZNA IM. \"WIKTORII WIEDEŃSKIEJ\" FUNDACJI EDUKACYJNEJ \"VARSOVIA\"",
-    "address": "ul. Kolegiacka 1",
-    "rating": "81,43",
-    "location": {
-      "lat": 52.16649220000001,
-      "lng": 21.0881705
-    }
-  },
-  {
-    "position": "49",
-    "name": "NIEPUBLICZNA SZKOŁA PODSTAWOWA WARSAW MONTESSORI SCHOOL",
-    "address": "ul. Szwoleżerów 4",
-    "rating": "81,41",
-    "location": {
-      "lat": 52.21655,
-      "lng": 21.0426459
-    }
-  },
-  {
-    "position": "50",
-    "name": "PAŃSTWOWA OGÓLNOKSZTAŁCĄCA SZKOŁA MUZYCZNA II ST. W WARSZAWIE",
-    "address": "ul. Eustachego Tyszkiewicza 42",
-    "rating": "81,31",
-    "location": {
-      "lat": 52.2419113,
-      "lng": 20.9675786
-    }
-  },
-  {
-    "position": "51",
-    "name": "SZKOŁA PODSTAWOWA TOWARZYSTWA EDUKACYJNEGO VIZJA",
-    "address": "ul. Patriotów 148",
-    "rating": "81,13",
-    "location": {
-      "lat": 52.1820002,
-      "lng": 21.1926012
-    }
-  },
-  {
-    "position": "52",
-    "name": "SZKOŁA PODSTAWOWA NR 389 IM. STEFANA STARZYŃSKIEGO",
-    "address": "ul. Smocza 19",
-    "rating": "81,06",
-    "location": {
-      "lat": 52.24722850000001,
-      "lng": 20.9839595
-    }
-  },
-  {
-    "position": "53",
-    "name": "SZKOŁA PODSTAWOWA NIEPUBLICZNA NR 49",
-    "address": "ul. Jana Sebastiana Bacha 2",
-    "rating": "80,8",
-    "location": {
-      "lat": 52.1727475,
-      "lng": 21.0327755
-    }
-  },
-  {
-    "position": "54",
-    "name": "SZKOŁA PODSTAWOWA NR 373 IM. IGNACEGO JANA PADEREWSKIEGO",
-    "address": "ul. Angorska 2",
-    "rating": "80,71",
-    "location": {
-      "lat": 52.2375145,
-      "lng": 21.0577687
-    }
-  },
-  {
-    "position": "55",
-    "name": "SZKOŁA PODSTAWOWA NR 16 IM. TONY HALIKA",
-    "address": "ul. Wilczy Dół 4",
-    "rating": "80,69",
-    "location": {
-      "lat": 52.128578,
-      "lng": 21.0576911
-    }
-  },
-  {
-    "position": "56",
-    "name": "SZKOŁA PODSTAWOWA SIÓSTR NAZARETANEK Z ODDZIAŁAMI DWUJĘZYCZNYMI",
-    "address": "ul. Czerniakowska 137",
-    "rating": "80,51",
-    "location": {
-      "lat": 52.2104501,
-      "lng": 21.0466694
-    }
-  },
-  {
-    "position": "57",
-    "name": "SZKOŁA PODSTAWOWA NR 367 IM. POLSKICH NOBLISTÓW",
-    "address": "ul. Przytulna 3",
-    "rating": "80,26",
-    "location": {
-      "lat": 52.357029,
-      "lng": 20.9832049
-    }
-  },
-  {
-    "position": "58",
-    "name": "SZKOŁA PODSTAWOWA MONTESSORI IM. ŚW. URSZULI LEDÓCHOWSKIEJ",
-    "address": "ul. Czerniakowska 128",
-    "rating": "80,12",
-    "location": {
-      "lat": 52.21797189999999,
-      "lng": 21.046372
-    }
-  },
-  {
-    "position": "58",
-    "name": "BEDNARSKA SZKOŁA PODSTAWOWA",
-    "address": "ul. Kawalerii 5",
-    "rating": "80,12",
-    "location": {
-      "lat": 52.2177266,
-      "lng": 21.0397656
-    }
-  },
-  {
-    "position": "59",
-    "name": "SZKOŁA PODSTAWOWA NR 340 IM. PROFESORA BOGUSŁAWA MOLSKIEGO",
-    "address": "ul. Eugeniusza Lokajskiego 3",
-    "rating": "80,05",
-    "location": {
-      "lat": 52.1396865,
-      "lng": 21.0632194
-    }
-  },
-  {
-    "position": "60",
-    "name": "WARSAW BILINGUAL SCHOOL DWUJĘZYCZNA SZKOŁA PODSTAWOWA IM. PROFESORA WŁADYSŁAWA BARTOSZEWSKIEGO",
-    "address": "ul. Radarowa 6",
-    "rating": "79,91",
-    "location": {
-      "lat": 52.191303,
-      "lng": 20.9656393
-    }
-  },
-  {
-    "position": "61",
-    "name": "SZKOŁA PODSTAWOWA NR 303 IM. FRYDERYKA CHOPINA",
-    "address": "ul. Koncertowa 8",
-    "rating": "79,89",
-    "location": {
-      "lat": 52.1650281,
-      "lng": 21.0300876
-    }
-  },
-  {
-    "position": "62",
-    "name": "SZKOŁA PODSTAWOWA NR 115 IM. WANDY TUROWSKIEJ",
-    "address": "ul. Okrężna 80",
-    "rating": "79,84",
-    "location": {
-      "lat": 52.18342639999999,
-      "lng": 21.0646309
-    }
-  },
-  {
-    "position": "63",
-    "name": "SZKOŁA PODSTAWOWA NR 150 IM. WALEREGO WRÓBLEWSKIEGO",
-    "address": "ul. gen. Wiktora Thomméego 1",
-    "rating": "79,69",
-    "location": {
-      "lat": 52.26099199999999,
-      "lng": 20.9025201
-    }
-  },
-  {
-    "position": "64",
-    "name": "SZKOŁA PODSTAWOWA NR 358 IM. HETMANA JANA ZAMOYSKIEGO W WARSZAWIE, PRZY UL. ŚW. URSZULI LEDÓCHOWSKIEJ 10",
-    "address": "ul. św. Urszuli Ledóchowskiej 10",
-    "rating": "79,64",
-    "location": {
-      "lat": 52.15650650000001,
-      "lng": 21.0688127
-    }
-  },
-  {
-    "position": "65",
-    "name": "SZKOŁA PODSTAWOWA NR 86 STOWARZYSZENIA KULTURY I EDUKACJI",
-    "address": "ul. Kolektorska 9/11",
-    "rating": "79,54",
-    "location": {
-      "lat": 52.275425,
-      "lng": 20.968578
-    }
-  },
-  {
-    "position": "66",
-    "name": "NIEPUBLICZNA SZKOŁA PODSTAWOWA NR 97",
-    "address": "ul. Edwarda Józefa Abramowskiego 4",
-    "rating": "79,28",
-    "location": {
-      "lat": 52.1841011,
-      "lng": 21.0133348
-    }
-  },
-  {
-    "position": "67",
-    "name": "CHRZEŚCIJAŃSKA SZKOŁA PODSTAWOWA DANIEL",
-    "address": "ul. Nowoursynowska 154 a",
-    "rating": "79,25",
-    "location": {
-      "lat": 52.1541186,
-      "lng": 21.0569701
-    }
-  },
-  {
-    "position": "68",
-    "name": "OGÓLNOKSZTAŁCĄCA SZKOŁA MUZYCZNA I STOPNIA W ZESPOLE SZKÓŁ NR 74",
-    "address": "ul. Niepołomicka 26",
-    "rating": "79,24",
-    "location": {
-      "lat": 52.2469538,
-      "lng": 21.1358376
-    }
-  },
-  {
-    "position": "68",
-    "name": "OGÓLNOKSZTAŁCĄCA SZKOŁA MUZYCZNA II ST. W WARSZAWIE",
-    "address": "ul. Zygmunta Krasińskiego 1",
-    "rating": "79,24",
-    "location": {
-      "lat": 52.2699787,
-      "lng": 20.9965003
-    }
-  },
-  {
-    "position": "69",
-    "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 105 IM. ASTRID LINDGREN",
-    "address": "ul. Żwanowiecka 46/50",
-    "rating": "79,17",
-    "location": {
-      "lat": 52.1742043,
-      "lng": 21.2052436
-    }
-  },
-  {
-    "position": "70",
-    "name": "SZKOŁA PODSTAWOWA NR 65 IM. WŁADYSŁAWA ORKANA",
-    "address": "ul. Mścisławska 1",
-    "rating": "79,16",
-    "location": {
-      "lat": 52.2754849,
-      "lng": 20.9843601
-    }
-  },
-  {
-    "position": "71",
-    "name": "SZKOŁA PODSTAWOWA NR 140 IM. KAZIMIERZA JEŻEWSKIEGO",
-    "address": "ul. Wilgi 19",
-    "rating": "79,14",
-    "location": {
-      "lat": 52.1862761,
-      "lng": 21.1935306
-    }
-  },
-  {
-    "position": "72",
-    "name": "PRYWATNA SZKOŁA PODSTAWOWA IM. JEANA MONNETA",
-    "address": "ul. Stępińska 13",
-    "rating": "79,08",
-    "location": {
-      "lat": 52.2039082,
-      "lng": 21.0375179
-    }
-  },
-  {
-    "position": "73",
-    "name": "PAŃSTWOWA OGÓLNOKSZTAŁCĄCA SZKOŁA MUZYCZNA I ST. IM. EMILA MŁYNARSKIEGO W WARSZAWIE",
-    "address": "ul. Rakowiecka 21",
-    "rating": "78,58",
-    "location": {
-      "lat": 52.2085318,
-      "lng": 21.0159165
-    }
-  },
-  {
-    "position": "74",
-    "name": "SZKOŁA PODSTAWOWA NR 11 IM. ŻOŁNIERZY I DYWIZJI KOŚCIUSZKOWSKIEJ W WARSZAWIE",
-    "address": "ul. Mariana Keniga 20",
-    "rating": "78,49",
-    "location": {
-      "lat": 52.196909,
-      "lng": 20.8686358
-    }
-  },
-  {
-    "position": "75",
-    "name": "SZKOŁA PODSTAWOWA NR 366 IM. JANA PAWŁA II",
-    "address": "ul. Strumykowa 21",
-    "rating": "78,38",
-    "location": {
-      "lat": 52.3306037,
-      "lng": 20.9439483
-    }
-  },
-  {
-    "position": "76",
-    "name": "SZKOŁA PODSTAWOWA NR 168 IM. CZESŁAWA NIEMENA",
-    "address": "ul. Zwycięzców 44",
-    "rating": "78,37",
-    "location": {
-      "lat": 52.2328598,
-      "lng": 21.0661591
-    }
-  },
-  {
-    "position": "77",
-    "name": "SZKOŁA PODSTAWOWA NR 359",
-    "address": "ul. Promienista 12a",
-    "rating": "78,35",
-    "location": {
-      "lat": 52.2102403,
-      "lng": 20.9042824
-    }
-  },
-  {
-    "position": "78",
-    "name": "NIEPUBLICZNA SZKOŁA PODSTAWOWA \"INSPIRACJA\"",
-    "address": "ul. Józefa Mehoffera 90",
-    "rating": "78,13",
-    "location": {
-      "lat": 52.3362045,
-      "lng": 20.9641649
-    }
-  },
-  {
-    "position": "79",
-    "name": "OGÓLNOKSZTAŁCĄCA SZKOŁA MUZYCZNA II ST. IM. MARIANA SAWY W WARSZAWIE",
-    "address": "ul. Rakowiecka 21",
-    "rating": "77,97",
-    "location": {
-      "lat": 52.2085318,
-      "lng": 21.0159165
-    }
-  },
-  {
-    "position": "80",
-    "name": "NIEPUBLICZNA SZKOŁA PODSTAWOWA AURUS",
-    "address": "ul. Poleczki 7",
-    "rating": "77,86",
-    "location": {
-      "lat": 52.1532529,
-      "lng": 21.0136677
-    }
-  },
-  {
-    "position": "81",
-    "name": "SZKOŁA PODSTAWOWA NR 10 IM. GRZEGORZA PIRAMOWICZA",
-    "address": "ul. Jasielska 49/53",
-    "rating": "77,85",
-    "location": {
-      "lat": 52.2011587,
-      "lng": 20.981372
-    }
-  },
-  {
-    "position": "82",
-    "name": "SZKOŁA PODSTAWOWA NR 211 Z ODDZIAŁAMI INTEGRACYJNYMI IM. JANUSZA KORCZAKA",
-    "address": "ul. Nowy Świat 21a",
-    "rating": "77,84",
-    "location": {
-      "lat": 52.2322074,
-      "lng": 21.0186954
-    }
-  },
-  {
-    "position": "83",
-    "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 12 IM. EMANUELA BUŁHAKA",
-    "address": "ul. Armii Krajowej 9",
-    "rating": "77,64",
-    "location": {
-      "lat": 52.2509812,
-      "lng": 21.2167863
-    }
-  },
-  {
-    "position": "84",
-    "name": "KANADYJSKA SZKOŁA PODSTAWOWA NR 84",
-    "address": "ul. Bełska 7",
-    "rating": "77,49",
-    "location": {
-      "lat": 52.1916776,
-      "lng": 20.99889
-    }
-  },
-  {
-    "position": "85",
-    "name": "POLSKO-FRANCUSKA NIEPUBLICZNA SZKOŁA PODSTAWOWA \"LA FONTAINE\"",
-    "address": "ul. Wandy Rutkiewicz 2",
-    "rating": "77,47",
-    "location": {
-      "lat": 52.1727412,
-      "lng": 21.0681572
-    }
-  },
-  {
-    "position": "86",
-    "name": "SZKOŁA PODSTAWOWA NR 391 IM. MACIEJA ALEKSEGO DAWIDOWSKIEGO PS. \"ALEK\"",
-    "address": "ul. Filarecka 2",
-    "rating": "77,42",
-    "location": {
-      "lat": 52.2684383,
-      "lng": 20.9835444
-    }
-  },
-  {
-    "position": "87",
-    "name": "SZKOŁA PODSTAWOWA NR 77 IM. WANDY ZIELEŃCZYK",
-    "address": "ul. Samogłoska 9",
-    "rating": "77,35",
-    "location": {
-      "lat": 52.3109198,
-      "lng": 20.9199873
-    }
-  },
-  {
-    "position": "88",
-    "name": "SZKOŁA PODSTAWOWA NR 107 IM. BRONISŁAWA MALINOWSKIEGO",
-    "address": "ul. Nowoursynowska 210/212",
-    "rating": "77,32",
-    "location": {
-      "lat": 52.1735917,
-      "lng": 21.0390684
-    }
-  },
-  {
-    "position": "89",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 343 IM. MATKI TERESY Z KALKUTY",
-    "address": "ul. Stefana Kopcińskiego 7",
-    "rating": "77,17",
-    "location": {
-      "lat": 52.1565527,
-      "lng": 21.05421
-    }
-  },
-  {
-    "position": "90",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 341 IM. TWÓRCÓW LITERATURY DZIECIĘCEJ",
-    "address": "ul. Oławska 3",
-    "rating": "77,15",
-    "location": {
-      "lat": 52.2592359,
-      "lng": 20.9254529
-    }
-  },
-  {
-    "position": "91",
-    "name": "SZKOŁA PODSTAWOWA NR 225 IM. JÓZEFA GARDECKIEGO",
-    "address": "ul. Jana Brożka 15",
-    "rating": "77,12",
-    "location": {
-      "lat": 52.2420807,
-      "lng": 20.9389236
-    }
-  },
-  {
-    "position": "92",
-    "name": "SZKOŁA PODSTAWOWA NR 353 IM. \"WIELKICH ODKRYWCÓW\"",
-    "address": "ul. Cieplarniana 23",
-    "rating": "77,06",
-    "location": {
-      "lat": 52.2182432,
-      "lng": 21.2347764
-    }
-  },
-  {
-    "position": "92",
-    "name": "POLISH BRITISH ACADEMY OF WARSAW - DWUJĘZYCZNA SZKOŁA PODSTAWOWA Z ODDZIAŁAMI MIĘDZYNARODOWYMI W WARSZAWIE",
-    "address": "ul. Wiertnicza 75",
-    "rating": "77,06",
-    "location": {
-      "lat": 52.1722583,
-      "lng": 21.0802503
-    }
-  },
-  {
-    "position": "93",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 82 IM. JANA PAWŁA II",
-    "address": "ul. Górczewska 201",
-    "rating": "76,73",
-    "location": {
-      "lat": 52.240859,
-      "lng": 20.9182093
-    }
-  },
-  {
-    "position": "94",
-    "name": "SZKOŁA PODSTAWOWA NR 75 IM. MARII KONOPNICKIEJ",
-    "address": "ul. Niecała 14",
-    "rating": "76,65",
-    "location": {
-      "lat": 52.2412091,
-      "lng": 21.0072326
-    }
-  },
-  {
-    "position": "95",
-    "name": "SZKOŁA PODSTAWOWA NR 261 IM. STANISŁAWA KOSTKI POTOCKIEGO W WARSZAWIE",
-    "address": "ul. Wiertnicza 26",
-    "rating": "76,58",
-    "location": {
-      "lat": 52.1689479,
-      "lng": 21.0851038
-    }
-  },
-  {
-    "position": "96",
-    "name": "SZKOŁA PODSTAWOWA NR 231 IM. GEN. MARIUSZA ZARUSKIEGO",
-    "address": "ul. Juranda ze Spychowa 10",
-    "rating": "76,57",
-    "location": {
-      "lat": 52.316424,
-      "lng": 21.033079
-    }
-  },
-  {
-    "position": "97",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 2 IM. JANA PAWŁA II",
-    "address": "ul. Orłów Piastowskich 47",
-    "rating": "76,47",
-    "location": {
-      "lat": 52.2009664,
-      "lng": 20.8695019
-    }
-  },
-  {
-    "position": "98",
-    "name": "SZKOŁA PODSTAWOWA NR 319 IM. MARII KANN",
-    "address": "ul. Związku Walki Młodych 10",
-    "rating": "76,43",
-    "location": {
-      "lat": 52.1580755,
-      "lng": 21.0390037
-    }
-  },
-  {
-    "position": "99",
-    "name": "SZKOŁA PODSTAWOWA NR 336 IM. JANKA BYTNARA \"RUDEGO\"",
-    "address": "ul. Witolda Małcużyńskiego 4",
-    "rating": "76,19",
-    "location": {
-      "lat": 52.136626,
-      "lng": 21.055609
-    }
-  },
-  {
-    "position": "100",
-    "name": "SZKOŁA PODSTAWOWA NR 124 IM. STANISŁAWA JACHOWICZA",
-    "address": "ul. Bartoszycka 45/47",
-    "rating": "76,15",
-    "location": {
-      "lat": 52.1639085,
-      "lng": 21.2221023
-    }
-  },
-  {
-    "position": "101",
-    "name": "SZKOŁA PODSTAWOWA NR 400 W WARSZAWIE, UL. OŚ KRÓLEWSKA 25",
-    "address": "ul. Oś Królewska 25",
-    "rating": "75,94",
-    "location": {
-      "lat": 52.1645006,
-      "lng": 21.0668776
-    }
-  },
-  {
-    "position": "102",
-    "name": "SZKOŁA PODSTAWOWA NR 310 IM. MICHAŁA BYLINY",
-    "address": "ul. Hawajska 7",
-    "rating": "75,77",
-    "location": {
-      "lat": 52.1495896,
-      "lng": 21.0412529
-    }
-  },
-  {
-    "position": "103",
-    "name": "SZKOŁA PODSTAWOWA NR 31 IM. KARDYNAŁA STEFANA WYSZYŃSKIEGO",
-    "address": "ul. Kobiałka 49",
-    "rating": "75,67",
-    "location": {
-      "lat": 52.3621557,
-      "lng": 21.0468869
-    }
-  },
-  {
-    "position": "104",
-    "name": "MIĘDZYNARODOWA EUROPEJSKA SZKOŁA PODSTAWOWA IM. JANA KUŁAKOWSKIEGO W WARSZAWIE - INTERNATIONAL EUROPEAN SCHOOL *WARSAW",
-    "address": "ul. Wiertnicza 140",
-    "rating": "75,65",
-    "location": {
-      "lat": 52.1774206,
-      "lng": 21.0757707
-    }
-  },
-  {
-    "position": "105",
-    "name": "SZKOŁA PODSTAWOWA NR 53 IM. MARIUSZA ZARUSKIEGO",
-    "address": "ul. Rudzka 6",
-    "rating": "75,52",
-    "location": {
-      "lat": 52.28010769999999,
-      "lng": 20.9742261
-    }
-  },
-  {
-    "position": "106",
-    "name": "SZKOŁA PODSTAWOWA NR 100 IM. PŁK. FRANCESCO NULLO",
-    "address": "ul. Taneczna 54/58",
-    "rating": "75,47",
-    "location": {
-      "lat": 52.14632539999999,
-      "lng": 21.0159457
-    }
-  },
-  {
-    "position": "107",
-    "name": "SZKOŁA PODSTAWOWA SIÓSTR ZMARTWYCHWSTANEK IM. BŁ. S. ALICJI KOTOWSKIEJ",
-    "address": "ul. Zygmunta Krasińskiego 31",
-    "rating": "75,38",
-    "location": {
-      "lat": 52.26588899999999,
-      "lng": 20.9763025
-    }
-  },
-  {
-    "position": "108",
-    "name": "SZKOŁA PODSTAWOWA NR 96 IM. IRENY KOSMOWSKIEJ",
-    "address": "ul. Sarabandy 16/22",
-    "rating": "75,37",
-    "location": {
-      "lat": 52.113189,
-      "lng": 21.0144471
-    }
-  },
-  {
-    "position": "109",
-    "name": "SZKOŁA PODSTAWOWA NR 387 IM. SZARYCH SZEREGÓW",
-    "address": "ul. Marcina Kasprzaka 1/3",
-    "rating": "75,25",
-    "location": {
-      "lat": 52.2279528,
-      "lng": 20.9774171
-    }
-  },
-  {
-    "position": "110",
-    "name": "SZKOŁA PODSTAWOWA NR 12 IM. POWSTAŃCÓW ŚLĄSKICH",
-    "address": "ul. Górnośląska 45",
-    "rating": "75,08",
-    "location": {
-      "lat": 52.2237732,
-      "lng": 21.0287448
-    }
-  },
-  {
-    "position": "111",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 280 IM. TYTUSA CHAŁUBIŃSKIEGO W WARSZAWIE",
-    "address": "ul. Gorlicka 3",
-    "rating": "75,03",
-    "location": {
-      "lat": 52.1952276,
-      "lng": 20.9786164
-    }
-  },
-  {
-    "position": "111",
-    "name": "SZKOŁA PODSTAWOWA NR 175 IM. HELENY MARUSARZÓWNY W WARSZAWIE",
-    "address": "ul. Trzech Budrysów 32",
-    "rating": "75,03",
-    "location": {
-      "lat": 52.2084017,
-      "lng": 20.9663071
-    }
-  },
-  {
-    "position": "112",
-    "name": "NIEPUBLICZNA SZKOŁA PODSTAWOWA \"EUROPEJSKA SZKOŁA PRZYSZŁOŚCI\"",
-    "address": "ul. Białołęcka 186d",
-    "rating": "75",
-    "location": {
-      "lat": 52.311043,
-      "lng": 21.030499
-    }
-  },
-  {
-    "position": "113",
-    "name": "POLSKO-ANGIELSKA SZKOŁA PODSTAWOWA MENTIS \"PIWONIOWA\"",
-    "address": "ul. Piwoniowa 18",
-    "rating": "74,98",
-    "location": {
-      "lat": 52.3543048,
-      "lng": 20.9754571
-    }
-  },
-  {
-    "position": "114",
-    "name": "SZKOŁA PODSTAWOWA NR 205 IM. ŻOŁNIERZY POWSTANIA WARSZAWSKIEGO",
-    "address": "ul. Spartańska 4",
-    "rating": "74,95",
-    "location": {
-      "lat": 52.191761,
-      "lng": 20.9959939
-    }
-  },
-  {
-    "position": "115",
-    "name": "SZKOŁA PODSTAWOWA NR 257 IM. PROF.MARIANA FALSKIEGO",
-    "address": "ul. Podróżnicza 11",
-    "rating": "74,89",
-    "location": {
-      "lat": 52.326458,
-      "lng": 20.973119
-    }
-  },
-  {
-    "position": "116",
-    "name": "SZKOŁA PODSTAWOWA NR 382 IM. WARSZAWSKICH DZIECI",
-    "address": "ul. Konińska 2",
-    "rating": "74,82",
-    "location": {
-      "lat": 52.1946206,
-      "lng": 20.8951626
-    }
-  },
-  {
-    "position": "117",
-    "name": "SZKOŁA PODSTAWOWA IM. ŚW. FRANCISZKA",
-    "address": "ul. Teresińska 9",
-    "rating": "74,79",
-    "location": {
-      "lat": 52.200227,
-      "lng": 21.0473763
-    }
-  },
-  {
-    "position": "118",
-    "name": "SZKOŁA PODSTAWOWA NR 185 IM. UNICEF",
-    "address": "ul. gen. Tadeusza Bora-Komorowskiego 31",
-    "rating": "74,76",
-    "location": {
-      "lat": 52.2251331,
-      "lng": 21.0869612
-    }
-  },
-  {
-    "position": "119",
-    "name": "AKADEMICKA SZKOŁA PODSTAWOWA WYŻSZEJ SZKOŁY MENEDŻERSKIEJ W WARSZAWIE",
-    "address": "ul. Kawęczyńska 36",
-    "rating": "74,67",
-    "location": {
-      "lat": 52.2577229,
-      "lng": 21.0583356
-    }
-  },
-  {
-    "position": "120",
-    "name": "SZKOŁA PODSTAWOWA NR 300 IM. WANDY RUTKIEWICZ",
-    "address": "ul. Gubinowska 28/30",
-    "rating": "74,6",
-    "location": {
-      "lat": 52.1743514,
-      "lng": 21.0689671
-    }
-  },
-  {
-    "position": "121",
-    "name": "SZKOŁA PODSTAWOWA NR 69 IM. MARII SKŁODOWSKIEJ-CURIE",
-    "address": "ul. Wiktorska 73",
-    "rating": "74,59",
-    "location": {
-      "lat": 52.1984442,
-      "lng": 21.0099167
-    }
-  },
-  {
-    "position": "122",
-    "name": "SZKOŁA PODSTAWOWA NR 204 IM. 19 PUŁKU UŁANÓW WOŁYŃSKICH",
-    "address": "ul. Bajkowa 17/21",
-    "rating": "74,47",
-    "location": {
-      "lat": 52.1879407,
-      "lng": 21.1765771
-    }
-  },
-  {
-    "position": "123",
-    "name": "SZKOŁA PODSTAWOWA NR 322 IM. JANA BRZECHWY",
-    "address": "ul. Edwarda Dembowskiego 9",
-    "rating": "74,46",
-    "location": {
-      "lat": 52.1518865,
-      "lng": 21.032185
-    }
-  },
-  {
-    "position": "124",
-    "name": "SZKOŁA PODSTAWOWA NR 279 IM. BATALIONÓW AK \"GUSTAW\" I \"HARNAŚ\"",
-    "address": "ul. Cyrklowa 1",
-    "rating": "74,36",
-    "location": {
-      "lat": 52.2314277,
-      "lng": 21.0794584
-    }
-  },
-  {
-    "position": "125",
-    "name": "SZKOŁA PODSTAWOWA NR 103 IM. BOHATERÓW WARSZAWY 1939-1945",
-    "address": "ul. Jeziorna 5/9",
-    "rating": "74,34",
-    "location": {
-      "lat": 52.18765570000001,
-      "lng": 21.0706875
-    }
-  },
-  {
-    "position": "126",
-    "name": "SZKOŁA PODSTAWOWA NR 94 IM. I MARSZAŁKA POLSKI JÓZEFA PIŁSUDSKIEGO",
-    "address": "ul. Cietrzewia 22a",
-    "rating": "74,23",
-    "location": {
-      "lat": 52.2019532,
-      "lng": 20.9246845
-    }
-  },
-  {
-    "position": "127",
-    "name": "SZKOŁA PODSTAWOWA NR 212 IM. KRYSTYNY KRAHELSKIEJ",
-    "address": "ul. Czarnomorska 3",
-    "rating": "74,21",
-    "location": {
-      "lat": 52.1831533,
-      "lng": 21.0482948
-    }
-  },
-  {
-    "position": "128",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 330 IM. NAUCZYCIELI TAJNEGO NAUCZANIA",
-    "address": "ul. Mandarynki 1",
-    "rating": "74,18",
-    "location": {
-      "lat": 52.1444337,
-      "lng": 21.0607164
-    }
-  },
-  {
-    "position": "129",
-    "name": "WALDORFSKA SZKOŁA PODSTAWOWA NR 71",
-    "address": "ul. Wolność 2a",
-    "rating": "74,15",
-    "location": {
-      "lat": 52.2416146,
-      "lng": 20.9846615
-    }
-  },
-  {
-    "position": "130",
-    "name": "SZKOŁA PODSTAWOWA NR 85 IM. BENITO JUAREZA",
-    "address": "ul. Ludwika Narbutta 14",
-    "rating": "74,14",
-    "location": {
-      "lat": 52.2072025,
-      "lng": 21.01924
-    }
-  },
-  {
-    "position": "131",
-    "name": "SZKOŁA PODSTAWOWA NR 357",
-    "address": "ul. Zachodzącego Słońca 25",
-    "rating": "74,09",
-    "location": {
-      "lat": 52.2600816,
-      "lng": 20.9169092
-    }
-  },
-  {
-    "position": "132",
-    "name": "SZKOŁA PODSTAWOWA NR 143 IM. STEFANA STARZYŃSKIEGO",
-    "address": "al. Aleja Stanów Zjednoczonych 27",
-    "rating": "74,08",
-    "location": {
-      "lat": 52.22939,
-      "lng": 21.0632626
-    }
-  },
-  {
-    "position": "133",
-    "name": "SZKOŁA PODSTAWOWA NR 385 IM. MARSZAŁKA JÓZEFA PIŁSUDSKIEGO",
-    "address": "ul. Klimatyczna 1",
-    "rating": "73,85",
-    "location": {
-      "lat": 52.2172719,
-      "lng": 21.240053
-    }
-  },
-  {
-    "position": "134",
-    "name": "SZKOŁA PODSTAWOWA NR 375 IM. ORLĄT LWOWSKICH",
-    "address": "ul. gen. Romana Abrahama 10",
-    "rating": "73,74",
-    "location": {
-      "lat": 52.2265291,
-      "lng": 21.086919
-    }
-  },
-  {
-    "position": "135",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 41 IM. ŻOŁNIERZY ARMII KRAJOWEJ GRUPY BOJOWEJ \"KRYBAR\" W WARSZAWIE",
-    "address": "ul. Drewniana 8",
-    "rating": "73,69",
-    "location": {
-      "lat": 52.2397609,
-      "lng": 21.025931
-    }
-  },
-  {
-    "position": "136",
-    "name": "SZKOŁA PODSTAWOWA NR 364 IM. KONSTANCJI MARKIEWICZ",
-    "address": "ul. Michała Elwira Andriollego 1",
-    "rating": "73,62",
-    "location": {
-      "lat": 52.1082162,
-      "lng": 21.261977
-    }
-  },
-  {
-    "position": "137",
-    "name": "KATOLICKA SZKOŁA PODSTAWOWA NR 109 FUNDACJI NA RZECZ RODZINY IM. ŚW. RODZINY",
-    "address": "ul. Kazimierza Wóycickiego 1/3",
-    "rating": "73,57",
-    "location": {
-      "lat": 52.3111652,
-      "lng": 20.9168183
-    }
-  },
-  {
-    "position": "138",
-    "name": "SZKOŁA PODSTAWOWA NR 306 IM. KS. JANA TWARDOWSKIEGO",
-    "address": "ul. Tkaczy 27",
-    "rating": "73,3",
-    "location": {
-      "lat": 52.2228284,
-      "lng": 20.9065916
-    }
-  },
-  {
-    "position": "139",
-    "name": "OGÓLNOKSZTAŁCĄCA SZKOŁA BALETOWA IM. ROMANA TURCZYNOWICZA W WARSZAWIE",
-    "address": "ul. Moliera 2/4",
-    "rating": "73,29",
-    "location": {
-      "lat": 52.22778899999999,
-      "lng": 21.0222375
-    }
-  },
-  {
-    "position": "140",
-    "name": "SZKOŁA PODSTAWOWA NR 52 IM. MACIEJA ALEKSEGO DAWIDOWSKIEGO ?ALKA",
-    "address": "ul. Samarytanka 11a",
-    "rating": "73,26",
-    "location": {
-      "lat": 52.2803802,
-      "lng": 21.0575031
-    }
-  },
-  {
-    "position": "141",
-    "name": "SZKOŁA PODSTAWOWA NR 215 IM. PIOTRA WYSOCKIEGO",
-    "address": "ul. Kwatery Głównej 13",
-    "rating": "73,04",
-    "location": {
-      "lat": 52.243958,
-      "lng": 21.112599
-    }
-  },
-  {
-    "position": "142",
-    "name": "SZKOŁA PODSTAWOWA NR 314 IM.PRZYJACIÓŁ ZIEMI",
-    "address": "ul. Porajów 3",
-    "rating": "72,98",
-    "location": {
-      "lat": 52.3148096,
-      "lng": 20.9596129
-    }
-  },
-  {
-    "position": "143",
-    "name": "SZKOŁA PODSTAWOWA NR 238 IM. CHRISTO BOTEWA",
-    "address": "ul. Redutowa 37",
-    "rating": "72,84",
-    "location": {
-      "lat": 52.23401879999999,
-      "lng": 20.9401439
-    }
-  },
-  {
-    "position": "144",
-    "name": "SZKOŁA PODSTAWOWA NR 109 IM. BATALIONÓW CHŁOPSKICH",
-    "address": "ul. Przygodna 2",
-    "rating": "72,82",
-    "location": {
-      "lat": 52.1979909,
-      "lng": 21.1333678
-    }
-  },
-  {
-    "position": "145",
-    "name": "SZKOŁA PODSTAWOWA NR 70 Z ODDZIAŁAMI INTEGRACYJNYMI IM. BOHATERÓW MONTE CASSINO",
-    "address": "ul. Giordana Bruna 11",
-    "rating": "72,8",
-    "location": {
-      "lat": 52.208549,
-      "lng": 21.001887
-    }
-  },
-  {
-    "position": "146",
-    "name": "SZKOŁA PODSTAWOWA NR 32 Z ODDZIAŁAMI INTEGRACYJNYMI IM. MAŁEGO POWSTAŃCA",
-    "address": "ul. Józefa Lewartowskiego 2",
-    "rating": "72,75",
-    "location": {
-      "lat": 52.2528736,
-      "lng": 20.9941285
-    }
-  },
-  {
-    "position": "147",
-    "name": "SZKOŁA PODSTAWOWA NR 4 IM. WŁADYSŁAWA BRONIEWSKIEGO W WARSZAWIE",
-    "address": "ul. Walerego Sławka 9",
-    "rating": "72,66",
-    "location": {
-      "lat": 52.1926309,
-      "lng": 20.895838
-    }
-  },
-  {
-    "position": "148",
-    "name": "SZKOŁA PODSTAWOWA NR 368 IM. POLSKICH OLIMPIJCZYKÓW",
-    "address": "ul. Ostródzka 175",
-    "rating": "72,54",
-    "location": {
-      "lat": 52.3271948,
-      "lng": 21.046966
-    }
-  },
-  {
-    "position": "149",
-    "name": "SZKOŁA PODSTAWOWA NR 190 IM. ORŁA BIAŁEGO",
-    "address": "ul. Zwierzyniecka 10",
-    "rating": "72,44",
-    "location": {
-      "lat": 52.2093949,
-      "lng": 21.0504683
-    }
-  },
-  {
-    "position": "149",
-    "name": "SZKOŁA PODSTAWOWA NR 360",
-    "address": "ul. Dzieci Warszawy 42A",
-    "rating": "72,44",
-    "location": {
-      "lat": 52.1977809,
-      "lng": 20.8989462
-    }
-  },
-  {
-    "position": "150",
-    "name": "SZKOŁA PODSTAWOWA NR 350",
-    "address": "ul. Karola Irzykowskiego 1a",
-    "rating": "72,41",
-    "location": {
-      "lat": 52.2307072,
-      "lng": 20.9035463
-    }
-  },
-  {
-    "position": "151",
-    "name": "SZKOŁA PODSTAWOWA NR 323 IM. POLSKICH OLIMPIJCZYKÓW",
-    "address": "ul. Ludwika Hirszfelda 11",
-    "rating": "72,39",
-    "location": {
-      "lat": 52.1445046,
-      "lng": 21.040749
-    }
-  },
-  {
-    "position": "152",
-    "name": "SZKOŁA PODSTAWOWA NR 218 IM. MICHAŁA KAJKI",
-    "address": "ul. Michała Kajki 80/82",
-    "rating": "72,24",
-    "location": {
-      "lat": 52.22125260000001,
-      "lng": 21.1636801
-    }
-  },
-  {
-    "position": "153",
-    "name": "SZKOŁA PODSTAWOWA NR 46 IM. STEFANA STARZYŃSKIEGO",
-    "address": "ul. Wałbrzyska 5",
-    "rating": "72,22",
-    "location": {
-      "lat": 52.1731159,
-      "lng": 21.0276534
-    }
-  },
-  {
-    "position": "154",
-    "name": "SZKOŁA PODSTAWOWA NR 380 IM. JANA PAWŁA II W WARSZAWIE",
-    "address": "ul. Krasiczyńska 4/6",
-    "rating": "72,13",
-    "location": {
-      "lat": 52.2944079,
-      "lng": 21.0463944
-    }
-  },
-  {
-    "position": "155",
-    "name": "SZKOŁA PODSTAWOWA NR 169 IM. ORŁA BIAŁEGO",
-    "address": "ul. Uprawna 9/17",
-    "rating": "72,12",
-    "location": {
-      "lat": 52.1567878,
-      "lng": 21.0919292
-    }
-  },
-  {
-    "position": "156",
-    "name": "SZKOŁA PODSTAWOWA NR 171 IM. STANISŁAWA STASZICA",
-    "address": "ul. Armii Krajowej 39",
-    "rating": "71,94",
-    "location": {
-      "lat": 52.25070789999999,
-      "lng": 21.2265644
-    }
-  },
-  {
-    "position": "157",
-    "name": "SZKOŁA PODSTAWOWA NR 133 IM. STEFANA CZARNIECKIEGO",
-    "address": "ul. Antoniego Fontany 3",
-    "rating": "71,86",
-    "location": {
-      "lat": 52.2784041,
-      "lng": 20.9496797
-    }
-  },
-  {
-    "position": "158",
-    "name": "SZKOŁA PODSTAWOWA NR 173 IM. GÓRNIKÓW POLSKICH",
-    "address": "inne Trakt Brzeski 18",
-    "rating": "71,83",
-    "location": {
-      "lat": 52.22341979999999,
-      "lng": 21.221395
-    }
-  },
-  {
-    "position": "159",
-    "name": "SZKOŁA PODSTAWOWA NR 29 IM.GIUSEPPE GARIBALDIEGO",
-    "address": "ul. Fabryczna 19",
-    "rating": "71,8",
-    "location": {
-      "lat": 52.2242032,
-      "lng": 21.03809
-    }
-  },
-  {
-    "position": "160",
-    "name": "SZKOŁA PODSTAWOWA NR 352 W WARSZAWIE IM. JERZEGO HUBERTA WAGNERA",
-    "address": "ul. Josepha Conrada 6",
-    "rating": "71,74",
-    "location": {
-      "lat": 52.2721122,
-      "lng": 20.929214
-    }
-  },
-  {
-    "position": "161",
-    "name": "SZKOŁA PODSTAWOWA NR 92 IM. JANA BRZECHWY",
-    "address": "ul. Przasnyska 18A",
-    "rating": "71,7",
-    "location": {
-      "lat": 52.2645407,
-      "lng": 20.9644914
-    }
-  },
-  {
-    "position": "162",
-    "name": "SZKOŁA PODSTAWOWA NR 365 IM.WOJCIECHA ZAWADZKIEGO",
-    "address": "ul. Płużnicka 4",
-    "rating": "71,69",
-    "location": {
-      "lat": 52.3118904,
-      "lng": 20.9738709
-    }
-  },
-  {
-    "position": "163",
-    "name": "SZKOŁA PODSTAWOWA NR 376 IM. BOHATERÓW WESTRPLATTE W WARSZAWIE",
-    "address": "ul. gen. Karola Ziemskiego \"Wachnowskiego\" 22",
-    "rating": "71,48",
-    "location": {
-      "lat": 52.259037,
-      "lng": 21.1771768
-    }
-  },
-  {
-    "position": "164",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 342 IM.JANA MARCINA SZANCERA",
-    "address": "ul. Strumykowa 21A",
-    "rating": "71,22",
-    "location": {
-      "lat": 52.3311127,
-      "lng": 20.9438196
-    }
-  },
-  {
-    "position": "165",
-    "name": "SZKOŁA PODSTAWOWA NR 128 IM. MARII SKŁODOWSKIEJ-CURIE",
-    "address": "ul. Kadetów 15",
-    "rating": "71,2",
-    "location": {
-      "lat": 52.2132369,
-      "lng": 21.109891
-    }
-  },
-  {
-    "position": "166",
-    "name": "SZKOŁA PODSTAWOWA NR 312 IM. EWY SZELBURG-ZAREMBINY",
-    "address": "ul. Władysława Umińskiego 12",
-    "rating": "70,99",
-    "location": {
-      "lat": 52.227552,
-      "lng": 21.1006798
-    }
-  },
-  {
-    "position": "167",
-    "name": "SZKOŁA PODSTAWOWA NR 222 IM. JANA BRZECHWY",
-    "address": "ul. Esperanto 7a",
-    "rating": "70,95",
-    "location": {
-      "lat": 52.2456019,
-      "lng": 20.9793144
-    }
-  },
-  {
-    "position": "168",
-    "name": "SZKOŁA PODSTAWOWA NR 220 IM. STANISŁAWA KOPCZYŃSKIEGO",
-    "address": "al. Aleja Jana Pawła II 26a",
-    "rating": "70,78",
-    "location": {
-      "lat": 52.237406,
-      "lng": 20.9981209
-    }
-  },
-  {
-    "position": "169",
-    "name": "SZKOŁA PODSTAWOWA NR 33 IM. WOJSK OBRONY POWIETRZNEJ KRAJU",
-    "address": "ul. Cieszyńska 8",
-    "rating": "70,77",
-    "location": {
-      "lat": 52.1839081,
-      "lng": 21.027125
-    }
-  },
-  {
-    "position": "170",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 112 IM. MARII KOWNACKIEJ W WARSZAWIE, UL. ZAUŁEK 34 SZKOLE JEST PODPORZĄDKOWANA ORGANIZACYJNIE SZKOŁA FILIALNA W WARSZAWIE, UL. OSTRÓDZKA 144",
-    "address": "ul. Zaułek 34",
-    "rating": "70,57",
-    "location": {
-      "lat": 52.3271548,
-      "lng": 21.0666763
-    }
-  },
-  {
-    "position": "171",
-    "name": "SZKOŁA PODSTAWOWA NR 255 IM. CYPRIANA KAMILA NORWIDA",
-    "address": "ul. Kamionkowska 36/44",
-    "rating": "70,56",
-    "location": {
-      "lat": 52.24724,
-      "lng": 21.0650042
-    }
-  },
-  {
-    "position": "172",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 14 IM. BOHATERÓW WARSZAWY W WARSZAWIE",
-    "address": "ul. gen. Kazimierza Sosnkowskiego 10",
-    "rating": "70,48",
-    "location": {
-      "lat": 52.1894666,
-      "lng": 20.8903188
-    }
-  },
-  {
-    "position": "173",
-    "name": "SZKOŁA PODSTAWOWA NR 23 IM. EDWARDA SZYMAŃSKIEGO",
-    "address": "ul. Mikołaja Reja 1",
-    "rating": "70,48",
-    "location": {
-      "lat": 52.217374,
-      "lng": 20.9937734
-    }
-  },
-  {
-    "position": "174",
-    "name": "SZKOŁA PODSTAWOWA NR 307 IM. KRÓLA JANA III SOBIESKIEGO",
-    "address": "ul. Barcelońska 8",
-    "rating": "70,37",
-    "location": {
-      "lat": 52.176303,
-      "lng": 21.055284
-    }
-  },
-  {
-    "position": "175",
-    "name": "SZKOŁA PODSTAWOWA NR 267 IM. JULIUSZA SŁOWACKIEGO",
-    "address": "ul. Braci Załuskich 1",
-    "rating": "70,28",
-    "location": {
-      "lat": 52.2666303,
-      "lng": 20.9691469
-    }
-  },
-  {
-    "position": "176",
-    "name": "SZKOŁA PODSTAWOWA NR 356 IM.RYSZARDA KACZOROWSKIEGO",
-    "address": "ul. Głębocka 66",
-    "rating": "70,19",
-    "location": {
-      "lat": 52.3115485,
-      "lng": 21.0675928
-    }
-  },
-  {
-    "position": "177",
-    "name": "SZKOŁA PODSTAWOWA NR 34 IM. STANISŁAWA DUBOIS",
-    "address": "ul. Leona Kruczkowskiego 12b",
-    "rating": "70,16",
-    "location": {
-      "lat": 52.2361624,
-      "lng": 21.0281811
-    }
-  },
-  {
-    "position": "178",
-    "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 94 SZKOŁA \"LAUDER MORASHA\"",
-    "address": "ul. Hipolita Wawelberga 10",
-    "rating": "70,03",
-    "location": {
-      "lat": 52.2360394,
-      "lng": 20.9697463
-    }
-  },
-  {
-    "position": "179",
-    "name": "SZKOŁA PODSTAWOWA NR 321",
-    "address": "ul. ppłk. Wacława Szadkowskiego 3",
-    "rating": "69,76",
-    "location": {
-      "lat": 52.2518819,
-      "lng": 20.9201793
-    }
-  },
-  {
-    "position": "180",
-    "name": "SZKOŁA PODSTAWOWA NR 80 IM. MARII KOWNACKIEJ",
-    "address": "ul. Aspekt 48",
-    "rating": "69,7",
-    "location": {
-      "lat": 52.27587219999999,
-      "lng": 20.931176
-    }
-  },
-  {
-    "position": "181",
-    "name": "SZKOŁA PODSTAWOWA NR 277 IM. ELIZY ORZESZKOWEJ",
-    "address": "ul. Suwalska 29",
-    "rating": "69,64",
-    "location": {
-      "lat": 52.2955834,
-      "lng": 21.0373182
-    }
-  },
-  {
-    "position": "182",
-    "name": "SZKOŁA PODSTAWOWA NR 289 IM. HENRYKA SIENKIEWICZA",
-    "address": "ul. Władysława Broniewskiego 99a",
-    "rating": "69,63",
-    "location": {
-      "lat": 52.272189,
-      "lng": 20.9382173
-    }
-  },
-  {
-    "position": "183",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 344 IM.POWSTANIA WARSZAWSKIEGO",
-    "address": "ul. Erazma z Zakroczymia 15",
-    "rating": "69,44",
-    "location": {
-      "lat": 52.3218783,
-      "lng": 20.9485864
-    }
-  },
-  {
-    "position": "184",
-    "name": "SZKOŁA PODSTAWOWA NR 313 IM. POLSKICH ODKRYWCÓW",
-    "address": "ul. Jana Cybisa 1",
-    "rating": "69,42",
-    "location": {
-      "lat": 52.1546512,
-      "lng": 21.0252576
-    }
-  },
-  {
-    "position": "185",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 301 IM. JANUSZA KORCZAKA",
-    "address": "ul. Brygadzistów 18",
-    "rating": "69,41",
-    "location": {
-      "lat": 52.225749,
-      "lng": 20.9123309
-    }
-  },
-  {
-    "position": "186",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 318 IM. JANA CHRISTIANA ANDERSENA",
-    "address": "ul. Leonida Teligi 3",
-    "rating": "69,37",
-    "location": {
-      "lat": 52.15288,
-      "lng": 21.046655
-    }
-  },
-  {
-    "position": "187",
-    "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 108 IM. MATKI BOSKIEJ NIEUSTAJĄCEJ POMOCY",
-    "address": "ul. Krynoliny 9/11",
-    "rating": "69,19",
-    "location": {
-      "lat": 52.2909582,
-      "lng": 21.0791733
-    }
-  },
-  {
-    "position": "187",
-    "name": "SZKOŁA PODSTAWOWA NR 351 IM. BOLESŁAWA PRUSA",
-    "address": "ul. Jana Olbrachta 48/56",
-    "rating": "69,19",
-    "location": {
-      "lat": 52.2358568,
-      "lng": 20.9360791
-    }
-  },
-  {
-    "position": "188",
-    "name": "SZKOŁA PODSTAWOWA NR 355 IM. JANA WEDLA",
-    "address": "ul. Ceramiczna 11",
-    "rating": "69,18",
-    "location": {
-      "lat": 52.3217687,
-      "lng": 20.9603903
-    }
-  },
-  {
-    "position": "188",
-    "name": "SZKOŁA PODSTAWOWA NR 378 IM. IGNACEGO JANA PADEREWSKIEGO W WARSZAWIE",
-    "address": "ul. Bartnicza 8",
-    "rating": "69,18",
-    "location": {
-      "lat": 52.2876316,
-      "lng": 21.0292567
-    }
-  },
-  {
-    "position": "189",
-    "name": "SZKOŁA PODSTAWOWA NR 217 Z ODDZIAŁAMI INTEGRACYJNYMI IM. OBROŃCÓW RADIOSTACJI ARMII KRAJOWEJ W REMBERTOWIE",
-    "address": "ul. Ignacego Paderewskiego 45",
-    "rating": "68,83",
-    "location": {
-      "lat": 52.2629813,
-      "lng": 21.1563492
-    }
-  },
-  {
-    "position": "190",
-    "name": "SZKOŁA PODSTAWOWA INTEGRACYJNA NR 339 IM. RAOULA WALLENBERGA",
-    "address": "ul. św. Bonifacego 10",
-    "rating": "68,79",
-    "location": {
-      "lat": 52.1774356,
-      "lng": 21.0488817
-    }
-  },
-  {
-    "position": "191",
-    "name": "SZKOŁA PODSTAWOWA NR 263 IM. POWSTAŃCÓW WIELKOPOLSKICH",
-    "address": "ul. Szegedyńska 11",
-    "rating": "68,63",
-    "location": {
-      "lat": 52.2917893,
-      "lng": 20.9430757
-    }
-  },
-  {
-    "position": "192",
-    "name": "SZKOŁA PODSTAWOWA NR 285 IM. JANA MARCINA SZANCERA",
-    "address": "ul. Turmoncka 20",
-    "rating": "68,56",
-    "location": {
-      "lat": 52.2985733,
-      "lng": 21.0413355
-    }
-  },
-  {
-    "position": "193",
-    "name": "SZKOŁA PODSTAWOWA NR 293 IM. JANA KOCHANOWSKIEGO",
-    "address": "ul. Jana Kochanowskiego 8",
-    "rating": "68,23",
-    "location": {
-      "lat": 52.2675022,
-      "lng": 20.9543642
-    }
-  },
-  {
-    "position": "194",
-    "name": "SZKOŁA PODSTAWOWA NR 157 IM. ADAMA MICKIEWICZA",
-    "address": "ul. Kazimierzowska 16",
-    "rating": "68,14",
-    "location": {
-      "lat": 52.19991109999999,
-      "lng": 21.0180712
-    }
-  },
-  {
-    "position": "195",
-    "name": "PRYWATNA SZKOŁA PODSTAWOWA IM. ZOFII I JĘDRZEJA MORACZEWSKICH",
-    "address": "ul. Cyrulików 87",
-    "rating": "68,12",
-    "location": {
-      "lat": 52.2572526,
-      "lng": 21.1668112
-    }
-  },
-  {
-    "position": "196",
-    "name": "SZKOŁA PODSTAWOWA NR 141 IM. MJR HENRYKA SUCHARSKIEGO",
-    "address": "ul. Szaserów 117",
-    "rating": "68,07",
-    "location": {
-      "lat": 52.24860779999999,
-      "lng": 21.0949187
-    }
-  },
-  {
-    "position": "197",
-    "name": "SZKOŁA PODSTAWOWA NR 209 IM. HANKI ORDONÓWNY",
-    "address": "al. Aleja Władysława Reymonta 25",
-    "rating": "67,77",
-    "location": {
-      "lat": 52.283793,
-      "lng": 20.9393446
-    }
-  },
-  {
-    "position": "198",
-    "name": "SZKOŁA PODSTAWOWA NR 84 IM. WALERIANA ŁUKASIŃSKIEGO",
-    "address": "ul. Radzymińska 227",
-    "rating": "67,74",
-    "location": {
-      "lat": 52.2844291,
-      "lng": 21.0724665
-    }
-  },
-  {
-    "position": "199",
-    "name": "SZKOŁA PODSTAWOWA NR 221 Z ODDZIAŁAMI INTEGRACYJNYMI IM. BARBARY BRONISŁAWY CZARNOWSKIEJ",
-    "address": "ul. Ogrodowa 42/44",
-    "rating": "67,67",
-    "location": {
-      "lat": 52.23858999999999,
-      "lng": 20.9865247
-    }
-  },
-  {
-    "position": "200",
-    "name": "SZKOŁA PODSTAWOWA NR 81 IM. JULIANA URSYNA NIEMCEWICZA",
-    "address": "ul. Puszczyka 6",
-    "rating": "67,51",
-    "location": {
-      "lat": 52.15789729999999,
-      "lng": 21.0243613
-    }
-  },
-  {
-    "position": "201",
-    "name": "SZKOŁA PODSTAWOWA NR 158 IM. JANA KILIŃSKIEGO",
-    "address": "ul. Ciasna 13",
-    "rating": "67,42",
-    "location": {
-      "lat": 52.2518154,
-      "lng": 21.0054327
-    }
-  },
-  {
-    "position": "202",
-    "name": "NIEPUBLICZNA WALDORFSKA SZKOŁA PODSTAWOWA IM. AUGUSTA CIESZKOWSKIEGO",
-    "address": "ul. Alpejska 16",
-    "rating": "67,41",
-    "location": {
-      "lat": 52.2179096,
-      "lng": 21.169366
-    }
-  },
-  {
-    "position": "203",
-    "name": "BRYTYJSKA SZKOŁA PODSTAWOWA THE BRITISH SCHOOL NR 91 W WARSZAWIE",
-    "address": "ul. Bolesława Limanowskiego 15",
-    "rating": "67,39",
-    "location": {
-      "lat": 52.1894287,
-      "lng": 21.0555991
-    }
-  },
-  {
-    "position": "204",
-    "name": "SZKOŁA PODSTAWOWA NR 316 IM. ASTRID LINDGREN",
-    "address": "ul. Stanisława Szobera 1/3",
-    "rating": "67,2",
-    "location": {
-      "lat": 52.2360295,
-      "lng": 20.9013375
-    }
-  },
-  {
-    "position": "205",
-    "name": "SZKOŁA PODSTAWOWA NR 392 IM. JANA BYTNARA PS. \"RUDY\"",
-    "address": "al. Aleja Wojska Polskiego 1A",
-    "rating": "67,1",
-    "location": {
-      "lat": 52.2633545,
-      "lng": 20.995616
-    }
-  },
-  {
-    "position": "205",
-    "name": "SZKOŁA PODSTAWOWA NR 203 IM. ANTONINY I JANA ŻABIŃSKICH",
-    "address": "ul. ks. Ignacego Skorupki 8",
-    "rating": "67,1",
-    "location": {
-      "lat": 52.2259438,
-      "lng": 21.0167267
-    }
-  },
-  {
-    "position": "206",
-    "name": "SZKOŁA PODSTAWOWA NR 66 IM. KS. JULIANA CHROŚCICKIEGO",
-    "address": "ul. Przepiórki 16/18",
-    "rating": "67",
-    "location": {
-      "lat": 52.204147,
-      "lng": 20.9011093
-    }
-  },
-  {
-    "position": "207",
-    "name": "SZKOŁA PODSTAWOWA NR 86 IM. BRONISŁAWA CZECHA",
-    "address": "ul. Koryncka 33",
-    "rating": "66,93",
-    "location": {
-      "lat": 52.2193009,
-      "lng": 21.144952
-    }
-  },
-  {
-    "position": "208",
-    "name": "SZKOŁA PODSTAWOWA NR 146 IM. JANUSZA KORCZAKA",
-    "address": "ul. Domaniewska 33",
-    "rating": "66,92",
-    "location": {
-      "lat": 52.18316549999999,
-      "lng": 21.0100187
-    }
-  },
-  {
-    "position": "209",
-    "name": "SZKOŁA PODSTAWOWA NR 384 IM. STANISŁAWA STASZICA",
-    "address": "ul. Kajakowa 10",
-    "rating": "66,73",
-    "location": {
-      "lat": 52.1304084,
-      "lng": 21.0208614
-    }
-  },
-  {
-    "position": "210",
-    "name": "SZKOŁA PODSTAWOWA NR 104 IM. MACIEJA RATAJA",
-    "address": "ul. Przyczółkowa 27",
-    "rating": "66,68",
-    "location": {
-      "lat": 52.12059259999999,
-      "lng": 21.1018017
-    }
-  },
-  {
-    "position": "211",
-    "name": "SZKOŁA PODSTAWOWA NR 118 IM.PRZYJACIÓŁ MAZOWSZA",
-    "address": "ul. Myśliborska 25",
-    "rating": "66,65",
-    "location": {
-      "lat": 52.3177939,
-      "lng": 20.9592178
-    }
-  },
-  {
-    "position": "212",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 154 IM. EDMUNDA STRZELECKIEGO",
-    "address": "ul. Leśnej Polanki 63/65",
-    "rating": "66,45",
-    "location": {
-      "lat": 52.3381249,
-      "lng": 20.945345
-    }
-  },
-  {
-    "position": "213",
-    "name": "SZKOŁA PODSTAWOWA INTEGRACYJNA NR 135 IM. MARII KOWNACKIEJ",
-    "address": "ul. Grzegorza Przemyka 5",
-    "rating": "66,01",
-    "location": {
-      "lat": 52.2295074,
-      "lng": 21.0811382
-    }
-  },
-  {
-    "position": "213",
-    "name": "SZKOŁA PODSTAWOWA NR 50 IM. KRÓLOWEJ JADWIGI W WARSZAWIE",
-    "address": "ul. Jagiellońska 7",
-    "rating": "66,01",
-    "location": {
-      "lat": 52.2502714,
-      "lng": 21.0361448
-    }
-  },
-  {
-    "position": "214",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 275 IM. ARTURA OPPMANA",
-    "address": "ul. św. Hieronima 2",
-    "rating": "65,49",
-    "location": {
-      "lat": 52.2938667,
-      "lng": 21.0236535
-    }
-  },
-  {
-    "position": "215",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 68 IM. ARTURA OPPMANA",
-    "address": "ul. Or-Ota 5",
-    "rating": "65,31",
-    "location": {
-      "lat": 52.2623922,
-      "lng": 20.9843793
-    }
-  },
-  {
-    "position": "216",
-    "name": "MIĘDZYNARODOWA SZKOŁA PODSTAWOWA TE VIZJA",
-    "address": "ul. Okopowa 59",
-    "rating": "65,25",
-    "location": {
-      "lat": 52.2505253,
-      "lng": 20.9786173
-    }
-  },
-  {
-    "position": "217",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 87 IM. 7 PP AK \"GARŁUCH\"",
-    "address": "ul. Malownicza 31",
-    "rating": "65,21",
-    "location": {
-      "lat": 52.1774981,
-      "lng": 20.9392811
-    }
-  },
-  {
-    "position": "218",
-    "name": "SZKOŁA PODSTAWOWA NR 234 IM. JULIANA TUWIMA",
-    "address": "ul. Esperanto 5",
-    "rating": "64,93",
-    "location": {
-      "lat": 52.2439182,
-      "lng": 20.9800414
-    }
-  },
-  {
-    "position": "219",
-    "name": "SZKOŁA PODSTAWOWA NR 152 IM. MARII DĄBROWSKIEJ W WARSZAWIE",
-    "address": "ul. Powstańców Wielkopolskich 4",
-    "rating": "64,69",
-    "location": {
-      "lat": 52.2042456,
-      "lng": 20.9680165
-    }
-  },
-  {
-    "position": "220",
-    "name": "SZKOŁA PODSTAWOWA NR 114 Z ODDZIAŁAMI INTEGRACYJNYMI IM. JĘDRZEJA CIERNIAKA",
-    "address": "ul. Remiszewska 40",
-    "rating": "64,68",
-    "location": {
-      "lat": 52.272144,
-      "lng": 21.053891
-    }
-  },
-  {
-    "position": "221",
-    "name": "SZKOŁA PODSTAWOWA NR 397 IM. BOHATERÓW OLSZYNKI GROCHOWSKIEJ",
-    "address": "ul. Afrykańska 11",
-    "rating": "64,65",
-    "location": {
-      "lat": 52.2276022,
-      "lng": 21.0693838
-    }
-  },
-  {
-    "position": "222",
-    "name": "SZKOŁA PODSTAWOWA NR 88 IM. GABRIELA NARUTOWICZA",
-    "address": "ul. Radarowa 4b",
-    "rating": "64,61",
-    "location": {
-      "lat": 52.1927642,
-      "lng": 20.9669202
-    }
-  },
-  {
-    "position": "223",
-    "name": "SZKOŁA PODSTAWOWA NR 42 Z ODDZIAŁAMI INTEGRACYJNYMI IM. KONSTANTEGO ILDEFONSA GAŁCZYŃSKIEGO",
-    "address": "ul. Balkonowa 4",
-    "rating": "64,58",
-    "location": {
-      "lat": 52.28606440000001,
-      "lng": 21.0391648
-    }
-  },
-  {
-    "position": "223",
-    "name": "SZKOŁA PODSTAWOWA NR 298 IM. JANA KASPROWICZA",
-    "address": "ul. Krakusa 2",
-    "rating": "64,58",
-    "location": {
-      "lat": 52.2915773,
-      "lng": 21.0254783
-    }
-  },
-  {
-    "position": "224",
-    "name": "SZKOŁA PODSTAWOWA NR 172 IM. POLSKIEJ ORGANIZACJI WOJSKOWEJ",
-    "address": "ul. Brata Alberta 46",
-    "rating": "64,47",
-    "location": {
-      "lat": 52.2390277,
-      "lng": 21.1910757
-    }
-  },
-  {
-    "position": "225",
-    "name": "SZKOŁA PODSTAWOWA NR 1 IM. GUSTAWA MORCINKA",
-    "address": "ul. Wilcza 53",
-    "rating": "64,41",
-    "location": {
-      "lat": 52.223363,
-      "lng": 21.010997
-    }
-  },
-  {
-    "position": "226",
-    "name": "SZKOŁA PODSTAWOWA NR 383 IM. KS. STEFANA KARDYNAŁA WYSZYŃSKIEGO",
-    "address": "ul. Warszawska 63",
-    "rating": "64,39",
-    "location": {
-      "lat": 52.1934634,
-      "lng": 20.861286
-    }
-  },
-  {
-    "position": "227",
-    "name": "SZKOŁA PODSTAWOWA IM KOMISJI EDUKACJI NARODOWEJ",
-    "address": "ul. Kielecka 43",
-    "rating": "64,35",
-    "location": {
-      "lat": 52.2058923,
-      "lng": 21.0044689
-    }
-  },
-  {
-    "position": "228",
-    "name": "SZKOŁA PODSTAWOWA THAMES BRITISH SCHOOL",
-    "address": "ul. Wawelska 66/74",
-    "rating": "64,27",
-    "location": {
-      "lat": 52.2167179,
-      "lng": 20.9843962
-    }
-  },
-  {
-    "position": "229",
-    "name": "SZKOŁA PODSTAWOWA NR 110 IM. KAZIMIERZA JEŻEWSKIEGO",
-    "address": "ul. Bohaterów 41",
-    "rating": "64,25",
-    "location": {
-      "lat": 52.3406242,
-      "lng": 20.9940733
-    }
-  },
-  {
-    "position": "230",
-    "name": "SZKOŁA PODSTAWOWA NR 120 Z ODDZIAŁAMI INTEGRACYJNYMI IM. PUŁKÓW PIECHOTY \"DZIECI WARSZAWY\"",
-    "address": "ul. Międzyborska 64/70",
-    "rating": "64,05",
-    "location": {
-      "lat": 52.2408508,
-      "lng": 21.0787666
-    }
-  },
-  {
-    "position": "231",
-    "name": "SZKOŁA PODSTAWOWA NR 139 IM. LUDWIKI WAWRZYŃSKIEJ",
-    "address": "ul. Syreny 5/7",
-    "rating": "63,87",
-    "location": {
-      "lat": 52.2342086,
-      "lng": 20.9623
-    }
-  },
-  {
-    "position": "232",
-    "name": "SZKOŁA PODSTAWOWA NR 187 IM. ADAMA MICKIEWICZA",
-    "address": "ul. Leopolda Staffa 21",
-    "rating": "63,34",
-    "location": {
-      "lat": 52.27415269999999,
-      "lng": 20.9566842
-    }
-  },
-  {
-    "position": "233",
-    "name": "SZKOŁA PODSTAWOWA NR 28 IM. STEFANA ŻEROMSKIEGO",
-    "address": "ul. Gościeradowska 18/20",
-    "rating": "63,17",
-    "location": {
-      "lat": 52.2744401,
-      "lng": 21.0450873
-    }
-  },
-  {
-    "position": "234",
-    "name": "NIEPUBLICZNA PODSTAWOWA SZKOŁA MONTESSORI W WARSZAWIE",
-    "address": "ul. Henryka II Pobożnego 1",
-    "rating": "63,14",
-    "location": {
-      "lat": 52.1995534,
-      "lng": 20.8663504
-    }
-  },
-  {
-    "position": "235",
-    "name": "SZKOŁA PODSTAWOWA NR 138 Z ODDZIAŁAMI INTEGRACYJNYMI IM. JÓZEFA HORSTA",
-    "address": "ul. Mieczysława Pożaryskiego 2",
-    "rating": "62,9",
-    "location": {
-      "lat": 52.2029633,
-      "lng": 21.1805106
-    }
-  },
-  {
-    "position": "236",
-    "name": "SZKOŁA PODSTAWOWA NR 3 IM. DZIECI POWSTANIA WARSZAWSKIEGO",
-    "address": "ul. Gościniec 53",
-    "rating": "62,79",
-    "location": {
-      "lat": 52.211858,
-      "lng": 21.0735738
-    }
-  },
-  {
-    "position": "237",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 214 IM. STANISŁAWA SKRYPIJA",
-    "address": "ul. Antoniego Fontany 1",
-    "rating": "62,79",
-    "location": {
-      "lat": 52.2742318,
-      "lng": 20.9482889
-    }
-  },
-  {
-    "position": "238",
-    "name": "SZKOŁA PODSTAWOWA NR 76 IM. 13 DYWIZJI PIECHOTY STRZELCÓW KRESOWYCH",
-    "address": "ul. Poezji 5",
-    "rating": "62,08",
-    "location": {
-      "lat": 52.1557103,
-      "lng": 21.2027975
-    }
-  },
-  {
-    "position": "239",
-    "name": "SZKOŁA PODSTAWOWA NR 258 IM. GEN. JAKUBA JASIŃSKIEGO",
-    "address": "ul. Bertolta Brechta 8",
-    "rating": "61,85",
-    "location": {
-      "lat": 52.25966769999999,
-      "lng": 21.031868
-    }
-  },
-  {
-    "position": "240",
-    "name": "SZKOŁA PODSTAWOWA NR 98 Z ODDZIAŁAMI INTEGRACYJNYMI IM. LUCY MAUD MONTGOMERY",
-    "address": "ul. Artura Grottgera 22",
-    "rating": "61,79",
-    "location": {
-      "lat": 52.2053088,
-      "lng": 21.0281318
-    }
-  },
-  {
-    "position": "241",
-    "name": "SZKOŁA PODSTAWOWA NR 227 IM. KAPITANA LUCYNY HERTZ",
-    "address": "ul. Astronautów 17",
-    "rating": "61,57",
-    "location": {
-      "lat": 52.1842623,
-      "lng": 20.9733063
-    }
-  },
-  {
-    "position": "242",
-    "name": "SZKOŁA PODSTAWOWA NR 163 IM. BATALIONU \"ZOŚKA\"",
-    "address": "ul. Osiecka 28/32",
-    "rating": "61,09",
-    "location": {
-      "lat": 52.2376088,
-      "lng": 21.104824
-    }
-  },
-  {
-    "position": "243",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 189 IM. MARSZAŁAKA JÓZEFA PIŁSUDSKIEGO",
-    "address": "ul. Dwóch Mieczy 5",
-    "rating": "60,98",
-    "location": {
-      "lat": 52.2530461,
-      "lng": 21.1640965
-    }
-  },
-  {
-    "position": "244",
-    "name": "SZKOŁA PODSTAWOWA INTEGRACYJNA NR 317 IM. EDMUNDA BOJANOWSKIEGO",
-    "address": "ul. Deotymy 37",
-    "rating": "60,88",
-    "location": {
-      "lat": 52.24340309999999,
-      "lng": 20.9473584
-    }
-  },
-  {
-    "position": "245",
-    "name": "SZKOŁA PODSTAWOWA NR 119 IM. 3 BERLIŃSKIEGO PUŁKU PIECHOTY",
-    "address": "ul. Pułku AK \"Baszta\" 3",
-    "rating": "60,86",
-    "location": {
-      "lat": 52.1903683,
-      "lng": 21.0054095
-    }
-  },
-  {
-    "position": "246",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 223 IM. PARTYZANTÓW ZIEMI KIELECKIEJ",
-    "address": "ul. Jana Kasprowicza 107",
-    "rating": "60,81",
-    "location": {
-      "lat": 52.2844572,
-      "lng": 20.9423254
-    }
-  },
-  {
-    "position": "247",
-    "name": "SZKOŁA PODSTAWOWA NR 264 IM. GABRIELI MISTRAL W WARSZAWIE",
-    "address": "ul. Walentego Skorochód-Majewskiego 17",
-    "rating": "60,79",
-    "location": {
-      "lat": 52.2030081,
-      "lng": 20.9723489
-    }
-  },
-  {
-    "position": "248",
-    "name": "SZKOŁA PODSTAWOWA NR 371 IM. SANDRO PERTINIEGO",
-    "address": "ul. Jana III Sobieskiego 68",
-    "rating": "60,3",
-    "location": {
-      "lat": 52.1849471,
-      "lng": 21.0555473
-    }
-  },
-  {
-    "position": "249",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 216 \"KLONOWEGO LIŚCIA\"",
-    "address": "ul. Wolna 36/38",
-    "rating": "60,28",
-    "location": {
-      "lat": 52.1703513,
-      "lng": 21.2158917
-    }
-  },
-  {
-    "position": "250",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 61 IM. JULIANA PRZYBOSIA W WARSZAWIE",
-    "address": "ul. Białobrzeska 27",
-    "rating": "59,9",
-    "location": {
-      "lat": 52.215157,
-      "lng": 20.9743411
-    }
-  },
-  {
-    "position": "251",
-    "name": "SZKOŁA PODSTAWOWA NR 246 IM. I WARSZAWSKIEJ DYWIZJI PIECHOTY IM. TADEUSZA KOŚCIUSZKI",
-    "address": "ul. Białowieska 22",
-    "rating": "59,48",
-    "location": {
-      "lat": 52.23820019999999,
-      "lng": 21.0925004
-    }
-  },
-  {
-    "position": "252",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 30 IM. POWSTAŃCÓW 1863 R. W WARSZAWIE",
-    "address": "ul. Kawęczyńska 2",
-    "rating": "59,38",
-    "location": {
-      "lat": 52.2550155,
-      "lng": 21.0495075
-    }
-  },
-  {
-    "position": "253",
-    "name": "SZKOŁA PODSTAWOWA NR 210 IM. BOHATERÓW PAWIAKA",
-    "address": "ul. Karmelicka 13",
-    "rating": "59,26",
-    "location": {
-      "lat": 52.2468802,
-      "lng": 20.9922672
-    }
-  },
-  {
-    "position": "254",
-    "name": "SZKOŁA PODSTAWOWA NR 206 Z ODDZIAŁAMI INTEGRACYJNYMI IM. WŁADYSŁAWA REYMONTA",
-    "address": "ul. Bartnicza 2",
-    "rating": "59,08",
-    "location": {
-      "lat": 52.2861089,
-      "lng": 21.0237773
-    }
-  },
-  {
-    "position": "255",
-    "name": "SZKOŁA PODSTAWOWA NR 271 IM. 11 LISTOPADA",
-    "address": "ul. Niegocińska 2",
-    "rating": "58,77",
-    "location": {
-      "lat": 52.1741918,
-      "lng": 21.0086941
-    }
-  },
-  {
-    "position": "256",
-    "name": "SZKOŁA PODSTAWOWA NR 48 IMIENIA ADAMA PRÓCHNIKA",
-    "address": "ul. Stefanii Sempołowskiej 4",
-    "rating": "58,73",
-    "location": {
-      "lat": 52.2189267,
-      "lng": 21.0202611
-    }
-  },
-  {
-    "position": "257",
-    "name": "SZKOŁA PODSTAWOWA NR 97 IM. LEONA KRUCZKOWSKIEGO W WARSZAWIE",
-    "address": "ul. Spiska 1",
-    "rating": "58,63",
-    "location": {
-      "lat": 52.2216748,
-      "lng": 20.9839958
-    }
-  },
-  {
-    "position": "258",
-    "name": "SZKOŁA PODSTAWOWA NR 273 IM. DR. ALEKSANDRA LANDY W WARSZAWIE, SZKOŁA FILIALNA W WARSZAWIE",
-    "address": "ul. Arkuszowa 202",
-    "rating": "57,97",
-    "location": {
-      "lat": 52.2875942,
-      "lng": 20.8774391
-    }
-  },
-  {
-    "position": "259",
-    "name": "SZKOŁA PODSTAWOWA NR 191 IM. JÓZEFA IGNACEGO KRASZEWSKIEGO",
-    "address": "ul. Bokserska 30",
-    "rating": "57,82",
-    "location": {
-      "lat": 52.168209,
-      "lng": 21.005328
-    }
-  },
-  {
-    "position": "260",
-    "name": "SZKOŁA PODSTAWOWA NR 25 IM. KOMISJI EDUKACJI NARODOWEJ",
-    "address": "ul. Grzybowska 35",
-    "rating": "57,43",
-    "location": {
-      "lat": 52.2352304,
-      "lng": 20.9951468
-    }
-  },
-  {
-    "position": "261",
-    "name": "SPOŁECZNA SZKOŁA PODSTAWOWA FUNDACJI \"ALTEREDU\"",
-    "address": "ul. Karmelicka 26",
-    "rating": "57,42",
-    "location": {
-      "lat": 52.2508942,
-      "lng": 20.9897922
-    }
-  },
-  {
-    "position": "261",
-    "name": "SZKOŁA PODSTAWOWA NR 195 IM. KRÓLA MACIUSIA I",
-    "address": "ul. Króla Maciusia 5",
-    "rating": "57,42",
-    "location": {
-      "lat": 52.238499,
-      "lng": 21.1424759
-    }
-  },
-  {
-    "position": "262",
-    "name": "SZKOŁA PODSTAWOWA SPORTOWA NR 272 IM. EUGENIUSZA LOKAJSKIEGO",
-    "address": "ul. Piaseczyńska 114/116",
-    "rating": "57,04",
-    "location": {
-      "lat": 52.1989392,
-      "lng": 21.0328562
-    }
-  },
-  {
-    "position": "263",
-    "name": "SZKOŁA PODSTAWOWA NR 72 IM. PRZYJACIÓŁ GROCHOWA",
-    "address": "ul. Ludwika Michała Paca 44",
-    "rating": "56,85",
-    "location": {
-      "lat": 52.2491803,
-      "lng": 21.0815607
-    }
-  },
-  {
-    "position": "264",
-    "name": "SZKOŁA PODSTAWOWA NR 174 Z ODDZIAŁAMI INTEGRACYJNYMI IM. TADEUSZA KOŚCIUSZKI",
-    "address": "pl. Plac Wojska Polskiego 28",
-    "rating": "56,78",
-    "location": {
-      "lat": 52.25586699999999,
-      "lng": 21.2305679
-    }
-  },
-  {
-    "position": "265",
-    "name": "SZKOŁA PODSTAWOWA NR 132 IM. SÁNDORA PETŐFIEGO",
-    "address": "ul. Grabowska 1",
-    "rating": "56,15",
-    "location": {
-      "lat": 52.2285769,
-      "lng": 20.9533481
-    }
-  },
-  {
-    "position": "266",
-    "name": "SZKOŁA PODSTAWOWA NR 260 IM. JANA MATEJKI",
-    "address": "ul. Zakrzewska 24 B",
-    "rating": "55,3",
-    "location": {
-      "lat": 52.2052092,
-      "lng": 21.0403567
-    }
-  },
-  {
-    "position": "267",
-    "name": "SZKOŁA PODSTAWOWA NR 26 IM. MIROSŁAWA BIERNACKIEGO",
-    "address": "ul. Miedziana 8",
-    "rating": "54,28",
-    "location": {
-      "lat": 52.2289057,
-      "lng": 20.9909856
-    }
-  },
-  {
-    "position": "268",
-    "name": "SZKOŁA PODSTAWOWA NR 254 IM. GEN FRANCISZKA ŻYMIRSKIEGO W ZESPOLE SZKÓŁ NR 74",
-    "address": "ul. Niepołomicka 26",
-    "rating": "54,05",
-    "location": {
-      "lat": 52.2469538,
-      "lng": 21.1358376
-    }
-  },
-  {
-    "position": "269",
-    "name": "SZKOŁA PODSTAWOWA NR 236 Z ODDZIAŁAMI INTEGRACYJNYMI IM. IRENY SENDLEROWEJ",
-    "address": "ul. Elekcyjna 21/23",
-    "rating": "53,82",
-    "location": {
-      "lat": 52.2342695,
-      "lng": 20.9474018
-    }
-  },
-  {
-    "position": "270",
-    "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 83",
-    "address": "ul. Wacława Lachmana 2",
-    "rating": "53,78",
-    "location": {
-      "lat": 52.1572938,
-      "lng": 21.042037
-    }
-  },
-  {
-    "position": "271",
-    "name": "SZKOŁA PODSTAWOWA NR 60 IM. POWSTANIA LISTOPADOWEGO",
-    "address": "ul. Zbaraska 3",
-    "rating": "53,69",
-    "location": {
-      "lat": 52.24395680000001,
-      "lng": 21.0723616
-    }
-  },
-  {
-    "position": "272",
-    "name": "SZKOŁA PODSTAWOWA NR 388 IM. JANA PAWŁA II",
-    "address": "ul. Deotymy 25/33",
-    "rating": "53,63",
-    "location": {
-      "lat": 52.2421255,
-      "lng": 20.9467572
-    }
-  },
-  {
-    "position": "272",
-    "name": "SZKOŁA PODSTAWOWA NR 148 IM. HUGONA KOŁŁĄTAJA",
-    "address": "ul. Ożarowska 69",
-    "rating": "51,63",
-    "location": {
-      "lat": 52.2461287,
-      "lng": 20.9505703
-    }
-  },
-  {
-    "position": "273",
-    "name": "SZKOŁA PODSTAWOWA NR 273 IM. DR. ALEKSANDRA LANDY",
-    "address": "ul. Józefa Balcerzaka 1",
-    "rating": "50,84",
-    "location": {
-      "lat": 52.292694,
-      "lng": 20.9339665
-    }
-  },
-  {
-    "position": "274",
-    "name": "SZKOŁA PODSTAWOWA NR 395 IM. ROTMISTRZA WITOLDA PILECKIEGO",
-    "address": "ul. Józefa Sierakowskiego 9",
-    "rating": "50,5",
-    "location": {
-      "lat": 52.2504893,
-      "lng": 21.0308916
-    }
-  },
-  {
-    "position": "275",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 73 IM. KRÓLA STEFANA BATOREGO W WARSZAWIE",
-    "address": "ul. Białostocka 10/18",
-    "rating": "50,39",
-    "location": {
-      "lat": 52.2540102,
-      "lng": 21.039295
-    }
-  },
-  {
-    "position": "276",
-    "name": "SZKOŁA PODSTAWOWA NR 63 IM. ZAWISZY CZARNEGO",
-    "address": "ul. Płocka 30",
-    "rating": "49,4",
-    "location": {
-      "lat": 52.2381863,
-      "lng": 20.9661296
-    }
-  },
-  {
-    "position": "277",
-    "name": "SZKOŁA PODSTAWOWA NR 377 IM. MAJORA HENRYKA DOBRZAŃSKIEGO \"HUBALA\" W WARSZAWIE",
-    "address": "ul. Trocka 4",
-    "rating": "49,36",
-    "location": {
-      "lat": 52.2749399,
-      "lng": 21.0601974
-    }
-  },
-  {
-    "position": "278",
-    "name": "SZKOŁA PODSTAWOWA NR 202 IM. 34 PUŁKU STRZELCÓW BUDZISZYŃSKICH",
-    "address": "ul. Jana Bytnara \"Rudego\" 19",
-    "rating": "48,94",
-    "location": {
-      "lat": 52.1924092,
-      "lng": 21.0061159
-    }
-  },
-  {
-    "position": "278",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 354 IM. ADAMA ASNYKA",
-    "address": "ul. Otwocka 3",
-    "rating": "48,93",
-    "location": {
-      "lat": 52.2593132,
-      "lng": 21.0573295
-    }
-  },
-  {
-    "position": "279",
-    "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 247 IM. KAZIMIERZA LISIECKIEGO \"DZIADKA\"",
-    "address": "ul. Wrzeciono 9",
-    "rating": "48,65",
-    "location": {
-      "lat": 52.28939459999999,
-      "lng": 20.9381801
-    }
-  },
-  {
-    "position": "280",
-    "name": "SZKOŁA PODSTAWOWA NR 127 IM. HENRYKA SIENKIEWICZA W WARSZAWIE",
-    "address": "ul. Kowieńska 12/20",
-    "rating": "47,97",
-    "location": {
-      "lat": 52.2633283,
-      "lng": 21.041605
-    }
-  },
-  {
-    "position": "281",
-    "name": "SZKOŁA PODSTAWOWA NR 58 IM. TADEUSZA GAJCEGO W WARSZAWIE",
-    "address": "ul. Mieszka I 7",
-    "rating": "36,48",
-    "location": {
-      "lat": 52.267516,
-      "lng": 21.069191
-    }
-  },
-  {
-    "position": "282",
-    "name": "SZKOŁA PODSTAWOWA SPECJALNA NR 167",
-    "address": "ul. św. Bonifacego 81",
-    "rating": "35,89",
-    "location": {
-      "lat": 52.1846386,
-      "lng": 21.0595281
-    }
-  },
-  {
-    "position": "283",
-    "name": "SZKOŁA PODSTAWOWA NR 174 MAŁE DZIEŁO BOSKIEJ OPATRZNOŚCI - ORIONIŚCI",
-    "address": "ul. Barska 4",
-    "rating": "34,98",
-    "location": {
-      "lat": 52.2194708,
-      "lng": 20.9818413
-    }
-  },
-  {
-    "position": "284",
-    "name": "SZKOŁA PODSTAWOWA SPECJALNA NR 348 W MŁODZIEŻOWYM OŚRODKU SOCJOTERAPII NR 7",
-    "address": "ul. Osowska 81",
-    "rating": "34,91",
-    "location": {
-      "lat": 52.2465306,
-      "lng": 21.0939465
-    }
-  },
-  {
-    "position": "285",
-    "name": "SZKOŁA PODSTAWOWA SPECJALNA NR 331",
-    "address": "ul. Jana Brożka 26",
-    "rating": "34,83",
-    "location": {
-      "lat": 52.2417266,
-      "lng": 20.9354381
-    }
-  },
-  {
-    "position": "286",
-    "name": "SZKOŁA PODSTAWOWA NR 224 DLA DOROSŁYCH",
-    "address": "ul. Mińska 1/5",
-    "rating": "33,94",
-    "location": {
-      "lat": 52.2482301,
-      "lng": 21.0545769
-    }
-  },
-  {
-    "position": "287",
-    "name": "SZKOŁA PODSTAWOWA NR 166 IM. ŻWIRKI I WIGURY",
-    "address": "ul. Żytnia 40",
-    "rating": "31,44",
-    "location": {
-      "lat": 52.2400262,
-      "lng": 20.9739939
-    }
-  },
-  {
-    "position": "288",
-    "name": "SZKOŁA PODSTAWOWA SPECJALNA NR 131",
-    "address": "ul. Strażacka 57",
-    "rating": "29,28",
-    "location": {
-      "lat": 52.2596447,
-      "lng": 21.1325697
-    }
-  },
-  {
-    "position": "289",
-    "name": "SZKOŁA PODSTAWOWA NR 394",
-    "address": "ul. Mahatmy Gandhiego 13",
-    "rating": "29,22",
-    "location": {
-      "lat": 52.1936469,
-      "lng": 21.0082492
-    }
-  },
-  {
-    "position": "290",
-    "name": "SZKOŁA PODSTAWOWA SPECJALNA NR 201",
-    "address": "ul. Dolna 19",
-    "rating": "27,42",
-    "location": {
-      "lat": 52.2006525,
-      "lng": 21.0302973
-    }
-  },
-  {
-    "position": "291",
-    "name": "SZKOŁA PODSTAWOWA DLA DOROSŁYCH NR 390",
-    "address": "ul. Księcia Janusza 45/47",
-    "rating": "24,33",
-    "location": {
-      "lat": 52.2445161,
-      "lng": 20.9395219
-    }
-  },
-  {
-    "position": "292",
-    "name": "SZKOŁA PODSTAWOWA SPECJALNA NR 137",
-    "address": "ul. Patriotów 90",
-    "rating": "24,1",
-    "location": {
-      "lat": 52.1707718,
-      "lng": 21.203147
-    }
-  },
-  {
-    "position": "293",
-    "name": "SZKOŁA PODSTAWOWA DLA DOROSŁYCH NR 372 W WARSZAWIE",
-    "address": "ul. Szczęśliwicka 50/54",
-    "rating": "23,48",
-    "location": {
-      "lat": 52.2157677,
-      "lng": 20.9679145
-    }
-  }
-]
+{
+  "schools": [
+    {
+      "position": "1",
+      "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 92",
+      "address": "ul. Patriotów 347",
+      "rating": 93.53,
+      "location": {
+        "lat": 52.2100055,
+        "lng": 21.1619526
+      },
+      "id": 1
+    },
+    {
+      "position": "2",
+      "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 81 FUNDACJI \"RODZICE DZIECIOM\"",
+      "address": "ul. Ludwika Krzywickiego 30",
+      "rating": 92.41,
+      "location": {
+        "lat": 52.2192412,
+        "lng": 21.0000982
+      },
+      "id": 2
+    },
+    {
+      "position": "3",
+      "name": "SZKOŁA PODSTAWOWA PRZY SPOŁECZNYM LICEUM OGÓLNOKSZTAŁCĄCYM NR 4 IM. BATALIONU AK \"PARASOL\"",
+      "address": "ul. Hawajska 14a",
+      "rating": 91.19,
+      "location": {
+        "lat": 52.1508943,
+        "lng": 21.0411672
+      },
+      "id": 3
+    },
+    {
+      "position": "4",
+      "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 6 SIÓSTR NIEPOKALANEK IM. BŁ. M. MARCELINY DAROWSKIEJ",
+      "address": "ul. Jerzego Zaruby 2",
+      "rating": 90.86,
+      "location": {
+        "lat": 52.1277925,
+        "lng": 21.0758051
+      },
+      "id": 4
+    },
+    {
+      "position": "5",
+      "name": "SZKOŁA PODSTAWOWA NR 9 SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
+      "address": "ul. Wiolinowa 6",
+      "rating": 90.57,
+      "location": {
+        "lat": 52.1591355,
+        "lng": 21.0277262
+      },
+      "id": 5
+    },
+    {
+      "position": "6",
+      "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 51 IM. JANA BRZECHWY",
+      "address": "ul. Harfowa 2",
+      "rating": 88.96,
+      "location": {
+        "lat": 52.2001694,
+        "lng": 20.9651999
+      },
+      "id": 6
+    },
+    {
+      "position": "7",
+      "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 10 IM.KARDYNAŁA STEFANA WYSZYŃSKIEGO SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
+      "address": "ul. Ostrobramska 72",
+      "rating": 88.77,
+      "location": {
+        "lat": 52.2355439,
+        "lng": 21.1118328
+      },
+      "id": 7
+    },
+    {
+      "position": "8",
+      "name": "SPOŁECZNA SZKOŁA PODSTAWOWA INTEGRACYJNA NR 100 SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
+      "address": "ul. Wolumen 3",
+      "rating": 88.69,
+      "location": {
+        "lat": 52.284392,
+        "lng": 20.9395112
+      },
+      "id": 8
+    },
+    {
+      "position": "9",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI DWUJĘZYCZNYMI NR 20 IM. JANA GUTENBERGA FUNDACJI SZKOLNEJ W WARSZAWIE",
+      "address": "ul. Obrzeżna 12a",
+      "rating": 88.58,
+      "location": {
+        "lat": 52.172207,
+        "lng": 21.0002989
+      },
+      "id": 9
+    },
+    {
+      "position": "10",
+      "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 30 SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
+      "address": "ul. Astronautów 11",
+      "rating": 88.12,
+      "location": {
+        "lat": 52.1827216,
+        "lng": 20.974129
+      },
+      "id": 10
+    },
+    {
+      "position": "11",
+      "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 4 IM. WŁADYSŁAWA GRABSKIEGO SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
+      "address": "ul. Traktorzystów 16",
+      "rating": 87.99,
+      "location": {
+        "lat": 52.1984669,
+        "lng": 20.8892533
+      },
+      "id": 11
+    },
+    {
+      "position": "12",
+      "name": "SZKOŁA PODSTAWOWA NR 369 IM. ANTONIEGO BOLESŁAWA DOBROWOLSKIEGO",
+      "address": "ul. Stanisława Przybyszewskiego 45",
+      "rating": 87.59,
+      "location": {
+        "lat": 52.2766568,
+        "lng": 20.9405905
+      },
+      "id": 12
+    },
+    {
+      "position": "13",
+      "name": "DWUJĘZYCZNA SZKOŁA PODSTAWOWA NR 1",
+      "address": "ul. Wspólna 55",
+      "rating": 87.54,
+      "location": {
+        "lat": 52.24857050000001,
+        "lng": 21.194443
+      },
+      "id": 13
+    },
+    {
+      "position": "14",
+      "name": "SZKOŁA PODSTAWOWA NR 3 PRZYMIERZA RODZIN IM. BŁOGOSŁAWIONEGO KS. JERZEGO POPIEŁUSZKI",
+      "address": "ul. Tomasza Nocznickiego 7",
+      "rating": 87.36,
+      "location": {
+        "lat": 52.2964366,
+        "lng": 20.9381538
+      },
+      "id": 14
+    },
+    {
+      "position": "15",
+      "name": "NIEPUBLICZNA SZKOŁA PODSTAWOWA NR 47 IM. ROBERTA SCHUMANA FUNDACJI \"PRIMUS\"",
+      "address": "ul. płk. Zoltána Baló 1",
+      "rating": 87.31,
+      "location": {
+        "lat": 52.132819,
+        "lng": 21.0614221
+      },
+      "id": 15
+    },
+    {
+      "position": "16",
+      "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 14 IM. DZIECI ZJEDNOCZONEJ EUROPY SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
+      "address": "ul. Bachmacka 3",
+      "rating": 87.3,
+      "location": {
+        "lat": 52.1939697,
+        "lng": 21.0049972
+      },
+      "id": 16
+    },
+    {
+      "position": "17",
+      "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 1 IM. JANA NOWAKA-JEZIORAŃSKIEGO",
+      "address": "ul. Nowoursynowska 139 U",
+      "rating": 87.1,
+      "location": {
+        "lat": 52.1500859,
+        "lng": 21.060262
+      },
+      "id": 17
+    },
+    {
+      "position": "18",
+      "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 63 IMIENIA WISŁAWY SZYMBORSKIEJ W WARSZAWIE",
+      "address": "ul. Wał Miedzeszyński 141",
+      "rating": 86.54,
+      "location": {
+        "lat": 52.161504,
+        "lng": 21.16666
+      },
+      "id": 18
+    },
+    {
+      "position": "19",
+      "name": "SZKOŁA PODSTAWOWA SIÓSTR FELICJANEK NR 28 IM. BŁ. MARII ANGELI TRUSZKOWSKIEJ",
+      "address": "ul. Azaliowa 10",
+      "rating": 86.52,
+      "location": {
+        "lat": 52.2371734,
+        "lng": 21.1537312
+      },
+      "id": 19
+    },
+    {
+      "position": "20",
+      "name": "PRYWATNA ŻEŃSKA SZKOŁA PODSTAWOWA Z ODDZIAŁAMI DWUJĘZYCZNYMI IM. CECYLII PLATER-ZYBERKÓWNY",
+      "address": "ul. Piękna 24/26",
+      "rating": 86.17,
+      "location": {
+        "lat": 52.22355169999999,
+        "lng": 21.0180924
+      },
+      "id": 20
+    },
+    {
+      "position": "21",
+      "name": "SZKOŁA PODSTAWOWA NR 112 PRZYMIERZA RODZIN IM. JANA PAWŁA II",
+      "address": "ul. Marii Grzegorzewskiej 10",
+      "rating": 86.07,
+      "location": {
+        "lat": 52.1515554,
+        "lng": 21.0562953
+      },
+      "id": 21
+    },
+    {
+      "position": "22",
+      "name": "SZKOŁA PODSTAWOWA NR 24 SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
+      "address": "ul. Powstańców Śląskich 67a",
+      "rating": 86.06,
+      "location": {
+        "lat": 52.2342655,
+        "lng": 20.9117634
+      },
+      "id": 22
+    },
+    {
+      "position": "23",
+      "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 2 IM. POLSKICH MATEMATYKÓW ZWYCIĘZCÓW ENIGMY SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
+      "address": "ul. Dziatwy 6",
+      "rating": 85.87,
+      "location": {
+        "lat": 52.3306865,
+        "lng": 20.9691897
+      },
+      "id": 23
+    },
+    {
+      "position": "24",
+      "name": "PUBLICZNA SZKOŁA PODSTAWOWA SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
+      "address": "al. Aleja Sztandarów 2",
+      "rating": 85.7,
+      "location": {
+        "lat": 52.2653514,
+        "lng": 21.170211
+      },
+      "id": 24
+    },
+    {
+      "position": "25",
+      "name": "KATOLICKA SZKOŁA PODSTAWOWA NR 7 IM. KS. KARD. STEFANA WYSZYŃSKIEGO",
+      "address": "ul. Ogrodowa 3a",
+      "rating": 85.63,
+      "location": {
+        "lat": 52.2397141,
+        "lng": 20.9940295
+      },
+      "id": 25
+    },
+    {
+      "position": "26",
+      "name": "NIEPUBLICZNA SZKOŁA PODSTAWOWA \"NASZA SZKOŁA\" IM. JANUSZA KORCZAKA W WARSZAWIE",
+      "address": "ul. Liczydło 3",
+      "rating": 85.51,
+      "location": {
+        "lat": 52.313828,
+        "lng": 20.979863
+      },
+      "id": 26
+    },
+    {
+      "position": "27",
+      "name": "OGÓLNOKSZTAŁCĄCA SZKOŁA MUZYCZNA I ST. IM. STANISŁAWA MONIUSZKI W WARSZAWIE",
+      "address": "ul. Kawęczyńska 23",
+      "rating": 85.24,
+      "location": {
+        "lat": 52.2567348,
+        "lng": 21.0541058
+      },
+      "id": 27
+    },
+    {
+      "position": "28",
+      "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 62 IM. JOANNY KOLASIŃSKIEJ",
+      "address": "ul. Skrajna 10",
+      "rating": 84.98,
+      "location": {
+        "lat": 52.2940087,
+        "lng": 21.0203663
+      },
+      "id": 28
+    },
+    {
+      "position": "29",
+      "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 98 \"DIDASKO\"",
+      "address": "ul. Terespolska 19",
+      "rating": 84.9,
+      "location": {
+        "lat": 52.2499067,
+        "lng": 21.0696871
+      },
+      "id": 29
+    },
+    {
+      "position": "30",
+      "name": "PODSTAWOWA SZKOŁA MIĘDZYNARODOWA/THE INTERNATIONAL SCHOOL",
+      "address": "ul. Jagielska 2",
+      "rating": 84.75,
+      "location": {
+        "lat": 52.1122147,
+        "lng": 21.03999
+      },
+      "id": 30
+    },
+    {
+      "position": "31",
+      "name": "KATOLICKA SZKOŁA PODSTAWOWA IM. KS. PIOTRA SKARGI",
+      "address": "ul. Józefa Bema 73/75",
+      "rating": 84.63,
+      "location": {
+        "lat": 52.2272827,
+        "lng": 20.9584556
+      },
+      "id": 31
+    },
+    {
+      "position": "32",
+      "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 16 SPOŁECZNEGOTOWARZYSTWA OŚWIATOWEGO",
+      "address": "al. Aleja \"Solidarności\" 113c",
+      "rating": 84.61,
+      "location": {
+        "lat": 52.2417111,
+        "lng": 20.9957828
+      },
+      "id": 32
+    },
+    {
+      "position": "33",
+      "name": "NIEPUBLICZNA SZKOŁA PODSTAWOWA IM. JULIUSZA VERNE'A",
+      "address": "ul. Marymoncka 34",
+      "rating": 84.26,
+      "location": {
+        "lat": 52.2845092,
+        "lng": 20.9572562
+      },
+      "id": 33
+    },
+    {
+      "position": "34",
+      "name": "DWUJĘZYCZNA SPOŁECZNA SZKOŁA PODSTAWOWA NR 5 IMIENIA ZAWISZY CZARNEGO SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
+      "address": "ul. Paryska 25",
+      "rating": 84.19,
+      "location": {
+        "lat": 52.22885059999999,
+        "lng": 21.0573055
+      },
+      "id": 34
+    },
+    {
+      "position": "35",
+      "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 41 EDU BENE",
+      "address": "ul. Świętojerska 24",
+      "rating": 84.18,
+      "location": {
+        "lat": 52.249651,
+        "lng": 20.9996109
+      },
+      "id": 35
+    },
+    {
+      "position": "36",
+      "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 26 IM. PROF. JIGORO KANO SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
+      "address": "ul. Puławska 97b",
+      "rating": 83.48,
+      "location": {
+        "lat": 52.1987326,
+        "lng": 21.0258085
+      },
+      "id": 36
+    },
+    {
+      "position": "37",
+      "name": "PRYWATNA MĘSKA SZKOŁA PODSTAWOWA IM. CECYLII PLATER-ZYBERKÓWNY",
+      "address": "ul. Piękna 24",
+      "rating": 83.23,
+      "location": {
+        "lat": 52.22355169999999,
+        "lng": 21.0180924
+      },
+      "id": 37
+    },
+    {
+      "position": "38",
+      "name": "OGÓLNOKSZTAŁCĄCA SZKOŁA MUZYCZNA II ST. IM. ZENONA BRZEWSKIEGO W WARSZAWIE",
+      "address": "ul. Rakowiecka 21",
+      "rating": 83.14,
+      "location": {
+        "lat": 52.2085318,
+        "lng": 21.0159165
+      },
+      "id": 38
+    },
+    {
+      "position": "39",
+      "name": "\"ŻAGLE\" SZKOŁA PODSTAWOWA STOWARZYSZENIA STERNIK",
+      "address": "ul. Mieczysława Pożaryskiego 28",
+      "rating": 83.02,
+      "location": {
+        "lat": 52.2071441,
+        "lng": 21.1739217
+      },
+      "id": 39
+    },
+    {
+      "position": "40",
+      "name": "KATOLICKA SZKOŁA PODSTAWOWA IM. HELENY KMIEĆ FUNDACJI NA RZECZ RODZINY",
+      "address": "ul. Przy Bażantarni 3",
+      "rating": 82.96,
+      "location": {
+        "lat": 52.1370132,
+        "lng": 21.065385
+      },
+      "id": 40
+    },
+    {
+      "position": "41",
+      "name": "SZKOŁA PODSTAWOWA NR 363 IM. PROF. WITOLDA DOROSZEWSKIEGO",
+      "address": "ul. Rozłogi 10",
+      "rating": 82.85,
+      "location": {
+        "lat": 52.22397059999999,
+        "lng": 20.9004148
+      },
+      "id": 41
+    },
+    {
+      "position": "42",
+      "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 11 SPOŁECZNEGO TOWARZYSTWA OŚWIATOWEGO",
+      "address": "ul. Toruńska 23",
+      "rating": 82.74,
+      "location": {
+        "lat": 52.29559580000001,
+        "lng": 21.0166909
+      },
+      "id": 42
+    },
+    {
+      "position": "43",
+      "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 13 Z ODDZIAŁAMI DWUJĘZYCZNYMI IM. LOTNIKÓW AMERYKAŃSKICH",
+      "address": "ul. Kazimierza Wóycickiego 1/3",
+      "rating": 82.38,
+      "location": {
+        "lat": 52.3111652,
+        "lng": 20.9168183
+      },
+      "id": 43
+    },
+    {
+      "position": "44",
+      "name": "SZKOŁA PODSTAWOWA NR 2 PRZYMIERZA RODZIN IM. KS. JANA TWARDOWSKIEGO",
+      "address": "ul. Racławicka 14",
+      "rating": 82.32,
+      "location": {
+        "lat": 52.1995356,
+        "lng": 21.0196312
+      },
+      "id": 44
+    },
+    {
+      "position": "45",
+      "name": "MULTISCHOOL INTERNATIONAL SCHOOL SZKOŁA PODSTAWOWA",
+      "address": "ul. Niedźwiedzia 46",
+      "rating": 82.11,
+      "location": {
+        "lat": 52.1772402,
+        "lng": 21.0200634
+      },
+      "id": 45
+    },
+    {
+      "position": "46",
+      "name": "SZKOŁA PODSTAWOWA NIEPUBLICZNA NR 74 IM. BŁOGOSŁAWIONEGO HONORATA KOŹMIŃSKIEGO",
+      "address": "ul. Władysława Smoleńskiego 31",
+      "rating": 81.92,
+      "location": {
+        "lat": 52.279623,
+        "lng": 20.9627877
+      },
+      "id": 46
+    },
+    {
+      "position": "47",
+      "name": "SZKOŁA PODSTAWOWA ZAKONU PIJARÓW IM. O. ONUFREGO KOPCZYŃSKIEGO W WARSZAWIE",
+      "address": "ul. Gwintowa 3",
+      "rating": 81.73,
+      "location": {
+        "lat": 52.20818999999999,
+        "lng": 21.0825266
+      },
+      "id": 47
+    },
+    {
+      "position": "48",
+      "name": "SZKOŁA PODSTAWOWA NIEPUBLICZNA IM. \"WIKTORII WIEDEŃSKIEJ\" FUNDACJI EDUKACYJNEJ \"VARSOVIA\"",
+      "address": "ul. Kolegiacka 1",
+      "rating": 81.43,
+      "location": {
+        "lat": 52.16649220000001,
+        "lng": 21.0881705
+      },
+      "id": 48
+    },
+    {
+      "position": "49",
+      "name": "NIEPUBLICZNA SZKOŁA PODSTAWOWA WARSAW MONTESSORI SCHOOL",
+      "address": "ul. Szwoleżerów 4",
+      "rating": 81.41,
+      "location": {
+        "lat": 52.21655,
+        "lng": 21.0426459
+      },
+      "id": 49
+    },
+    {
+      "position": "50",
+      "name": "PAŃSTWOWA OGÓLNOKSZTAŁCĄCA SZKOŁA MUZYCZNA II ST. W WARSZAWIE",
+      "address": "ul. Eustachego Tyszkiewicza 42",
+      "rating": 81.31,
+      "location": {
+        "lat": 52.2419113,
+        "lng": 20.9675786
+      },
+      "id": 50
+    },
+    {
+      "position": "51",
+      "name": "SZKOŁA PODSTAWOWA TOWARZYSTWA EDUKACYJNEGO VIZJA",
+      "address": "ul. Patriotów 148",
+      "rating": 81.13,
+      "location": {
+        "lat": 52.1820002,
+        "lng": 21.1926012
+      },
+      "id": 51
+    },
+    {
+      "position": "52",
+      "name": "SZKOŁA PODSTAWOWA NR 389 IM. STEFANA STARZYŃSKIEGO",
+      "address": "ul. Smocza 19",
+      "rating": 81.06,
+      "location": {
+        "lat": 52.24722850000001,
+        "lng": 20.9839595
+      },
+      "id": 52
+    },
+    {
+      "position": "53",
+      "name": "SZKOŁA PODSTAWOWA NIEPUBLICZNA NR 49",
+      "address": "ul. Jana Sebastiana Bacha 2",
+      "rating": 80.8,
+      "location": {
+        "lat": 52.1727475,
+        "lng": 21.0327755
+      },
+      "id": 53
+    },
+    {
+      "position": "54",
+      "name": "SZKOŁA PODSTAWOWA NR 373 IM. IGNACEGO JANA PADEREWSKIEGO",
+      "address": "ul. Angorska 2",
+      "rating": 80.71,
+      "location": {
+        "lat": 52.2375145,
+        "lng": 21.0577687
+      },
+      "id": 54
+    },
+    {
+      "position": "55",
+      "name": "SZKOŁA PODSTAWOWA NR 16 IM. TONY HALIKA",
+      "address": "ul. Wilczy Dół 4",
+      "rating": 80.69,
+      "location": {
+        "lat": 52.128578,
+        "lng": 21.0576911
+      },
+      "id": 55
+    },
+    {
+      "position": "56",
+      "name": "SZKOŁA PODSTAWOWA SIÓSTR NAZARETANEK Z ODDZIAŁAMI DWUJĘZYCZNYMI",
+      "address": "ul. Czerniakowska 137",
+      "rating": 80.51,
+      "location": {
+        "lat": 52.2104501,
+        "lng": 21.0466694
+      },
+      "id": 56
+    },
+    {
+      "position": "57",
+      "name": "SZKOŁA PODSTAWOWA NR 367 IM. POLSKICH NOBLISTÓW",
+      "address": "ul. Przytulna 3",
+      "rating": 80.26,
+      "location": {
+        "lat": 52.357029,
+        "lng": 20.9832049
+      },
+      "id": 57
+    },
+    {
+      "position": "58",
+      "name": "SZKOŁA PODSTAWOWA MONTESSORI IM. ŚW. URSZULI LEDÓCHOWSKIEJ",
+      "address": "ul. Czerniakowska 128",
+      "rating": 80.12,
+      "location": {
+        "lat": 52.21797189999999,
+        "lng": 21.046372
+      },
+      "id": 58
+    },
+    {
+      "position": "58",
+      "name": "BEDNARSKA SZKOŁA PODSTAWOWA",
+      "address": "ul. Kawalerii 5",
+      "rating": 80.12,
+      "location": {
+        "lat": 52.2177266,
+        "lng": 21.0397656
+      },
+      "id": 59
+    },
+    {
+      "position": "59",
+      "name": "SZKOŁA PODSTAWOWA NR 340 IM. PROFESORA BOGUSŁAWA MOLSKIEGO",
+      "address": "ul. Eugeniusza Lokajskiego 3",
+      "rating": 80.05,
+      "location": {
+        "lat": 52.1396865,
+        "lng": 21.0632194
+      },
+      "id": 60
+    },
+    {
+      "position": "60",
+      "name": "WARSAW BILINGUAL SCHOOL DWUJĘZYCZNA SZKOŁA PODSTAWOWA IM. PROFESORA WŁADYSŁAWA BARTOSZEWSKIEGO",
+      "address": "ul. Radarowa 6",
+      "rating": 79.91,
+      "location": {
+        "lat": 52.191303,
+        "lng": 20.9656393
+      },
+      "id": 61
+    },
+    {
+      "position": "61",
+      "name": "SZKOŁA PODSTAWOWA NR 303 IM. FRYDERYKA CHOPINA",
+      "address": "ul. Koncertowa 8",
+      "rating": 79.89,
+      "location": {
+        "lat": 52.1650281,
+        "lng": 21.0300876
+      },
+      "id": 62
+    },
+    {
+      "position": "62",
+      "name": "SZKOŁA PODSTAWOWA NR 115 IM. WANDY TUROWSKIEJ",
+      "address": "ul. Okrężna 80",
+      "rating": 79.84,
+      "location": {
+        "lat": 52.18342639999999,
+        "lng": 21.0646309
+      },
+      "id": 63
+    },
+    {
+      "position": "63",
+      "name": "SZKOŁA PODSTAWOWA NR 150 IM. WALEREGO WRÓBLEWSKIEGO",
+      "address": "ul. gen. Wiktora Thomméego 1",
+      "rating": 79.69,
+      "location": {
+        "lat": 52.26099199999999,
+        "lng": 20.9025201
+      },
+      "id": 64
+    },
+    {
+      "position": "64",
+      "name": "SZKOŁA PODSTAWOWA NR 358 IM. HETMANA JANA ZAMOYSKIEGO W WARSZAWIE, PRZY UL. ŚW. URSZULI LEDÓCHOWSKIEJ 10",
+      "address": "ul. św. Urszuli Ledóchowskiej 10",
+      "rating": 79.64,
+      "location": {
+        "lat": 52.15650650000001,
+        "lng": 21.0688127
+      },
+      "id": 65
+    },
+    {
+      "position": "65",
+      "name": "SZKOŁA PODSTAWOWA NR 86 STOWARZYSZENIA KULTURY I EDUKACJI",
+      "address": "ul. Kolektorska 9/11",
+      "rating": 79.54,
+      "location": {
+        "lat": 52.275425,
+        "lng": 20.968578
+      },
+      "id": 66
+    },
+    {
+      "position": "66",
+      "name": "NIEPUBLICZNA SZKOŁA PODSTAWOWA NR 97",
+      "address": "ul. Edwarda Józefa Abramowskiego 4",
+      "rating": 79.28,
+      "location": {
+        "lat": 52.1841011,
+        "lng": 21.0133348
+      },
+      "id": 67
+    },
+    {
+      "position": "67",
+      "name": "CHRZEŚCIJAŃSKA SZKOŁA PODSTAWOWA DANIEL",
+      "address": "ul. Nowoursynowska 154 a",
+      "rating": 79.25,
+      "location": {
+        "lat": 52.1541186,
+        "lng": 21.0569701
+      },
+      "id": 68
+    },
+    {
+      "position": "68",
+      "name": "OGÓLNOKSZTAŁCĄCA SZKOŁA MUZYCZNA I STOPNIA W ZESPOLE SZKÓŁ NR 74",
+      "address": "ul. Niepołomicka 26",
+      "rating": 79.24,
+      "location": {
+        "lat": 52.2469538,
+        "lng": 21.1358376
+      },
+      "id": 69
+    },
+    {
+      "position": "68",
+      "name": "OGÓLNOKSZTAŁCĄCA SZKOŁA MUZYCZNA II ST. W WARSZAWIE",
+      "address": "ul. Zygmunta Krasińskiego 1",
+      "rating": 79.24,
+      "location": {
+        "lat": 52.2699787,
+        "lng": 20.9965003
+      },
+      "id": 70
+    },
+    {
+      "position": "69",
+      "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 105 IM. ASTRID LINDGREN",
+      "address": "ul. Żwanowiecka 46/50",
+      "rating": 79.17,
+      "location": {
+        "lat": 52.1742043,
+        "lng": 21.2052436
+      },
+      "id": 71
+    },
+    {
+      "position": "70",
+      "name": "SZKOŁA PODSTAWOWA NR 65 IM. WŁADYSŁAWA ORKANA",
+      "address": "ul. Mścisławska 1",
+      "rating": 79.16,
+      "location": {
+        "lat": 52.2754849,
+        "lng": 20.9843601
+      },
+      "id": 72
+    },
+    {
+      "position": "71",
+      "name": "SZKOŁA PODSTAWOWA NR 140 IM. KAZIMIERZA JEŻEWSKIEGO",
+      "address": "ul. Wilgi 19",
+      "rating": 79.14,
+      "location": {
+        "lat": 52.1862761,
+        "lng": 21.1935306
+      },
+      "id": 73
+    },
+    {
+      "position": "72",
+      "name": "PRYWATNA SZKOŁA PODSTAWOWA IM. JEANA MONNETA",
+      "address": "ul. Stępińska 13",
+      "rating": 79.08,
+      "location": {
+        "lat": 52.2039082,
+        "lng": 21.0375179
+      },
+      "id": 74
+    },
+    {
+      "position": "73",
+      "name": "PAŃSTWOWA OGÓLNOKSZTAŁCĄCA SZKOŁA MUZYCZNA I ST. IM. EMILA MŁYNARSKIEGO W WARSZAWIE",
+      "address": "ul. Rakowiecka 21",
+      "rating": 78.58,
+      "location": {
+        "lat": 52.2085318,
+        "lng": 21.0159165
+      },
+      "id": 75
+    },
+    {
+      "position": "74",
+      "name": "SZKOŁA PODSTAWOWA NR 11 IM. ŻOŁNIERZY I DYWIZJI KOŚCIUSZKOWSKIEJ W WARSZAWIE",
+      "address": "ul. Mariana Keniga 20",
+      "rating": 78.49,
+      "location": {
+        "lat": 52.196909,
+        "lng": 20.8686358
+      },
+      "id": 76
+    },
+    {
+      "position": "75",
+      "name": "SZKOŁA PODSTAWOWA NR 366 IM. JANA PAWŁA II",
+      "address": "ul. Strumykowa 21",
+      "rating": 78.38,
+      "location": {
+        "lat": 52.3306037,
+        "lng": 20.9439483
+      },
+      "id": 77
+    },
+    {
+      "position": "76",
+      "name": "SZKOŁA PODSTAWOWA NR 168 IM. CZESŁAWA NIEMENA",
+      "address": "ul. Zwycięzców 44",
+      "rating": 78.37,
+      "location": {
+        "lat": 52.2328598,
+        "lng": 21.0661591
+      },
+      "id": 78
+    },
+    {
+      "position": "77",
+      "name": "SZKOŁA PODSTAWOWA NR 359",
+      "address": "ul. Promienista 12a",
+      "rating": 78.35,
+      "location": {
+        "lat": 52.2102403,
+        "lng": 20.9042824
+      },
+      "id": 79
+    },
+    {
+      "position": "78",
+      "name": "NIEPUBLICZNA SZKOŁA PODSTAWOWA \"INSPIRACJA\"",
+      "address": "ul. Józefa Mehoffera 90",
+      "rating": 78.13,
+      "location": {
+        "lat": 52.3362045,
+        "lng": 20.9641649
+      },
+      "id": 80
+    },
+    {
+      "position": "79",
+      "name": "OGÓLNOKSZTAŁCĄCA SZKOŁA MUZYCZNA II ST. IM. MARIANA SAWY W WARSZAWIE",
+      "address": "ul. Rakowiecka 21",
+      "rating": 77.97,
+      "location": {
+        "lat": 52.2085318,
+        "lng": 21.0159165
+      },
+      "id": 81
+    },
+    {
+      "position": "80",
+      "name": "NIEPUBLICZNA SZKOŁA PODSTAWOWA AURUS",
+      "address": "ul. Poleczki 7",
+      "rating": 77.86,
+      "location": {
+        "lat": 52.1532529,
+        "lng": 21.0136677
+      },
+      "id": 82
+    },
+    {
+      "position": "81",
+      "name": "SZKOŁA PODSTAWOWA NR 10 IM. GRZEGORZA PIRAMOWICZA",
+      "address": "ul. Jasielska 49/53",
+      "rating": 77.85,
+      "location": {
+        "lat": 52.2011587,
+        "lng": 20.981372
+      },
+      "id": 83
+    },
+    {
+      "position": "82",
+      "name": "SZKOŁA PODSTAWOWA NR 211 Z ODDZIAŁAMI INTEGRACYJNYMI IM. JANUSZA KORCZAKA",
+      "address": "ul. Nowy Świat 21a",
+      "rating": 77.84,
+      "location": {
+        "lat": 52.2322074,
+        "lng": 21.0186954
+      },
+      "id": 84
+    },
+    {
+      "position": "83",
+      "name": "SPOŁECZNA SZKOŁA PODSTAWOWA NR 12 IM. EMANUELA BUŁHAKA",
+      "address": "ul. Armii Krajowej 9",
+      "rating": 77.64,
+      "location": {
+        "lat": 52.2509812,
+        "lng": 21.2167863
+      },
+      "id": 85
+    },
+    {
+      "position": "84",
+      "name": "KANADYJSKA SZKOŁA PODSTAWOWA NR 84",
+      "address": "ul. Bełska 7",
+      "rating": 77.49,
+      "location": {
+        "lat": 52.1916776,
+        "lng": 20.99889
+      },
+      "id": 86
+    },
+    {
+      "position": "85",
+      "name": "POLSKO-FRANCUSKA NIEPUBLICZNA SZKOŁA PODSTAWOWA \"LA FONTAINE\"",
+      "address": "ul. Wandy Rutkiewicz 2",
+      "rating": 77.47,
+      "location": {
+        "lat": 52.1727412,
+        "lng": 21.0681572
+      },
+      "id": 87
+    },
+    {
+      "position": "86",
+      "name": "SZKOŁA PODSTAWOWA NR 391 IM. MACIEJA ALEKSEGO DAWIDOWSKIEGO PS. \"ALEK\"",
+      "address": "ul. Filarecka 2",
+      "rating": 77.42,
+      "location": {
+        "lat": 52.2684383,
+        "lng": 20.9835444
+      },
+      "id": 88
+    },
+    {
+      "position": "87",
+      "name": "SZKOŁA PODSTAWOWA NR 77 IM. WANDY ZIELEŃCZYK",
+      "address": "ul. Samogłoska 9",
+      "rating": 77.35,
+      "location": {
+        "lat": 52.3109198,
+        "lng": 20.9199873
+      },
+      "id": 89
+    },
+    {
+      "position": "88",
+      "name": "SZKOŁA PODSTAWOWA NR 107 IM. BRONISŁAWA MALINOWSKIEGO",
+      "address": "ul. Nowoursynowska 210/212",
+      "rating": 77.32,
+      "location": {
+        "lat": 52.1735917,
+        "lng": 21.0390684
+      },
+      "id": 90
+    },
+    {
+      "position": "89",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 343 IM. MATKI TERESY Z KALKUTY",
+      "address": "ul. Stefana Kopcińskiego 7",
+      "rating": 77.17,
+      "location": {
+        "lat": 52.1565527,
+        "lng": 21.05421
+      },
+      "id": 91
+    },
+    {
+      "position": "90",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 341 IM. TWÓRCÓW LITERATURY DZIECIĘCEJ",
+      "address": "ul. Oławska 3",
+      "rating": 77.15,
+      "location": {
+        "lat": 52.2592359,
+        "lng": 20.9254529
+      },
+      "id": 92
+    },
+    {
+      "position": "91",
+      "name": "SZKOŁA PODSTAWOWA NR 225 IM. JÓZEFA GARDECKIEGO",
+      "address": "ul. Jana Brożka 15",
+      "rating": 77.12,
+      "location": {
+        "lat": 52.2420807,
+        "lng": 20.9389236
+      },
+      "id": 93
+    },
+    {
+      "position": "92",
+      "name": "SZKOŁA PODSTAWOWA NR 353 IM. \"WIELKICH ODKRYWCÓW\"",
+      "address": "ul. Cieplarniana 23",
+      "rating": 77.06,
+      "location": {
+        "lat": 52.2182432,
+        "lng": 21.2347764
+      },
+      "id": 94
+    },
+    {
+      "position": "92",
+      "name": "POLISH BRITISH ACADEMY OF WARSAW - DWUJĘZYCZNA SZKOŁA PODSTAWOWA Z ODDZIAŁAMI MIĘDZYNARODOWYMI W WARSZAWIE",
+      "address": "ul. Wiertnicza 75",
+      "rating": 77.06,
+      "location": {
+        "lat": 52.1722583,
+        "lng": 21.0802503
+      },
+      "id": 95
+    },
+    {
+      "position": "93",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 82 IM. JANA PAWŁA II",
+      "address": "ul. Górczewska 201",
+      "rating": 76.73,
+      "location": {
+        "lat": 52.240859,
+        "lng": 20.9182093
+      },
+      "id": 96
+    },
+    {
+      "position": "94",
+      "name": "SZKOŁA PODSTAWOWA NR 75 IM. MARII KONOPNICKIEJ",
+      "address": "ul. Niecała 14",
+      "rating": 76.65,
+      "location": {
+        "lat": 52.2419495,
+        "lng": 21.0074369
+      },
+      "id": 97
+    },
+    {
+      "position": "95",
+      "name": "SZKOŁA PODSTAWOWA NR 261 IM. STANISŁAWA KOSTKI POTOCKIEGO W WARSZAWIE",
+      "address": "ul. Wiertnicza 26",
+      "rating": 76.58,
+      "location": {
+        "lat": 52.1689479,
+        "lng": 21.0851038
+      },
+      "id": 98
+    },
+    {
+      "position": "96",
+      "name": "SZKOŁA PODSTAWOWA NR 231 IM. GEN. MARIUSZA ZARUSKIEGO",
+      "address": "ul. Juranda ze Spychowa 10",
+      "rating": 76.57,
+      "location": {
+        "lat": 52.316424,
+        "lng": 21.033079
+      },
+      "id": 99
+    },
+    {
+      "position": "97",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 2 IM. JANA PAWŁA II",
+      "address": "ul. Orłów Piastowskich 47",
+      "rating": 76.47,
+      "location": {
+        "lat": 52.2009664,
+        "lng": 20.8695019
+      },
+      "id": 100
+    },
+    {
+      "position": "98",
+      "name": "SZKOŁA PODSTAWOWA NR 319 IM. MARII KANN",
+      "address": "ul. Związku Walki Młodych 10",
+      "rating": 76.43,
+      "location": {
+        "lat": 52.1580755,
+        "lng": 21.0390037
+      },
+      "id": 101
+    },
+    {
+      "position": "99",
+      "name": "SZKOŁA PODSTAWOWA NR 336 IM. JANKA BYTNARA \"RUDEGO\"",
+      "address": "ul. Witolda Małcużyńskiego 4",
+      "rating": 76.19,
+      "location": {
+        "lat": 52.136626,
+        "lng": 21.055609
+      },
+      "id": 102
+    },
+    {
+      "position": "100",
+      "name": "SZKOŁA PODSTAWOWA NR 124 IM. STANISŁAWA JACHOWICZA",
+      "address": "ul. Bartoszycka 45/47",
+      "rating": 76.15,
+      "location": {
+        "lat": 52.1639085,
+        "lng": 21.2221023
+      },
+      "id": 103
+    },
+    {
+      "position": "101",
+      "name": "SZKOŁA PODSTAWOWA NR 400 W WARSZAWIE, UL. OŚ KRÓLEWSKA 25",
+      "address": "ul. Oś Królewska 25",
+      "rating": 75.94,
+      "location": {
+        "lat": 52.1645006,
+        "lng": 21.0668776
+      },
+      "id": 104
+    },
+    {
+      "position": "102",
+      "name": "SZKOŁA PODSTAWOWA NR 310 IM. MICHAŁA BYLINY",
+      "address": "ul. Hawajska 7",
+      "rating": 75.77,
+      "location": {
+        "lat": 52.1495896,
+        "lng": 21.0412529
+      },
+      "id": 105
+    },
+    {
+      "position": "103",
+      "name": "SZKOŁA PODSTAWOWA NR 31 IM. KARDYNAŁA STEFANA WYSZYŃSKIEGO",
+      "address": "ul. Kobiałka 49",
+      "rating": 75.67,
+      "location": {
+        "lat": 52.3621557,
+        "lng": 21.0468869
+      },
+      "id": 106
+    },
+    {
+      "position": "104",
+      "name": "MIĘDZYNARODOWA EUROPEJSKA SZKOŁA PODSTAWOWA IM. JANA KUŁAKOWSKIEGO W WARSZAWIE - INTERNATIONAL EUROPEAN SCHOOL *WARSAW",
+      "address": "ul. Wiertnicza 140",
+      "rating": 75.65,
+      "location": {
+        "lat": 52.1774206,
+        "lng": 21.0757707
+      },
+      "id": 107
+    },
+    {
+      "position": "105",
+      "name": "SZKOŁA PODSTAWOWA NR 53 IM. MARIUSZA ZARUSKIEGO",
+      "address": "ul. Rudzka 6",
+      "rating": 75.52,
+      "location": {
+        "lat": 52.28010769999999,
+        "lng": 20.9742261
+      },
+      "id": 108
+    },
+    {
+      "position": "106",
+      "name": "SZKOŁA PODSTAWOWA NR 100 IM. PŁK. FRANCESCO NULLO",
+      "address": "ul. Taneczna 54/58",
+      "rating": 75.47,
+      "location": {
+        "lat": 52.14632539999999,
+        "lng": 21.0159457
+      },
+      "id": 109
+    },
+    {
+      "position": "107",
+      "name": "SZKOŁA PODSTAWOWA SIÓSTR ZMARTWYCHWSTANEK IM. BŁ. S. ALICJI KOTOWSKIEJ",
+      "address": "ul. Zygmunta Krasińskiego 31",
+      "rating": 75.38,
+      "location": {
+        "lat": 52.26588899999999,
+        "lng": 20.9763025
+      },
+      "id": 110
+    },
+    {
+      "position": "108",
+      "name": "SZKOŁA PODSTAWOWA NR 96 IM. IRENY KOSMOWSKIEJ",
+      "address": "ul. Sarabandy 16/22",
+      "rating": 75.37,
+      "location": {
+        "lat": 52.113189,
+        "lng": 21.0144471
+      },
+      "id": 111
+    },
+    {
+      "position": "109",
+      "name": "SZKOŁA PODSTAWOWA NR 387 IM. SZARYCH SZEREGÓW",
+      "address": "ul. Marcina Kasprzaka 1/3",
+      "rating": 75.25,
+      "location": {
+        "lat": 52.2279528,
+        "lng": 20.9774171
+      },
+      "id": 112
+    },
+    {
+      "position": "110",
+      "name": "SZKOŁA PODSTAWOWA NR 12 IM. POWSTAŃCÓW ŚLĄSKICH",
+      "address": "ul. Górnośląska 45",
+      "rating": 75.08,
+      "location": {
+        "lat": 52.2237732,
+        "lng": 21.0287448
+      },
+      "id": 113
+    },
+    {
+      "position": "111",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 280 IM. TYTUSA CHAŁUBIŃSKIEGO W WARSZAWIE",
+      "address": "ul. Gorlicka 3",
+      "rating": 75.03,
+      "location": {
+        "lat": 52.1952276,
+        "lng": 20.9786164
+      },
+      "id": 114
+    },
+    {
+      "position": "111",
+      "name": "SZKOŁA PODSTAWOWA NR 175 IM. HELENY MARUSARZÓWNY W WARSZAWIE",
+      "address": "ul. Trzech Budrysów 32",
+      "rating": 75.03,
+      "location": {
+        "lat": 52.2084017,
+        "lng": 20.9663071
+      },
+      "id": 115
+    },
+    {
+      "position": "112",
+      "name": "NIEPUBLICZNA SZKOŁA PODSTAWOWA \"EUROPEJSKA SZKOŁA PRZYSZŁOŚCI\"",
+      "address": "ul. Białołęcka 186d",
+      "rating": 75,
+      "location": {
+        "lat": 52.311043,
+        "lng": 21.030499
+      },
+      "id": 116
+    },
+    {
+      "position": "113",
+      "name": "POLSKO-ANGIELSKA SZKOŁA PODSTAWOWA MENTIS \"PIWONIOWA\"",
+      "address": "ul. Piwoniowa 18",
+      "rating": 74.98,
+      "location": {
+        "lat": 52.3543048,
+        "lng": 20.9754571
+      },
+      "id": 117
+    },
+    {
+      "position": "114",
+      "name": "SZKOŁA PODSTAWOWA NR 205 IM. ŻOŁNIERZY POWSTANIA WARSZAWSKIEGO",
+      "address": "ul. Spartańska 4",
+      "rating": 74.95,
+      "location": {
+        "lat": 52.191761,
+        "lng": 20.9959939
+      },
+      "id": 118
+    },
+    {
+      "position": "115",
+      "name": "SZKOŁA PODSTAWOWA NR 257 IM. PROF.MARIANA FALSKIEGO",
+      "address": "ul. Podróżnicza 11",
+      "rating": 74.89,
+      "location": {
+        "lat": 52.326458,
+        "lng": 20.973119
+      },
+      "id": 119
+    },
+    {
+      "position": "116",
+      "name": "SZKOŁA PODSTAWOWA NR 382 IM. WARSZAWSKICH DZIECI",
+      "address": "ul. Konińska 2",
+      "rating": 74.82,
+      "location": {
+        "lat": 52.1946206,
+        "lng": 20.8951626
+      },
+      "id": 120
+    },
+    {
+      "position": "117",
+      "name": "SZKOŁA PODSTAWOWA IM. ŚW. FRANCISZKA",
+      "address": "ul. Teresińska 9",
+      "rating": 74.79,
+      "location": {
+        "lat": 52.200227,
+        "lng": 21.0473763
+      },
+      "id": 121
+    },
+    {
+      "position": "118",
+      "name": "SZKOŁA PODSTAWOWA NR 185 IM. UNICEF",
+      "address": "ul. gen. Tadeusza Bora-Komorowskiego 31",
+      "rating": 74.76,
+      "location": {
+        "lat": 52.2251331,
+        "lng": 21.0869612
+      },
+      "id": 122
+    },
+    {
+      "position": "119",
+      "name": "AKADEMICKA SZKOŁA PODSTAWOWA WYŻSZEJ SZKOŁY MENEDŻERSKIEJ W WARSZAWIE",
+      "address": "ul. Kawęczyńska 36",
+      "rating": 74.67,
+      "location": {
+        "lat": 52.2577229,
+        "lng": 21.0583356
+      },
+      "id": 123
+    },
+    {
+      "position": "120",
+      "name": "SZKOŁA PODSTAWOWA NR 300 IM. WANDY RUTKIEWICZ",
+      "address": "ul. Gubinowska 28/30",
+      "rating": 74.6,
+      "location": {
+        "lat": 52.1743514,
+        "lng": 21.0689671
+      },
+      "id": 124
+    },
+    {
+      "position": "121",
+      "name": "SZKOŁA PODSTAWOWA NR 69 IM. MARII SKŁODOWSKIEJ-CURIE",
+      "address": "ul. Wiktorska 73",
+      "rating": 74.59,
+      "location": {
+        "lat": 52.1984442,
+        "lng": 21.0099167
+      },
+      "id": 125
+    },
+    {
+      "position": "122",
+      "name": "SZKOŁA PODSTAWOWA NR 204 IM. 19 PUŁKU UŁANÓW WOŁYŃSKICH",
+      "address": "ul. Bajkowa 17/21",
+      "rating": 74.47,
+      "location": {
+        "lat": 52.1879407,
+        "lng": 21.1765771
+      },
+      "id": 126
+    },
+    {
+      "position": "123",
+      "name": "SZKOŁA PODSTAWOWA NR 322 IM. JANA BRZECHWY",
+      "address": "ul. Edwarda Dembowskiego 9",
+      "rating": 74.46,
+      "location": {
+        "lat": 52.1518865,
+        "lng": 21.032185
+      },
+      "id": 127
+    },
+    {
+      "position": "124",
+      "name": "SZKOŁA PODSTAWOWA NR 279 IM. BATALIONÓW AK \"GUSTAW\" I \"HARNAŚ\"",
+      "address": "ul. Cyrklowa 1",
+      "rating": 74.36,
+      "location": {
+        "lat": 52.2314277,
+        "lng": 21.0794584
+      },
+      "id": 128
+    },
+    {
+      "position": "125",
+      "name": "SZKOŁA PODSTAWOWA NR 103 IM. BOHATERÓW WARSZAWY 1939-1945",
+      "address": "ul. Jeziorna 5/9",
+      "rating": 74.34,
+      "location": {
+        "lat": 52.18765570000001,
+        "lng": 21.0706875
+      },
+      "id": 129
+    },
+    {
+      "position": "126",
+      "name": "SZKOŁA PODSTAWOWA NR 94 IM. I MARSZAŁKA POLSKI JÓZEFA PIŁSUDSKIEGO",
+      "address": "ul. Cietrzewia 22a",
+      "rating": 74.23,
+      "location": {
+        "lat": 52.2019532,
+        "lng": 20.9246845
+      },
+      "id": 130
+    },
+    {
+      "position": "127",
+      "name": "SZKOŁA PODSTAWOWA NR 212 IM. KRYSTYNY KRAHELSKIEJ",
+      "address": "ul. Czarnomorska 3",
+      "rating": 74.21,
+      "location": {
+        "lat": 52.1831533,
+        "lng": 21.0482948
+      },
+      "id": 131
+    },
+    {
+      "position": "128",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 330 IM. NAUCZYCIELI TAJNEGO NAUCZANIA",
+      "address": "ul. Mandarynki 1",
+      "rating": 74.18,
+      "location": {
+        "lat": 52.1444337,
+        "lng": 21.0607164
+      },
+      "id": 132
+    },
+    {
+      "position": "129",
+      "name": "WALDORFSKA SZKOŁA PODSTAWOWA NR 71",
+      "address": "ul. Wolność 2a",
+      "rating": 74.15,
+      "location": {
+        "lat": 52.2416146,
+        "lng": 20.9846615
+      },
+      "id": 133
+    },
+    {
+      "position": "130",
+      "name": "SZKOŁA PODSTAWOWA NR 85 IM. BENITO JUAREZA",
+      "address": "ul. Ludwika Narbutta 14",
+      "rating": 74.14,
+      "location": {
+        "lat": 52.2072025,
+        "lng": 21.01924
+      },
+      "id": 134
+    },
+    {
+      "position": "131",
+      "name": "SZKOŁA PODSTAWOWA NR 357",
+      "address": "ul. Zachodzącego Słońca 25",
+      "rating": 74.09,
+      "location": {
+        "lat": 52.2600816,
+        "lng": 20.9169092
+      },
+      "id": 135
+    },
+    {
+      "position": "132",
+      "name": "SZKOŁA PODSTAWOWA NR 143 IM. STEFANA STARZYŃSKIEGO",
+      "address": "al. Aleja Stanów Zjednoczonych 27",
+      "rating": 74.08,
+      "location": {
+        "lat": 52.22939,
+        "lng": 21.0632626
+      },
+      "id": 136
+    },
+    {
+      "position": "133",
+      "name": "SZKOŁA PODSTAWOWA NR 385 IM. MARSZAŁKA JÓZEFA PIŁSUDSKIEGO",
+      "address": "ul. Klimatyczna 1",
+      "rating": 73.85,
+      "location": {
+        "lat": 52.2172719,
+        "lng": 21.240053
+      },
+      "id": 137
+    },
+    {
+      "position": "134",
+      "name": "SZKOŁA PODSTAWOWA NR 375 IM. ORLĄT LWOWSKICH",
+      "address": "ul. gen. Romana Abrahama 10",
+      "rating": 73.74,
+      "location": {
+        "lat": 52.2265291,
+        "lng": 21.086919
+      },
+      "id": 138
+    },
+    {
+      "position": "135",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 41 IM. ŻOŁNIERZY ARMII KRAJOWEJ GRUPY BOJOWEJ \"KRYBAR\" W WARSZAWIE",
+      "address": "ul. Drewniana 8",
+      "rating": 73.69,
+      "location": {
+        "lat": 52.2397609,
+        "lng": 21.025931
+      },
+      "id": 139
+    },
+    {
+      "position": "136",
+      "name": "SZKOŁA PODSTAWOWA NR 364 IM. KONSTANCJI MARKIEWICZ",
+      "address": "ul. Michała Elwira Andriollego 1",
+      "rating": 73.62,
+      "location": {
+        "lat": 52.1082162,
+        "lng": 21.261977
+      },
+      "id": 140
+    },
+    {
+      "position": "137",
+      "name": "KATOLICKA SZKOŁA PODSTAWOWA NR 109 FUNDACJI NA RZECZ RODZINY IM. ŚW. RODZINY",
+      "address": "ul. Kazimierza Wóycickiego 1/3",
+      "rating": 73.57,
+      "location": {
+        "lat": 52.3111652,
+        "lng": 20.9168183
+      },
+      "id": 141
+    },
+    {
+      "position": "138",
+      "name": "SZKOŁA PODSTAWOWA NR 306 IM. KS. JANA TWARDOWSKIEGO",
+      "address": "ul. Tkaczy 27",
+      "rating": 73.3,
+      "location": {
+        "lat": 52.2228284,
+        "lng": 20.9065916
+      },
+      "id": 142
+    },
+    {
+      "position": "139",
+      "name": "OGÓLNOKSZTAŁCĄCA SZKOŁA BALETOWA IM. ROMANA TURCZYNOWICZA W WARSZAWIE",
+      "address": "ul. Moliera 2/4",
+      "rating": 73.29,
+      "location": {
+        "lat": 52.22778899999999,
+        "lng": 21.0222375
+      },
+      "id": 143
+    },
+    {
+      "position": "140",
+      "name": "SZKOŁA PODSTAWOWA NR 52 IM. MACIEJA ALEKSEGO DAWIDOWSKIEGO ?ALKA",
+      "address": "ul. Samarytanka 11a",
+      "rating": 73.26,
+      "location": {
+        "lat": 52.2803802,
+        "lng": 21.0575031
+      },
+      "id": 144
+    },
+    {
+      "position": "141",
+      "name": "SZKOŁA PODSTAWOWA NR 215 IM. PIOTRA WYSOCKIEGO",
+      "address": "ul. Kwatery Głównej 13",
+      "rating": 73.04,
+      "location": {
+        "lat": 52.243958,
+        "lng": 21.112599
+      },
+      "id": 145
+    },
+    {
+      "position": "142",
+      "name": "SZKOŁA PODSTAWOWA NR 314 IM.PRZYJACIÓŁ ZIEMI",
+      "address": "ul. Porajów 3",
+      "rating": 72.98,
+      "location": {
+        "lat": 52.3148096,
+        "lng": 20.9596129
+      },
+      "id": 146
+    },
+    {
+      "position": "143",
+      "name": "SZKOŁA PODSTAWOWA NR 238 IM. CHRISTO BOTEWA",
+      "address": "ul. Redutowa 37",
+      "rating": 72.84,
+      "location": {
+        "lat": 52.23401879999999,
+        "lng": 20.9401439
+      },
+      "id": 147
+    },
+    {
+      "position": "144",
+      "name": "SZKOŁA PODSTAWOWA NR 109 IM. BATALIONÓW CHŁOPSKICH",
+      "address": "ul. Przygodna 2",
+      "rating": 72.82,
+      "location": {
+        "lat": 52.1979909,
+        "lng": 21.1333678
+      },
+      "id": 148
+    },
+    {
+      "position": "145",
+      "name": "SZKOŁA PODSTAWOWA NR 70 Z ODDZIAŁAMI INTEGRACYJNYMI IM. BOHATERÓW MONTE CASSINO",
+      "address": "ul. Giordana Bruna 11",
+      "rating": 72.8,
+      "location": {
+        "lat": 52.208549,
+        "lng": 21.001887
+      },
+      "id": 149
+    },
+    {
+      "position": "146",
+      "name": "SZKOŁA PODSTAWOWA NR 32 Z ODDZIAŁAMI INTEGRACYJNYMI IM. MAŁEGO POWSTAŃCA",
+      "address": "ul. Józefa Lewartowskiego 2",
+      "rating": 72.75,
+      "location": {
+        "lat": 52.2528736,
+        "lng": 20.9941285
+      },
+      "id": 150
+    },
+    {
+      "position": "147",
+      "name": "SZKOŁA PODSTAWOWA NR 4 IM. WŁADYSŁAWA BRONIEWSKIEGO W WARSZAWIE",
+      "address": "ul. Walerego Sławka 9",
+      "rating": 72.66,
+      "location": {
+        "lat": 52.1926309,
+        "lng": 20.895838
+      },
+      "id": 151
+    },
+    {
+      "position": "148",
+      "name": "SZKOŁA PODSTAWOWA NR 368 IM. POLSKICH OLIMPIJCZYKÓW",
+      "address": "ul. Ostródzka 175",
+      "rating": 72.54,
+      "location": {
+        "lat": 52.3271948,
+        "lng": 21.046966
+      },
+      "id": 152
+    },
+    {
+      "position": "149",
+      "name": "SZKOŁA PODSTAWOWA NR 190 IM. ORŁA BIAŁEGO",
+      "address": "ul. Zwierzyniecka 10",
+      "rating": 72.44,
+      "location": {
+        "lat": 52.2093949,
+        "lng": 21.0504683
+      },
+      "id": 153
+    },
+    {
+      "position": "149",
+      "name": "SZKOŁA PODSTAWOWA NR 360",
+      "address": "ul. Dzieci Warszawy 42A",
+      "rating": 72.44,
+      "location": {
+        "lat": 52.1977809,
+        "lng": 20.8989462
+      },
+      "id": 154
+    },
+    {
+      "position": "150",
+      "name": "SZKOŁA PODSTAWOWA NR 350",
+      "address": "ul. Karola Irzykowskiego 1a",
+      "rating": 72.41,
+      "location": {
+        "lat": 52.2307072,
+        "lng": 20.9035463
+      },
+      "id": 155
+    },
+    {
+      "position": "151",
+      "name": "SZKOŁA PODSTAWOWA NR 323 IM. POLSKICH OLIMPIJCZYKÓW",
+      "address": "ul. Ludwika Hirszfelda 11",
+      "rating": 72.39,
+      "location": {
+        "lat": 52.1445046,
+        "lng": 21.040749
+      },
+      "id": 156
+    },
+    {
+      "position": "152",
+      "name": "SZKOŁA PODSTAWOWA NR 218 IM. MICHAŁA KAJKI",
+      "address": "ul. Michała Kajki 80/82",
+      "rating": 72.24,
+      "location": {
+        "lat": 52.22125260000001,
+        "lng": 21.1636801
+      },
+      "id": 157
+    },
+    {
+      "position": "153",
+      "name": "SZKOŁA PODSTAWOWA NR 46 IM. STEFANA STARZYŃSKIEGO",
+      "address": "ul. Wałbrzyska 5",
+      "rating": 72.22,
+      "location": {
+        "lat": 52.1731159,
+        "lng": 21.0276534
+      },
+      "id": 158
+    },
+    {
+      "position": "154",
+      "name": "SZKOŁA PODSTAWOWA NR 380 IM. JANA PAWŁA II W WARSZAWIE",
+      "address": "ul. Krasiczyńska 4/6",
+      "rating": 72.13,
+      "location": {
+        "lat": 52.2944079,
+        "lng": 21.0463944
+      },
+      "id": 159
+    },
+    {
+      "position": "155",
+      "name": "SZKOŁA PODSTAWOWA NR 169 IM. ORŁA BIAŁEGO",
+      "address": "ul. Uprawna 9/17",
+      "rating": 72.12,
+      "location": {
+        "lat": 52.1567878,
+        "lng": 21.0919292
+      },
+      "id": 160
+    },
+    {
+      "position": "156",
+      "name": "SZKOŁA PODSTAWOWA NR 171 IM. STANISŁAWA STASZICA",
+      "address": "ul. Armii Krajowej 39",
+      "rating": 71.94,
+      "location": {
+        "lat": 52.25070789999999,
+        "lng": 21.2265644
+      },
+      "id": 161
+    },
+    {
+      "position": "157",
+      "name": "SZKOŁA PODSTAWOWA NR 133 IM. STEFANA CZARNIECKIEGO",
+      "address": "ul. Antoniego Fontany 3",
+      "rating": 71.86,
+      "location": {
+        "lat": 52.2784041,
+        "lng": 20.9496797
+      },
+      "id": 162
+    },
+    {
+      "position": "158",
+      "name": "SZKOŁA PODSTAWOWA NR 173 IM. GÓRNIKÓW POLSKICH",
+      "address": "inne Trakt Brzeski 18",
+      "rating": 71.83,
+      "location": {
+        "lat": 52.22341979999999,
+        "lng": 21.221395
+      },
+      "id": 163
+    },
+    {
+      "position": "159",
+      "name": "SZKOŁA PODSTAWOWA NR 29 IM.GIUSEPPE GARIBALDIEGO",
+      "address": "ul. Fabryczna 19",
+      "rating": 71.8,
+      "location": {
+        "lat": 52.2242032,
+        "lng": 21.03809
+      },
+      "id": 164
+    },
+    {
+      "position": "160",
+      "name": "SZKOŁA PODSTAWOWA NR 352 W WARSZAWIE IM. JERZEGO HUBERTA WAGNERA",
+      "address": "ul. Josepha Conrada 6",
+      "rating": 71.74,
+      "location": {
+        "lat": 52.2721122,
+        "lng": 20.929214
+      },
+      "id": 165
+    },
+    {
+      "position": "161",
+      "name": "SZKOŁA PODSTAWOWA NR 92 IM. JANA BRZECHWY",
+      "address": "ul. Przasnyska 18A",
+      "rating": 71.7,
+      "location": {
+        "lat": 52.2645407,
+        "lng": 20.9644914
+      },
+      "id": 166
+    },
+    {
+      "position": "162",
+      "name": "SZKOŁA PODSTAWOWA NR 365 IM.WOJCIECHA ZAWADZKIEGO",
+      "address": "ul. Płużnicka 4",
+      "rating": 71.69,
+      "location": {
+        "lat": 52.3118904,
+        "lng": 20.9738709
+      },
+      "id": 167
+    },
+    {
+      "position": "163",
+      "name": "SZKOŁA PODSTAWOWA NR 376 IM. BOHATERÓW WESTRPLATTE W WARSZAWIE",
+      "address": "ul. gen. Karola Ziemskiego \"Wachnowskiego\" 22",
+      "rating": 71.48,
+      "location": {
+        "lat": 52.259037,
+        "lng": 21.1771768
+      },
+      "id": 168
+    },
+    {
+      "position": "164",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 342 IM.JANA MARCINA SZANCERA",
+      "address": "ul. Strumykowa 21A",
+      "rating": 71.22,
+      "location": {
+        "lat": 52.3311127,
+        "lng": 20.9438196
+      },
+      "id": 169
+    },
+    {
+      "position": "165",
+      "name": "SZKOŁA PODSTAWOWA NR 128 IM. MARII SKŁODOWSKIEJ-CURIE",
+      "address": "ul. Kadetów 15",
+      "rating": 71.2,
+      "location": {
+        "lat": 52.2132369,
+        "lng": 21.109891
+      },
+      "id": 170
+    },
+    {
+      "position": "166",
+      "name": "SZKOŁA PODSTAWOWA NR 312 IM. EWY SZELBURG-ZAREMBINY",
+      "address": "ul. Władysława Umińskiego 12",
+      "rating": 70.99,
+      "location": {
+        "lat": 52.227552,
+        "lng": 21.1006798
+      },
+      "id": 171
+    },
+    {
+      "position": "167",
+      "name": "SZKOŁA PODSTAWOWA NR 222 IM. JANA BRZECHWY",
+      "address": "ul. Esperanto 7a",
+      "rating": 70.95,
+      "location": {
+        "lat": 52.2456019,
+        "lng": 20.9793144
+      },
+      "id": 172
+    },
+    {
+      "position": "168",
+      "name": "SZKOŁA PODSTAWOWA NR 220 IM. STANISŁAWA KOPCZYŃSKIEGO",
+      "address": "al. Aleja Jana Pawła II 26a",
+      "rating": 70.78,
+      "location": {
+        "lat": 52.237406,
+        "lng": 20.9981209
+      },
+      "id": 173
+    },
+    {
+      "position": "169",
+      "name": "SZKOŁA PODSTAWOWA NR 33 IM. WOJSK OBRONY POWIETRZNEJ KRAJU",
+      "address": "ul. Cieszyńska 8",
+      "rating": 70.77,
+      "location": {
+        "lat": 52.1839081,
+        "lng": 21.027125
+      },
+      "id": 174
+    },
+    {
+      "position": "170",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 112 IM. MARII KOWNACKIEJ W WARSZAWIE, UL. ZAUŁEK 34 SZKOLE JEST PODPORZĄDKOWANA ORGANIZACYJNIE SZKOŁA FILIALNA W WARSZAWIE, UL. OSTRÓDZKA 144",
+      "address": "ul. Zaułek 34",
+      "rating": 70.57,
+      "location": {
+        "lat": 52.3271548,
+        "lng": 21.0666763
+      },
+      "id": 175
+    },
+    {
+      "position": "171",
+      "name": "SZKOŁA PODSTAWOWA NR 255 IM. CYPRIANA KAMILA NORWIDA",
+      "address": "ul. Kamionkowska 36/44",
+      "rating": 70.56,
+      "location": {
+        "lat": 52.24724,
+        "lng": 21.0650042
+      },
+      "id": 176
+    },
+    {
+      "position": "172",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 14 IM. BOHATERÓW WARSZAWY W WARSZAWIE",
+      "address": "ul. gen. Kazimierza Sosnkowskiego 10",
+      "rating": 70.48,
+      "location": {
+        "lat": 52.1894666,
+        "lng": 20.8903188
+      },
+      "id": 177
+    },
+    {
+      "position": "173",
+      "name": "SZKOŁA PODSTAWOWA NR 23 IM. EDWARDA SZYMAŃSKIEGO",
+      "address": "ul. Mikołaja Reja 1",
+      "rating": 70.48,
+      "location": {
+        "lat": 52.217374,
+        "lng": 20.9937734
+      },
+      "id": 178
+    },
+    {
+      "position": "174",
+      "name": "SZKOŁA PODSTAWOWA NR 307 IM. KRÓLA JANA III SOBIESKIEGO",
+      "address": "ul. Barcelońska 8",
+      "rating": 70.37,
+      "location": {
+        "lat": 52.176303,
+        "lng": 21.055284
+      },
+      "id": 179
+    },
+    {
+      "position": "175",
+      "name": "SZKOŁA PODSTAWOWA NR 267 IM. JULIUSZA SŁOWACKIEGO",
+      "address": "ul. Braci Załuskich 1",
+      "rating": 70.28,
+      "location": {
+        "lat": 52.2666303,
+        "lng": 20.9691469
+      },
+      "id": 180
+    },
+    {
+      "position": "176",
+      "name": "SZKOŁA PODSTAWOWA NR 356 IM.RYSZARDA KACZOROWSKIEGO",
+      "address": "ul. Głębocka 66",
+      "rating": 70.19,
+      "location": {
+        "lat": 52.3115485,
+        "lng": 21.0675928
+      },
+      "id": 181
+    },
+    {
+      "position": "177",
+      "name": "SZKOŁA PODSTAWOWA NR 34 IM. STANISŁAWA DUBOIS",
+      "address": "ul. Leona Kruczkowskiego 12b",
+      "rating": 70.16,
+      "location": {
+        "lat": 52.2361624,
+        "lng": 21.0281811
+      },
+      "id": 182
+    },
+    {
+      "position": "178",
+      "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 94 SZKOŁA \"LAUDER MORASHA\"",
+      "address": "ul. Hipolita Wawelberga 10",
+      "rating": 70.03,
+      "location": {
+        "lat": 52.2360394,
+        "lng": 20.9697463
+      },
+      "id": 183
+    },
+    {
+      "position": "179",
+      "name": "SZKOŁA PODSTAWOWA NR 321",
+      "address": "ul. ppłk. Wacława Szadkowskiego 3",
+      "rating": 69.76,
+      "location": {
+        "lat": 52.2518819,
+        "lng": 20.9201793
+      },
+      "id": 184
+    },
+    {
+      "position": "180",
+      "name": "SZKOŁA PODSTAWOWA NR 80 IM. MARII KOWNACKIEJ",
+      "address": "ul. Aspekt 48",
+      "rating": 69.7,
+      "location": {
+        "lat": 52.27587219999999,
+        "lng": 20.931176
+      },
+      "id": 185
+    },
+    {
+      "position": "181",
+      "name": "SZKOŁA PODSTAWOWA NR 277 IM. ELIZY ORZESZKOWEJ",
+      "address": "ul. Suwalska 29",
+      "rating": 69.64,
+      "location": {
+        "lat": 52.2955834,
+        "lng": 21.0373182
+      },
+      "id": 186
+    },
+    {
+      "position": "182",
+      "name": "SZKOŁA PODSTAWOWA NR 289 IM. HENRYKA SIENKIEWICZA",
+      "address": "ul. Władysława Broniewskiego 99a",
+      "rating": 69.63,
+      "location": {
+        "lat": 52.272189,
+        "lng": 20.9382173
+      },
+      "id": 187
+    },
+    {
+      "position": "183",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 344 IM.POWSTANIA WARSZAWSKIEGO",
+      "address": "ul. Erazma z Zakroczymia 15",
+      "rating": 69.44,
+      "location": {
+        "lat": 52.3218783,
+        "lng": 20.9485864
+      },
+      "id": 188
+    },
+    {
+      "position": "184",
+      "name": "SZKOŁA PODSTAWOWA NR 313 IM. POLSKICH ODKRYWCÓW",
+      "address": "ul. Jana Cybisa 1",
+      "rating": 69.42,
+      "location": {
+        "lat": 52.1546512,
+        "lng": 21.0252576
+      },
+      "id": 189
+    },
+    {
+      "position": "185",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 301 IM. JANUSZA KORCZAKA",
+      "address": "ul. Brygadzistów 18",
+      "rating": 69.41,
+      "location": {
+        "lat": 52.225749,
+        "lng": 20.9123309
+      },
+      "id": 190
+    },
+    {
+      "position": "186",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 318 IM. JANA CHRISTIANA ANDERSENA",
+      "address": "ul. Leonida Teligi 3",
+      "rating": 69.37,
+      "location": {
+        "lat": 52.15288,
+        "lng": 21.046655
+      },
+      "id": 191
+    },
+    {
+      "position": "187",
+      "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 108 IM. MATKI BOSKIEJ NIEUSTAJĄCEJ POMOCY",
+      "address": "ul. Krynoliny 9/11",
+      "rating": 69.19,
+      "location": {
+        "lat": 52.2909582,
+        "lng": 21.0791733
+      },
+      "id": 192
+    },
+    {
+      "position": "187",
+      "name": "SZKOŁA PODSTAWOWA NR 351 IM. BOLESŁAWA PRUSA",
+      "address": "ul. Jana Olbrachta 48/56",
+      "rating": 69.19,
+      "location": {
+        "lat": 52.2358568,
+        "lng": 20.9360791
+      },
+      "id": 193
+    },
+    {
+      "position": "188",
+      "name": "SZKOŁA PODSTAWOWA NR 355 IM. JANA WEDLA",
+      "address": "ul. Ceramiczna 11",
+      "rating": 69.18,
+      "location": {
+        "lat": 52.3217687,
+        "lng": 20.9603903
+      },
+      "id": 194
+    },
+    {
+      "position": "188",
+      "name": "SZKOŁA PODSTAWOWA NR 378 IM. IGNACEGO JANA PADEREWSKIEGO W WARSZAWIE",
+      "address": "ul. Bartnicza 8",
+      "rating": 69.18,
+      "location": {
+        "lat": 52.2876316,
+        "lng": 21.0292567
+      },
+      "id": 195
+    },
+    {
+      "position": "189",
+      "name": "SZKOŁA PODSTAWOWA NR 217 Z ODDZIAŁAMI INTEGRACYJNYMI IM. OBROŃCÓW RADIOSTACJI ARMII KRAJOWEJ W REMBERTOWIE",
+      "address": "ul. Ignacego Paderewskiego 45",
+      "rating": 68.83,
+      "location": {
+        "lat": 52.2629813,
+        "lng": 21.1563492
+      },
+      "id": 196
+    },
+    {
+      "position": "190",
+      "name": "SZKOŁA PODSTAWOWA INTEGRACYJNA NR 339 IM. RAOULA WALLENBERGA",
+      "address": "ul. św. Bonifacego 10",
+      "rating": 68.79,
+      "location": {
+        "lat": 52.1774356,
+        "lng": 21.0488817
+      },
+      "id": 197
+    },
+    {
+      "position": "191",
+      "name": "SZKOŁA PODSTAWOWA NR 263 IM. POWSTAŃCÓW WIELKOPOLSKICH",
+      "address": "ul. Szegedyńska 11",
+      "rating": 68.63,
+      "location": {
+        "lat": 52.2917893,
+        "lng": 20.9430757
+      },
+      "id": 198
+    },
+    {
+      "position": "192",
+      "name": "SZKOŁA PODSTAWOWA NR 285 IM. JANA MARCINA SZANCERA",
+      "address": "ul. Turmoncka 20",
+      "rating": 68.56,
+      "location": {
+        "lat": 52.2985733,
+        "lng": 21.0413355
+      },
+      "id": 199
+    },
+    {
+      "position": "193",
+      "name": "SZKOŁA PODSTAWOWA NR 293 IM. JANA KOCHANOWSKIEGO",
+      "address": "ul. Jana Kochanowskiego 8",
+      "rating": 68.23,
+      "location": {
+        "lat": 52.2675022,
+        "lng": 20.9543642
+      },
+      "id": 200
+    },
+    {
+      "position": "194",
+      "name": "SZKOŁA PODSTAWOWA NR 157 IM. ADAMA MICKIEWICZA",
+      "address": "ul. Kazimierzowska 16",
+      "rating": 68.14,
+      "location": {
+        "lat": 52.19991109999999,
+        "lng": 21.0180712
+      },
+      "id": 201
+    },
+    {
+      "position": "195",
+      "name": "PRYWATNA SZKOŁA PODSTAWOWA IM. ZOFII I JĘDRZEJA MORACZEWSKICH",
+      "address": "ul. Cyrulików 87",
+      "rating": 68.12,
+      "location": {
+        "lat": 52.2572526,
+        "lng": 21.1668112
+      },
+      "id": 202
+    },
+    {
+      "position": "196",
+      "name": "SZKOŁA PODSTAWOWA NR 141 IM. MJR HENRYKA SUCHARSKIEGO",
+      "address": "ul. Szaserów 117",
+      "rating": 68.07,
+      "location": {
+        "lat": 52.24860779999999,
+        "lng": 21.0949187
+      },
+      "id": 203
+    },
+    {
+      "position": "197",
+      "name": "SZKOŁA PODSTAWOWA NR 209 IM. HANKI ORDONÓWNY",
+      "address": "al. Aleja Władysława Reymonta 25",
+      "rating": 67.77,
+      "location": {
+        "lat": 52.283793,
+        "lng": 20.9393446
+      },
+      "id": 204
+    },
+    {
+      "position": "198",
+      "name": "SZKOŁA PODSTAWOWA NR 84 IM. WALERIANA ŁUKASIŃSKIEGO",
+      "address": "ul. Radzymińska 227",
+      "rating": 67.74,
+      "location": {
+        "lat": 52.2844291,
+        "lng": 21.0724665
+      },
+      "id": 205
+    },
+    {
+      "position": "199",
+      "name": "SZKOŁA PODSTAWOWA NR 221 Z ODDZIAŁAMI INTEGRACYJNYMI IM. BARBARY BRONISŁAWY CZARNOWSKIEJ",
+      "address": "ul. Ogrodowa 42/44",
+      "rating": 67.67,
+      "location": {
+        "lat": 52.23858999999999,
+        "lng": 20.9865247
+      },
+      "id": 206
+    },
+    {
+      "position": "200",
+      "name": "SZKOŁA PODSTAWOWA NR 81 IM. JULIANA URSYNA NIEMCEWICZA",
+      "address": "ul. Puszczyka 6",
+      "rating": 67.51,
+      "location": {
+        "lat": 52.15789729999999,
+        "lng": 21.0243613
+      },
+      "id": 207
+    },
+    {
+      "position": "201",
+      "name": "SZKOŁA PODSTAWOWA NR 158 IM. JANA KILIŃSKIEGO",
+      "address": "ul. Ciasna 13",
+      "rating": 67.42,
+      "location": {
+        "lat": 52.2518154,
+        "lng": 21.0054327
+      },
+      "id": 208
+    },
+    {
+      "position": "202",
+      "name": "NIEPUBLICZNA WALDORFSKA SZKOŁA PODSTAWOWA IM. AUGUSTA CIESZKOWSKIEGO",
+      "address": "ul. Alpejska 16",
+      "rating": 67.41,
+      "location": {
+        "lat": 52.2179096,
+        "lng": 21.169366
+      },
+      "id": 209
+    },
+    {
+      "position": "203",
+      "name": "BRYTYJSKA SZKOŁA PODSTAWOWA THE BRITISH SCHOOL NR 91 W WARSZAWIE",
+      "address": "ul. Bolesława Limanowskiego 15",
+      "rating": 67.39,
+      "location": {
+        "lat": 52.1894287,
+        "lng": 21.0555991
+      },
+      "id": 210
+    },
+    {
+      "position": "204",
+      "name": "SZKOŁA PODSTAWOWA NR 316 IM. ASTRID LINDGREN",
+      "address": "ul. Stanisława Szobera 1/3",
+      "rating": 67.2,
+      "location": {
+        "lat": 52.2360295,
+        "lng": 20.9013375
+      },
+      "id": 211
+    },
+    {
+      "position": "205",
+      "name": "SZKOŁA PODSTAWOWA NR 392 IM. JANA BYTNARA PS. \"RUDY\"",
+      "address": "al. Aleja Wojska Polskiego 1A",
+      "rating": 67.1,
+      "location": {
+        "lat": 52.2633545,
+        "lng": 20.995616
+      },
+      "id": 212
+    },
+    {
+      "position": "205",
+      "name": "SZKOŁA PODSTAWOWA NR 203 IM. ANTONINY I JANA ŻABIŃSKICH",
+      "address": "ul. ks. Ignacego Skorupki 8",
+      "rating": 67.1,
+      "location": {
+        "lat": 52.2259438,
+        "lng": 21.0167267
+      },
+      "id": 213
+    },
+    {
+      "position": "206",
+      "name": "SZKOŁA PODSTAWOWA NR 66 IM. KS. JULIANA CHROŚCICKIEGO",
+      "address": "ul. Przepiórki 16/18",
+      "rating": 67,
+      "location": {
+        "lat": 52.204147,
+        "lng": 20.9011093
+      },
+      "id": 214
+    },
+    {
+      "position": "207",
+      "name": "SZKOŁA PODSTAWOWA NR 86 IM. BRONISŁAWA CZECHA",
+      "address": "ul. Koryncka 33",
+      "rating": 66.93,
+      "location": {
+        "lat": 52.2193009,
+        "lng": 21.144952
+      },
+      "id": 215
+    },
+    {
+      "position": "208",
+      "name": "SZKOŁA PODSTAWOWA NR 146 IM. JANUSZA KORCZAKA",
+      "address": "ul. Domaniewska 33",
+      "rating": 66.92,
+      "location": {
+        "lat": 52.18316549999999,
+        "lng": 21.0100187
+      },
+      "id": 216
+    },
+    {
+      "position": "209",
+      "name": "SZKOŁA PODSTAWOWA NR 384 IM. STANISŁAWA STASZICA",
+      "address": "ul. Kajakowa 10",
+      "rating": 66.73,
+      "location": {
+        "lat": 52.1304084,
+        "lng": 21.0208614
+      },
+      "id": 217
+    },
+    {
+      "position": "210",
+      "name": "SZKOŁA PODSTAWOWA NR 104 IM. MACIEJA RATAJA",
+      "address": "ul. Przyczółkowa 27",
+      "rating": 66.68,
+      "location": {
+        "lat": 52.12059259999999,
+        "lng": 21.1018017
+      },
+      "id": 218
+    },
+    {
+      "position": "211",
+      "name": "SZKOŁA PODSTAWOWA NR 118 IM.PRZYJACIÓŁ MAZOWSZA",
+      "address": "ul. Myśliborska 25",
+      "rating": 66.65,
+      "location": {
+        "lat": 52.3177939,
+        "lng": 20.9592178
+      },
+      "id": 219
+    },
+    {
+      "position": "212",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 154 IM. EDMUNDA STRZELECKIEGO",
+      "address": "ul. Leśnej Polanki 63/65",
+      "rating": 66.45,
+      "location": {
+        "lat": 52.3381249,
+        "lng": 20.945345
+      },
+      "id": 220
+    },
+    {
+      "position": "213",
+      "name": "SZKOŁA PODSTAWOWA INTEGRACYJNA NR 135 IM. MARII KOWNACKIEJ",
+      "address": "ul. Grzegorza Przemyka 5",
+      "rating": 66.01,
+      "location": {
+        "lat": 52.2295074,
+        "lng": 21.0811382
+      },
+      "id": 221
+    },
+    {
+      "position": "213",
+      "name": "SZKOŁA PODSTAWOWA NR 50 IM. KRÓLOWEJ JADWIGI W WARSZAWIE",
+      "address": "ul. Jagiellońska 7",
+      "rating": 66.01,
+      "location": {
+        "lat": 52.2502714,
+        "lng": 21.0361448
+      },
+      "id": 222
+    },
+    {
+      "position": "214",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 275 IM. ARTURA OPPMANA",
+      "address": "ul. św. Hieronima 2",
+      "rating": 65.49,
+      "location": {
+        "lat": 52.2938667,
+        "lng": 21.0236535
+      },
+      "id": 223
+    },
+    {
+      "position": "215",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 68 IM. ARTURA OPPMANA",
+      "address": "ul. Or-Ota 5",
+      "rating": 65.31,
+      "location": {
+        "lat": 52.2623922,
+        "lng": 20.9843793
+      },
+      "id": 224
+    },
+    {
+      "position": "216",
+      "name": "MIĘDZYNARODOWA SZKOŁA PODSTAWOWA TE VIZJA",
+      "address": "ul. Okopowa 59",
+      "rating": 65.25,
+      "location": {
+        "lat": 52.2505253,
+        "lng": 20.9786173
+      },
+      "id": 225
+    },
+    {
+      "position": "217",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 87 IM. 7 PP AK \"GARŁUCH\"",
+      "address": "ul. Malownicza 31",
+      "rating": 65.21,
+      "location": {
+        "lat": 52.1774981,
+        "lng": 20.9392811
+      },
+      "id": 226
+    },
+    {
+      "position": "218",
+      "name": "SZKOŁA PODSTAWOWA NR 234 IM. JULIANA TUWIMA",
+      "address": "ul. Esperanto 5",
+      "rating": 64.93,
+      "location": {
+        "lat": 52.2439182,
+        "lng": 20.9800414
+      },
+      "id": 227
+    },
+    {
+      "position": "219",
+      "name": "SZKOŁA PODSTAWOWA NR 152 IM. MARII DĄBROWSKIEJ W WARSZAWIE",
+      "address": "ul. Powstańców Wielkopolskich 4",
+      "rating": 64.69,
+      "location": {
+        "lat": 52.2042456,
+        "lng": 20.9680165
+      },
+      "id": 228
+    },
+    {
+      "position": "220",
+      "name": "SZKOŁA PODSTAWOWA NR 114 Z ODDZIAŁAMI INTEGRACYJNYMI IM. JĘDRZEJA CIERNIAKA",
+      "address": "ul. Remiszewska 40",
+      "rating": 64.68,
+      "location": {
+        "lat": 52.272144,
+        "lng": 21.053891
+      },
+      "id": 229
+    },
+    {
+      "position": "221",
+      "name": "SZKOŁA PODSTAWOWA NR 397 IM. BOHATERÓW OLSZYNKI GROCHOWSKIEJ",
+      "address": "ul. Afrykańska 11",
+      "rating": 64.65,
+      "location": {
+        "lat": 52.2276022,
+        "lng": 21.0693838
+      },
+      "id": 230
+    },
+    {
+      "position": "222",
+      "name": "SZKOŁA PODSTAWOWA NR 88 IM. GABRIELA NARUTOWICZA",
+      "address": "ul. Radarowa 4b",
+      "rating": 64.61,
+      "location": {
+        "lat": 52.1927642,
+        "lng": 20.9669202
+      },
+      "id": 231
+    },
+    {
+      "position": "223",
+      "name": "SZKOŁA PODSTAWOWA NR 42 Z ODDZIAŁAMI INTEGRACYJNYMI IM. KONSTANTEGO ILDEFONSA GAŁCZYŃSKIEGO",
+      "address": "ul. Balkonowa 4",
+      "rating": 64.58,
+      "location": {
+        "lat": 52.28606440000001,
+        "lng": 21.0391648
+      },
+      "id": 232
+    },
+    {
+      "position": "223",
+      "name": "SZKOŁA PODSTAWOWA NR 298 IM. JANA KASPROWICZA",
+      "address": "ul. Krakusa 2",
+      "rating": 64.58,
+      "location": {
+        "lat": 52.2915773,
+        "lng": 21.0254783
+      },
+      "id": 233
+    },
+    {
+      "position": "224",
+      "name": "SZKOŁA PODSTAWOWA NR 172 IM. POLSKIEJ ORGANIZACJI WOJSKOWEJ",
+      "address": "ul. Brata Alberta 46",
+      "rating": 64.47,
+      "location": {
+        "lat": 52.2390277,
+        "lng": 21.1910757
+      },
+      "id": 234
+    },
+    {
+      "position": "225",
+      "name": "SZKOŁA PODSTAWOWA NR 1 IM. GUSTAWA MORCINKA",
+      "address": "ul. Wilcza 53",
+      "rating": 64.41,
+      "location": {
+        "lat": 52.223363,
+        "lng": 21.010997
+      },
+      "id": 235
+    },
+    {
+      "position": "226",
+      "name": "SZKOŁA PODSTAWOWA NR 383 IM. KS. STEFANA KARDYNAŁA WYSZYŃSKIEGO",
+      "address": "ul. Warszawska 63",
+      "rating": 64.39,
+      "location": {
+        "lat": 52.1934634,
+        "lng": 20.861286
+      },
+      "id": 236
+    },
+    {
+      "position": "227",
+      "name": "SZKOŁA PODSTAWOWA IM KOMISJI EDUKACJI NARODOWEJ",
+      "address": "ul. Kielecka 43",
+      "rating": 64.35,
+      "location": {
+        "lat": 52.2058923,
+        "lng": 21.0044689
+      },
+      "id": 237
+    },
+    {
+      "position": "228",
+      "name": "SZKOŁA PODSTAWOWA THAMES BRITISH SCHOOL",
+      "address": "ul. Wawelska 66/74",
+      "rating": 64.27,
+      "location": {
+        "lat": 52.2167179,
+        "lng": 20.9843962
+      },
+      "id": 238
+    },
+    {
+      "position": "229",
+      "name": "SZKOŁA PODSTAWOWA NR 110 IM. KAZIMIERZA JEŻEWSKIEGO",
+      "address": "ul. Bohaterów 41",
+      "rating": 64.25,
+      "location": {
+        "lat": 52.3406242,
+        "lng": 20.9940733
+      },
+      "id": 239
+    },
+    {
+      "position": "230",
+      "name": "SZKOŁA PODSTAWOWA NR 120 Z ODDZIAŁAMI INTEGRACYJNYMI IM. PUŁKÓW PIECHOTY \"DZIECI WARSZAWY\"",
+      "address": "ul. Międzyborska 64/70",
+      "rating": 64.05,
+      "location": {
+        "lat": 52.2408508,
+        "lng": 21.0787666
+      },
+      "id": 240
+    },
+    {
+      "position": "231",
+      "name": "SZKOŁA PODSTAWOWA NR 139 IM. LUDWIKI WAWRZYŃSKIEJ",
+      "address": "ul. Syreny 5/7",
+      "rating": 63.87,
+      "location": {
+        "lat": 52.2342086,
+        "lng": 20.9623
+      },
+      "id": 241
+    },
+    {
+      "position": "232",
+      "name": "SZKOŁA PODSTAWOWA NR 187 IM. ADAMA MICKIEWICZA",
+      "address": "ul. Leopolda Staffa 21",
+      "rating": 63.34,
+      "location": {
+        "lat": 52.27415269999999,
+        "lng": 20.9566842
+      },
+      "id": 242
+    },
+    {
+      "position": "233",
+      "name": "SZKOŁA PODSTAWOWA NR 28 IM. STEFANA ŻEROMSKIEGO",
+      "address": "ul. Gościeradowska 18/20",
+      "rating": 63.17,
+      "location": {
+        "lat": 52.2744401,
+        "lng": 21.0450873
+      },
+      "id": 243
+    },
+    {
+      "position": "234",
+      "name": "NIEPUBLICZNA PODSTAWOWA SZKOŁA MONTESSORI W WARSZAWIE",
+      "address": "ul. Henryka II Pobożnego 1",
+      "rating": 63.14,
+      "location": {
+        "lat": 52.1995534,
+        "lng": 20.8663504
+      },
+      "id": 244
+    },
+    {
+      "position": "235",
+      "name": "SZKOŁA PODSTAWOWA NR 138 Z ODDZIAŁAMI INTEGRACYJNYMI IM. JÓZEFA HORSTA",
+      "address": "ul. Mieczysława Pożaryskiego 2",
+      "rating": 62.9,
+      "location": {
+        "lat": 52.2029633,
+        "lng": 21.1805106
+      },
+      "id": 245
+    },
+    {
+      "position": "236",
+      "name": "SZKOŁA PODSTAWOWA NR 3 IM. DZIECI POWSTANIA WARSZAWSKIEGO",
+      "address": "ul. Gościniec 53",
+      "rating": 62.79,
+      "location": {
+        "lat": 52.211858,
+        "lng": 21.0735738
+      },
+      "id": 246
+    },
+    {
+      "position": "237",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 214 IM. STANISŁAWA SKRYPIJA",
+      "address": "ul. Antoniego Fontany 1",
+      "rating": 62.79,
+      "location": {
+        "lat": 52.2742318,
+        "lng": 20.9482889
+      },
+      "id": 247
+    },
+    {
+      "position": "238",
+      "name": "SZKOŁA PODSTAWOWA NR 76 IM. 13 DYWIZJI PIECHOTY STRZELCÓW KRESOWYCH",
+      "address": "ul. Poezji 5",
+      "rating": 62.08,
+      "location": {
+        "lat": 52.1557103,
+        "lng": 21.2027975
+      },
+      "id": 248
+    },
+    {
+      "position": "239",
+      "name": "SZKOŁA PODSTAWOWA NR 258 IM. GEN. JAKUBA JASIŃSKIEGO",
+      "address": "ul. Bertolta Brechta 8",
+      "rating": 61.85,
+      "location": {
+        "lat": 52.25966769999999,
+        "lng": 21.031868
+      },
+      "id": 249
+    },
+    {
+      "position": "240",
+      "name": "SZKOŁA PODSTAWOWA NR 98 Z ODDZIAŁAMI INTEGRACYJNYMI IM. LUCY MAUD MONTGOMERY",
+      "address": "ul. Artura Grottgera 22",
+      "rating": 61.79,
+      "location": {
+        "lat": 52.2053088,
+        "lng": 21.0281318
+      },
+      "id": 250
+    },
+    {
+      "position": "241",
+      "name": "SZKOŁA PODSTAWOWA NR 227 IM. KAPITANA LUCYNY HERTZ",
+      "address": "ul. Astronautów 17",
+      "rating": 61.57,
+      "location": {
+        "lat": 52.1842623,
+        "lng": 20.9733063
+      },
+      "id": 251
+    },
+    {
+      "position": "242",
+      "name": "SZKOŁA PODSTAWOWA NR 163 IM. BATALIONU \"ZOŚKA\"",
+      "address": "ul. Osiecka 28/32",
+      "rating": 61.09,
+      "location": {
+        "lat": 52.2376088,
+        "lng": 21.104824
+      },
+      "id": 252
+    },
+    {
+      "position": "243",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 189 IM. MARSZAŁAKA JÓZEFA PIŁSUDSKIEGO",
+      "address": "ul. Dwóch Mieczy 5",
+      "rating": 60.98,
+      "location": {
+        "lat": 52.2530461,
+        "lng": 21.1640965
+      },
+      "id": 253
+    },
+    {
+      "position": "244",
+      "name": "SZKOŁA PODSTAWOWA INTEGRACYJNA NR 317 IM. EDMUNDA BOJANOWSKIEGO",
+      "address": "ul. Deotymy 37",
+      "rating": 60.88,
+      "location": {
+        "lat": 52.24340309999999,
+        "lng": 20.9473584
+      },
+      "id": 254
+    },
+    {
+      "position": "245",
+      "name": "SZKOŁA PODSTAWOWA NR 119 IM. 3 BERLIŃSKIEGO PUŁKU PIECHOTY",
+      "address": "ul. Pułku AK \"Baszta\" 3",
+      "rating": 60.86,
+      "location": {
+        "lat": 52.1903683,
+        "lng": 21.0054095
+      },
+      "id": 255
+    },
+    {
+      "position": "246",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 223 IM. PARTYZANTÓW ZIEMI KIELECKIEJ",
+      "address": "ul. Jana Kasprowicza 107",
+      "rating": 60.81,
+      "location": {
+        "lat": 52.2844572,
+        "lng": 20.9423254
+      },
+      "id": 256
+    },
+    {
+      "position": "247",
+      "name": "SZKOŁA PODSTAWOWA NR 264 IM. GABRIELI MISTRAL W WARSZAWIE",
+      "address": "ul. Walentego Skorochód-Majewskiego 17",
+      "rating": 60.79,
+      "location": {
+        "lat": 52.2030081,
+        "lng": 20.9723489
+      },
+      "id": 257
+    },
+    {
+      "position": "248",
+      "name": "SZKOŁA PODSTAWOWA NR 371 IM. SANDRO PERTINIEGO",
+      "address": "ul. Jana III Sobieskiego 68",
+      "rating": 60.3,
+      "location": {
+        "lat": 52.1849471,
+        "lng": 21.0555473
+      },
+      "id": 258
+    },
+    {
+      "position": "249",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 216 \"KLONOWEGO LIŚCIA\"",
+      "address": "ul. Wolna 36/38",
+      "rating": 60.28,
+      "location": {
+        "lat": 52.1703513,
+        "lng": 21.2158917
+      },
+      "id": 259
+    },
+    {
+      "position": "250",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 61 IM. JULIANA PRZYBOSIA W WARSZAWIE",
+      "address": "ul. Białobrzeska 27",
+      "rating": 59.9,
+      "location": {
+        "lat": 52.215157,
+        "lng": 20.9743411
+      },
+      "id": 260
+    },
+    {
+      "position": "251",
+      "name": "SZKOŁA PODSTAWOWA NR 246 IM. I WARSZAWSKIEJ DYWIZJI PIECHOTY IM. TADEUSZA KOŚCIUSZKI",
+      "address": "ul. Białowieska 22",
+      "rating": 59.48,
+      "location": {
+        "lat": 52.23820019999999,
+        "lng": 21.0925004
+      },
+      "id": 261
+    },
+    {
+      "position": "252",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 30 IM. POWSTAŃCÓW 1863 R. W WARSZAWIE",
+      "address": "ul. Kawęczyńska 2",
+      "rating": 59.38,
+      "location": {
+        "lat": 52.2550155,
+        "lng": 21.0495075
+      },
+      "id": 262
+    },
+    {
+      "position": "253",
+      "name": "SZKOŁA PODSTAWOWA NR 210 IM. BOHATERÓW PAWIAKA",
+      "address": "ul. Karmelicka 13",
+      "rating": 59.26,
+      "location": {
+        "lat": 52.2468802,
+        "lng": 20.9922672
+      },
+      "id": 263
+    },
+    {
+      "position": "254",
+      "name": "SZKOŁA PODSTAWOWA NR 206 Z ODDZIAŁAMI INTEGRACYJNYMI IM. WŁADYSŁAWA REYMONTA",
+      "address": "ul. Bartnicza 2",
+      "rating": 59.08,
+      "location": {
+        "lat": 52.2861089,
+        "lng": 21.0237773
+      },
+      "id": 264
+    },
+    {
+      "position": "255",
+      "name": "SZKOŁA PODSTAWOWA NR 271 IM. 11 LISTOPADA",
+      "address": "ul. Niegocińska 2",
+      "rating": 58.77,
+      "location": {
+        "lat": 52.1741918,
+        "lng": 21.0086941
+      },
+      "id": 265
+    },
+    {
+      "position": "256",
+      "name": "SZKOŁA PODSTAWOWA NR 48 IMIENIA ADAMA PRÓCHNIKA",
+      "address": "ul. Stefanii Sempołowskiej 4",
+      "rating": 58.73,
+      "location": {
+        "lat": 52.2189267,
+        "lng": 21.0202611
+      },
+      "id": 266
+    },
+    {
+      "position": "257",
+      "name": "SZKOŁA PODSTAWOWA NR 97 IM. LEONA KRUCZKOWSKIEGO W WARSZAWIE",
+      "address": "ul. Spiska 1",
+      "rating": 58.63,
+      "location": {
+        "lat": 52.2216748,
+        "lng": 20.9839958
+      },
+      "id": 267
+    },
+    {
+      "position": "258",
+      "name": "SZKOŁA PODSTAWOWA NR 273 IM. DR. ALEKSANDRA LANDY W WARSZAWIE, SZKOŁA FILIALNA W WARSZAWIE",
+      "address": "ul. Arkuszowa 202",
+      "rating": 57.97,
+      "location": {
+        "lat": 52.2875942,
+        "lng": 20.8774391
+      },
+      "id": 268
+    },
+    {
+      "position": "259",
+      "name": "SZKOŁA PODSTAWOWA NR 191 IM. JÓZEFA IGNACEGO KRASZEWSKIEGO",
+      "address": "ul. Bokserska 30",
+      "rating": 57.82,
+      "location": {
+        "lat": 52.168209,
+        "lng": 21.005328
+      },
+      "id": 269
+    },
+    {
+      "position": "260",
+      "name": "SZKOŁA PODSTAWOWA NR 25 IM. KOMISJI EDUKACJI NARODOWEJ",
+      "address": "ul. Grzybowska 35",
+      "rating": 57.43,
+      "location": {
+        "lat": 52.2352304,
+        "lng": 20.9951468
+      },
+      "id": 270
+    },
+    {
+      "position": "261",
+      "name": "SPOŁECZNA SZKOŁA PODSTAWOWA FUNDACJI \"ALTEREDU\"",
+      "address": "ul. Karmelicka 26",
+      "rating": 57.42,
+      "location": {
+        "lat": 52.2508942,
+        "lng": 20.9897922
+      },
+      "id": 271
+    },
+    {
+      "position": "261",
+      "name": "SZKOŁA PODSTAWOWA NR 195 IM. KRÓLA MACIUSIA I",
+      "address": "ul. Króla Maciusia 5",
+      "rating": 57.42,
+      "location": {
+        "lat": 52.238499,
+        "lng": 21.1424759
+      },
+      "id": 272
+    },
+    {
+      "position": "262",
+      "name": "SZKOŁA PODSTAWOWA SPORTOWA NR 272 IM. EUGENIUSZA LOKAJSKIEGO",
+      "address": "ul. Piaseczyńska 114/116",
+      "rating": 57.04,
+      "location": {
+        "lat": 52.1989392,
+        "lng": 21.0328562
+      },
+      "id": 273
+    },
+    {
+      "position": "263",
+      "name": "SZKOŁA PODSTAWOWA NR 72 IM. PRZYJACIÓŁ GROCHOWA",
+      "address": "ul. Ludwika Michała Paca 44",
+      "rating": 56.85,
+      "location": {
+        "lat": 52.2491803,
+        "lng": 21.0815607
+      },
+      "id": 274
+    },
+    {
+      "position": "264",
+      "name": "SZKOŁA PODSTAWOWA NR 174 Z ODDZIAŁAMI INTEGRACYJNYMI IM. TADEUSZA KOŚCIUSZKI",
+      "address": "pl. Plac Wojska Polskiego 28",
+      "rating": 56.78,
+      "location": {
+        "lat": 52.25586699999999,
+        "lng": 21.2305679
+      },
+      "id": 275
+    },
+    {
+      "position": "265",
+      "name": "SZKOŁA PODSTAWOWA NR 132 IM. SÁNDORA PETŐFIEGO",
+      "address": "ul. Grabowska 1",
+      "rating": 56.15,
+      "location": {
+        "lat": 52.2285769,
+        "lng": 20.9533481
+      },
+      "id": 276
+    },
+    {
+      "position": "266",
+      "name": "SZKOŁA PODSTAWOWA NR 260 IM. JANA MATEJKI",
+      "address": "ul. Zakrzewska 24 B",
+      "rating": 55.3,
+      "location": {
+        "lat": 52.2052092,
+        "lng": 21.0403567
+      },
+      "id": 277
+    },
+    {
+      "position": "267",
+      "name": "SZKOŁA PODSTAWOWA NR 26 IM. MIROSŁAWA BIERNACKIEGO",
+      "address": "ul. Miedziana 8",
+      "rating": 54.28,
+      "location": {
+        "lat": 52.2289057,
+        "lng": 20.9909856
+      },
+      "id": 278
+    },
+    {
+      "position": "268",
+      "name": "SZKOŁA PODSTAWOWA NR 254 IM. GEN FRANCISZKA ŻYMIRSKIEGO W ZESPOLE SZKÓŁ NR 74",
+      "address": "ul. Niepołomicka 26",
+      "rating": 54.05,
+      "location": {
+        "lat": 52.2469538,
+        "lng": 21.1358376
+      },
+      "id": 279
+    },
+    {
+      "position": "269",
+      "name": "SZKOŁA PODSTAWOWA NR 236 Z ODDZIAŁAMI INTEGRACYJNYMI IM. IRENY SENDLEROWEJ",
+      "address": "ul. Elekcyjna 21/23",
+      "rating": 53.82,
+      "location": {
+        "lat": 52.2342695,
+        "lng": 20.9474018
+      },
+      "id": 280
+    },
+    {
+      "position": "270",
+      "name": "PRYWATNA SZKOŁA PODSTAWOWA NR 83",
+      "address": "ul. Wacława Lachmana 2",
+      "rating": 53.78,
+      "location": {
+        "lat": 52.1572938,
+        "lng": 21.042037
+      },
+      "id": 281
+    },
+    {
+      "position": "271",
+      "name": "SZKOŁA PODSTAWOWA NR 60 IM. POWSTANIA LISTOPADOWEGO",
+      "address": "ul. Zbaraska 3",
+      "rating": 53.69,
+      "location": {
+        "lat": 52.24395680000001,
+        "lng": 21.0723616
+      },
+      "id": 282
+    },
+    {
+      "position": "272",
+      "name": "SZKOŁA PODSTAWOWA NR 388 IM. JANA PAWŁA II",
+      "address": "ul. Deotymy 25/33",
+      "rating": 53.63,
+      "location": {
+        "lat": 52.2421255,
+        "lng": 20.9467572
+      },
+      "id": 283
+    },
+    {
+      "position": "272",
+      "name": "SZKOŁA PODSTAWOWA NR 148 IM. HUGONA KOŁŁĄTAJA",
+      "address": "ul. Ożarowska 69",
+      "rating": 51.63,
+      "location": {
+        "lat": 52.2461287,
+        "lng": 20.9505703
+      },
+      "id": 284
+    },
+    {
+      "position": "273",
+      "name": "SZKOŁA PODSTAWOWA NR 273 IM. DR. ALEKSANDRA LANDY",
+      "address": "ul. Józefa Balcerzaka 1",
+      "rating": 50.84,
+      "location": {
+        "lat": 52.292694,
+        "lng": 20.9339665
+      },
+      "id": 285
+    },
+    {
+      "position": "274",
+      "name": "SZKOŁA PODSTAWOWA NR 395 IM. ROTMISTRZA WITOLDA PILECKIEGO",
+      "address": "ul. Józefa Sierakowskiego 9",
+      "rating": 50.5,
+      "location": {
+        "lat": 52.2504893,
+        "lng": 21.0308916
+      },
+      "id": 286
+    },
+    {
+      "position": "275",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 73 IM. KRÓLA STEFANA BATOREGO W WARSZAWIE",
+      "address": "ul. Białostocka 10/18",
+      "rating": 50.39,
+      "location": {
+        "lat": 52.2540102,
+        "lng": 21.039295
+      },
+      "id": 287
+    },
+    {
+      "position": "276",
+      "name": "SZKOŁA PODSTAWOWA NR 63 IM. ZAWISZY CZARNEGO",
+      "address": "ul. Płocka 30",
+      "rating": 49.4,
+      "location": {
+        "lat": 52.2381863,
+        "lng": 20.9661296
+      },
+      "id": 288
+    },
+    {
+      "position": "277",
+      "name": "SZKOŁA PODSTAWOWA NR 377 IM. MAJORA HENRYKA DOBRZAŃSKIEGO \"HUBALA\" W WARSZAWIE",
+      "address": "ul. Trocka 4",
+      "rating": 49.36,
+      "location": {
+        "lat": 52.2749399,
+        "lng": 21.0601974
+      },
+      "id": 289
+    },
+    {
+      "position": "278",
+      "name": "SZKOŁA PODSTAWOWA NR 202 IM. 34 PUŁKU STRZELCÓW BUDZISZYŃSKICH",
+      "address": "ul. Jana Bytnara \"Rudego\" 19",
+      "rating": 48.94,
+      "location": {
+        "lat": 52.1924092,
+        "lng": 21.0061159
+      },
+      "id": 290
+    },
+    {
+      "position": "278",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 354 IM. ADAMA ASNYKA",
+      "address": "ul. Otwocka 3",
+      "rating": 48.93,
+      "location": {
+        "lat": 52.2593132,
+        "lng": 21.0573295
+      },
+      "id": 291
+    },
+    {
+      "position": "279",
+      "name": "SZKOŁA PODSTAWOWA Z ODDZIAŁAMI INTEGRACYJNYMI NR 247 IM. KAZIMIERZA LISIECKIEGO \"DZIADKA\"",
+      "address": "ul. Wrzeciono 9",
+      "rating": 48.65,
+      "location": {
+        "lat": 52.28939459999999,
+        "lng": 20.9381801
+      },
+      "id": 292
+    },
+    {
+      "position": "280",
+      "name": "SZKOŁA PODSTAWOWA NR 127 IM. HENRYKA SIENKIEWICZA W WARSZAWIE",
+      "address": "ul. Kowieńska 12/20",
+      "rating": 47.97,
+      "location": {
+        "lat": 52.2633283,
+        "lng": 21.041605
+      },
+      "id": 293
+    },
+    {
+      "position": "281",
+      "name": "SZKOŁA PODSTAWOWA NR 58 IM. TADEUSZA GAJCEGO W WARSZAWIE",
+      "address": "ul. Mieszka I 7",
+      "rating": 36.48,
+      "location": {
+        "lat": 52.267516,
+        "lng": 21.069191
+      },
+      "id": 294
+    },
+    {
+      "position": "282",
+      "name": "SZKOŁA PODSTAWOWA SPECJALNA NR 167",
+      "address": "ul. św. Bonifacego 81",
+      "rating": 35.89,
+      "location": {
+        "lat": 52.1846386,
+        "lng": 21.0595281
+      },
+      "id": 295
+    },
+    {
+      "position": "283",
+      "name": "SZKOŁA PODSTAWOWA NR 174 MAŁE DZIEŁO BOSKIEJ OPATRZNOŚCI - ORIONIŚCI",
+      "address": "ul. Barska 4",
+      "rating": 34.98,
+      "location": {
+        "lat": 52.2194708,
+        "lng": 20.9818413
+      },
+      "id": 296
+    },
+    {
+      "position": "284",
+      "name": "SZKOŁA PODSTAWOWA SPECJALNA NR 348 W MŁODZIEŻOWYM OŚRODKU SOCJOTERAPII NR 7",
+      "address": "ul. Osowska 81",
+      "rating": 34.91,
+      "location": {
+        "lat": 52.2465306,
+        "lng": 21.0939465
+      },
+      "id": 297
+    },
+    {
+      "position": "285",
+      "name": "SZKOŁA PODSTAWOWA SPECJALNA NR 331",
+      "address": "ul. Jana Brożka 26",
+      "rating": 34.83,
+      "location": {
+        "lat": 52.2417266,
+        "lng": 20.9354381
+      },
+      "id": 298
+    },
+    {
+      "position": "286",
+      "name": "SZKOŁA PODSTAWOWA NR 224 DLA DOROSŁYCH",
+      "address": "ul. Mińska 1/5",
+      "rating": 33.94,
+      "location": {
+        "lat": 52.2482301,
+        "lng": 21.0545769
+      },
+      "id": 299
+    },
+    {
+      "position": "287",
+      "name": "SZKOŁA PODSTAWOWA NR 166 IM. ŻWIRKI I WIGURY",
+      "address": "ul. Żytnia 40",
+      "rating": 31.44,
+      "location": {
+        "lat": 52.2400262,
+        "lng": 20.9739939
+      },
+      "id": 300
+    },
+    {
+      "position": "288",
+      "name": "SZKOŁA PODSTAWOWA SPECJALNA NR 131",
+      "address": "ul. Strażacka 57",
+      "rating": 29.28,
+      "location": {
+        "lat": 52.2596447,
+        "lng": 21.1325697
+      },
+      "id": 301
+    },
+    {
+      "position": "289",
+      "name": "SZKOŁA PODSTAWOWA NR 394",
+      "address": "ul. Mahatmy Gandhiego 13",
+      "rating": 29.22,
+      "location": {
+        "lat": 52.1936469,
+        "lng": 21.0082492
+      },
+      "id": 302
+    },
+    {
+      "position": "290",
+      "name": "SZKOŁA PODSTAWOWA SPECJALNA NR 201",
+      "address": "ul. Dolna 19",
+      "rating": 27.42,
+      "location": {
+        "lat": 52.2006525,
+        "lng": 21.0302973
+      },
+      "id": 303
+    },
+    {
+      "position": "291",
+      "name": "SZKOŁA PODSTAWOWA DLA DOROSŁYCH NR 390",
+      "address": "ul. Księcia Janusza 45/47",
+      "rating": 24.33,
+      "location": {
+        "lat": 52.2445161,
+        "lng": 20.9395219
+      },
+      "id": 304
+    },
+    {
+      "position": "292",
+      "name": "SZKOŁA PODSTAWOWA SPECJALNA NR 137",
+      "address": "ul. Patriotów 90",
+      "rating": 24.1,
+      "location": {
+        "lat": 52.1707718,
+        "lng": 21.203147
+      },
+      "id": 305
+    },
+    {
+      "position": "293",
+      "name": "SZKOŁA PODSTAWOWA DLA DOROSŁYCH NR 372 W WARSZAWIE",
+      "address": "ul. Szczęśliwicka 50/54",
+      "rating": 23.48,
+      "location": {
+        "lat": 52.2157677,
+        "lng": 20.9679145
+      },
+      "id": 306
+    }
+  ],
+  "flats": [
+    {
+      "id": 1,
+      "address": "Park Agrykola,",
+      "phone": "xxx xxx xxx",
+      "price": 4400,
+      "previousPrice": 4200,
+      "rating": 5,
+      "link": "https://www.olx.pl/d/oferta/mieszkanie-3-pokojowe-do-wynajecia-obok-lazienek-krolewskich-warszawa-CID3-IDLYwNb.html?reason=ip%7Ccf",
+      "location": {
+        "lat": "52.2200",
+        "lng": "21.0325"
+      },
+      "hidden": false
+    },
+    {
+      "id": 2,
+      "address": "ul. Marszałkowska 111a",
+      "phone": "500 236 190",
+      "price": 4200,
+      "previousPrice": null,
+      "rating": 3,
+      "link": "https://www.olx.pl/d/oferta/do-wynajecia-mieszkanie-3-pokojowe-w-centrum-ul-marszalkowska-111a-CID3-IDEWlgb.html?isPreviewActive=0&sliderIndex=6",
+      "location": {
+        "lat": "52.2391",
+        "lng": "21.0039"
+      },
+      "hidden": false
+    },
+    {
+      "id": 3,
+      "address": "-",
+      "phone": "5********26",
+      "price": 4000,
+      "previousPrice": null,
+      "rating": 3,
+      "link": "https://www.olx.pl/d/oferta/wynajme-mieszkanie-3-pokojowe-bez-posrednikow-CID3-IDPOvbz.html?isPreviewActive=0&sliderIndex=0",
+      "location": {
+        "lat": "52.2525",
+        "lng": "21.0167"
+      },
+      "hidden": false
+    },
+    {
+      "id": 4,
+      "address": "Przy parku szczęśliwickim",
+      "phone": "731 274 366",
+      "price": 3800,
+      "previousPrice": null,
+      "rating": 5,
+      "link": "https://www.olx.pl/d/oferta/do-wynajecia-bezposrednio-3-pokojowe-mieszkanie-na-os-zamknietym-ziel-CID3-IDOwsln.html?isPreviewActive=0&sliderIndex=4",
+      "location": {
+        "lat": "52.2053",
+        "lng": "20.9586"
+      },
+      "hidden": false
+    },
+    {
+      "id": 5,
+      "address": "Stacji metra Ursynów",
+      "phone": "xxx xxx xxx",
+      "price": 4000,
+      "previousPrice": null,
+      "rating": 4,
+      "link": "https://www.olx.pl/d/oferta/4-pokoje-do-wynajecia-warszawa-ursynow-bezposrednio-CID3-IDPOwHI.html",
+      "location": {
+        "lat": "52.1619",
+        "lng": "21.0276"
+      },
+      "hidden": false
+    },
+    {
+      "id": 6,
+      "address": "Przy ul Głębockiej",
+      "phone": "xxx xxx xxx",
+      "price": 4500,
+      "previousPrice": null,
+      "rating": 3,
+      "link": "https://www.olx.pl/d/oferta/nowoczesne-i-stylowe-mieszkanie-3-pokoje-parking-dobra-komunikacja-CID3-IDPoMBC.html",
+      "location": {
+        "lat": "52.3068",
+        "lng": "21.0611"
+      },
+      "hidden": false
+    }
+  ]
+}

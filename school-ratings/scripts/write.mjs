@@ -1,4 +1,10 @@
-import {writeFile} from 'fs/promises';
+import {readFile, writeFile} from 'fs/promises';
 
-const data = JSON.stringify({a: 'a', b: 'b'}, null, 4);
-await writeFile(new URL('../db/data.json', import.meta.url), data);
+const db = await readFile(new URL('../db/db.json', import.meta.url));
+const schools = JSON.parse(db).schools.map((school, index) => {
+    const rating = Number(school.rating.replace(',', '.'))
+    return ({...school, id: index + 1, rating})
+})
+const data = JSON.stringify({schools}, null, 2);
+
+await writeFile(new URL('../db/db.json', import.meta.url), data);
