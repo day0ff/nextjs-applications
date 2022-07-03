@@ -13,7 +13,7 @@ const request = {
     spreadsheetId,
 
     // The A1 notation of the values to retrieve.
-    range: 'flats!A2:J52',
+    range: 'private-preschool!A2:G478',
 
     // How values should be represented in the output.
     // The default render option is ValueRenderOption.FORMATTED_VALUE.
@@ -32,7 +32,7 @@ try {
     const response = (await sheets.spreadsheets.values.get(request)).data;
     const data = JSON.stringify(response, null, 2);
 
-    await writeFile(new URL('../data/raw-flat-data.json', import.meta.url), data);
+    await writeFile(new URL('../data/raw-preschool-private-data.json', import.meta.url), data);
 } catch (err) {
     console.error(err);
 }

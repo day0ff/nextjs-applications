@@ -1,0 +1,4756 @@
+[
+  {
+    "id": 1,
+    "name": "\"Bajeczka\" Niepubliczne Przedszkole Integracyjne",
+    "address": "Bemowo, G. Morcinka 14B ",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.25877149999999,
+      "lng": 20.9205438
+    }
+  },
+  {
+    "id": 2,
+    "name": "Niepubliczne Sportowo-Językowe Przedszkole Fair Play",
+    "address": "Bemowo, Lazurowa 89 u5",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.2349164,
+      "lng": 20.8963214
+    }
+  },
+  {
+    "id": 3,
+    "name": "\"Przedszkole Leśne\"",
+    "address": "Bemowo, S. Kunickiego 49 ",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.2601959,
+      "lng": 20.8987245
+    }
+  },
+  {
+    "id": 4,
+    "name": "Artystyczno-Językowe Super Przedszkole",
+    "address": "Bemowo, E. .J. Osmańczyka 22 161",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.260468,
+      "lng": 20.9327091
+    }
+  },
+  {
+    "id": 5,
+    "name": "Niepubliczne Przedszkole \"Akacjowa Chatka\"",
+    "address": "Bemowo, Sternicza 97 ",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.2216928,
+      "lng": 20.9088603
+    }
+  },
+  {
+    "id": 6,
+    "name": "Niepubliczne Przedszkole \"Jaśkowo\"",
+    "address": "Bemowo, Dywizjonu 303 169 ",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.2462671,
+      "lng": 20.900813
+    }
+  },
+  {
+    "id": 7,
+    "name": "Niepubliczne Przedszkole \"Małe Zuchy\"",
+    "address": "Bemowo, Obrońców Tobruku 23 110/111",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.2558593,
+      "lng": 20.9330812
+    }
+  },
+  {
+    "id": 8,
+    "name": "Niepubliczne Przedszkole \"Nasz Domek\"",
+    "address": "Bemowo, Oświatowa 29 ",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.2328625,
+      "lng": 20.9197866
+    }
+  },
+  {
+    "id": 9,
+    "name": "Niepubliczne Przedszkole \"Żyrafki\"",
+    "address": "Bemowo, Obrońców Tobruku 38/U2 ",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.25813369999999,
+      "lng": 20.9321293
+    }
+  },
+  {
+    "id": 10,
+    "name": "Niepubliczne Przedszkole Dziecięcy Kącik Warszawa-Bemowo",
+    "address": "Bemowo, Powstańców Śląskich 106 D 203",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.2550492,
+      "lng": 20.9196306
+    }
+  },
+  {
+    "id": 11,
+    "name": "Niepubliczne Przedszkole Integracyjne \"Zielony Latawiec\" (II miejsce: ul. Czerniakowska 161)",
+    "address": "Bemowo, A. Sołtana 3 ",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.2557531,
+      "lng": 20.9242751
+    }
+  },
+  {
+    "id": 12,
+    "name": "PRO FUTURO - Przedszkole Niepubliczne \"Słoneczna Dróżka\"",
+    "address": "Bemowo, gen. W. Urbanowicza (dawna Kaliskiego) 29a ",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.2564611,
+      "lng": 20.8959146
+    }
+  },
+  {
+    "id": 13,
+    "name": "Prywatne Przedszkole \"Jak u Mamy\"",
+    "address": "Bemowo, Obrońców Tobruku 38 5",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.25813369999999,
+      "lng": 20.9321293
+    }
+  },
+  {
+    "id": 14,
+    "name": "Przedszkola Pomarańczowa Ciuchcia Spółka z o.o. Spółka komandytowa",
+    "address": "Bemowo, Lazurowa 67 ",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.2289571,
+      "lng": 20.89595
+    }
+  },
+  {
+    "id": 15,
+    "name": "Przedszkola Pomarańczowa Ciuchcia Spółka z o.o. Spółka komandytowa",
+    "address": "Bemowo, gen. S. Kaliskiego 23B ",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.25389819999999,
+      "lng": 20.8942687
+    }
+  },
+  {
+    "id": 16,
+    "name": "Przedszkole \"Dzieci Świata\"( II miejsce ul. Dywizjonu 303 nr 141 A)",
+    "address": "Bemowo, Dywizjonu 303 125 ",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.2463106,
+      "lng": 20.9073849
+    }
+  },
+  {
+    "id": 17,
+    "name": "Przedszkole \"Mały Europejczyk\"",
+    "address": "Bemowo, Okrętowa 57/59 ",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.2234717,
+      "lng": 20.9039343
+    }
+  },
+  {
+    "id": 18,
+    "name": "Przedszkole \"Puchatek\" (II miejsce: Pełczyńskiego 28A)",
+    "address": "Bemowo, gen. T. Pełczyńskiego 28B ",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.2432533,
+      "lng": 20.901738
+    }
+  },
+  {
+    "id": 19,
+    "name": "Przedszkole Niepubliczne \" Kangurek Hop\" (II miejsce: Krasińskiego 57 lok. 27)",
+    "address": "Bemowo, Kluczborska 2 ",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.242416,
+      "lng": 20.92304
+    }
+  },
+  {
+    "id": 20,
+    "name": "Przedszkole Niepubliczne \"Dzwoneczek\"",
+    "address": "Bemowo, Batalionów Chłopskich 87 ",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.2316922,
+      "lng": 20.8896258
+    }
+  },
+  {
+    "id": 21,
+    "name": "Przedszkole Niepubliczne \"Miś Optymiś\"",
+    "address": "Bemowo, Powstańców Śląskich 67b ",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.2340449,
+      "lng": 20.910332
+    }
+  },
+  {
+    "id": 22,
+    "name": "Przedszkole \"Jan Pawełek\"",
+    "address": "Bemowo, Obrońców Tobruku 48 ",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.2539962,
+      "lng": 20.9297179
+    }
+  },
+  {
+    "id": 23,
+    "name": "Przedszkole Niepubliczne Norlandia(II lokalizacja: Jana kaziemierza 46 A, ul. Habicha 22 lok SNU/5/J/0/LU5, ul. kolejowa 47a lok. U7)",
+    "address": "Bemowo, Strąkowa 26 ",
+    "district": "Bemowo",
+    "location": {
+      "lat": 52.2322712,
+      "lng": 20.9220434
+    }
+  },
+  {
+    "id": 24,
+    "name": "Niepubliczne Przedszkole BIAŁY KRÓLIK",
+    "address": "Białołęka, Stogi 1 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3371459,
+      "lng": 21.0476836
+    }
+  },
+  {
+    "id": 25,
+    "name": "\"Akademia Maluchów\" -Tarchomin Niepubliczne Anglojęzyczne Przedszkole Integracyjne",
+    "address": "Białołęka, Zbytki 4 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3423633,
+      "lng": 20.9390089
+    }
+  },
+  {
+    "id": 26,
+    "name": "\"Przedszkole Leśne\" K.Łagodzińska",
+    "address": "Białołęka, Osiedle 11 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.347577,
+      "lng": 20.9450134
+    }
+  },
+  {
+    "id": 27,
+    "name": "Bajka Przedszkole Niepubliczne (II miejsce Mehoffera 53, III: Chudoby 4)",
+    "address": "Białołęka, L. Berensona 32 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3241288,
+      "lng": 21.0664054
+    }
+  },
+  {
+    "id": 28,
+    "name": "Niepubliczne Przedszkole Planeta Fantazji",
+    "address": "Białołęka, Krzyzówki 32 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3079153,
+      "lng": 20.994356
+    }
+  },
+  {
+    "id": 29,
+    "name": "Niepubliczne Integracyjne Przedszkole \"Róża Montessori\"",
+    "address": "Białołęka, Majorki 25 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.33580320000001,
+      "lng": 21.0000791
+    }
+  },
+  {
+    "id": 30,
+    "name": "Niepubliczne Przedszkole Integracyjne Magiczny Świat Dziecko",
+    "address": "Białołęka, Światowida 51B U1",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.32207080000001,
+      "lng": 20.9420131
+    }
+  },
+  {
+    "id": 31,
+    "name": "Niepubliczne Przedszkole \"Bajkolandia\"",
+    "address": "Białołęka, Światowida 65 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3369903,
+      "lng": 20.9413623
+    }
+  },
+  {
+    "id": 32,
+    "name": "Niepubliczne Przedszkole \"Baza Montessori\"",
+    "address": "Białołęka, Debowa 12m ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3616944,
+      "lng": 20.9490791
+    }
+  },
+  {
+    "id": 33,
+    "name": "Niepubliczne Przedszkole \"Inspiracja\"",
+    "address": "Białołęka, J. Mehoffera 90 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3362045,
+      "lng": 20.9641649
+    }
+  },
+  {
+    "id": 34,
+    "name": "Niepubliczne Przedszkole \"Klub Przedszkolaka Misia Bo\"",
+    "address": "Białołęka, Światowida 47 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.318362,
+      "lng": 20.9512289
+    }
+  },
+  {
+    "id": 35,
+    "name": "Niepubliczne Przedszkole Teddy",
+    "address": "Białołęka, Światowida 14 U157",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3205612,
+      "lng": 20.9682455
+    }
+  },
+  {
+    "id": 36,
+    "name": "Niepubliczne Przedszkole \"Kraina Uśmiechu\"",
+    "address": "Białołęka, Myśliborska 42 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3064043,
+      "lng": 20.9763882
+    }
+  },
+  {
+    "id": 37,
+    "name": "Niepubliczne Przedszkole \"Misio\" (II miejsce: ul. Modlińska 285 B)",
+    "address": "Białołęka, Modlińska 248d ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.339038,
+      "lng": 20.960516
+    }
+  },
+  {
+    "id": 38,
+    "name": "Niepubliczne Przedszkole \"Miś\"",
+    "address": "Białołęka, Topolowa 6a ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3295652,
+      "lng": 20.9473275
+    }
+  },
+  {
+    "id": 39,
+    "name": "Niepubliczne Przedszkole \"Przy Lesie II\"",
+    "address": "Białołęka, Dębowa 1 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.360962,
+      "lng": 20.943496
+    }
+  },
+  {
+    "id": 40,
+    "name": "Niepubliczne Przedszkole \"ZŁOTA RYBKA\"",
+    "address": "Białołęka, Kopijników 65A/67A ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3043369,
+      "lng": 21.0463599
+    }
+  },
+  {
+    "id": 41,
+    "name": "Niepubliczne Przedszkole Akademia Małej Pszczółki",
+    "address": "Białołęka, Mochtyńska 85 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3552232,
+      "lng": 21.0375035
+    }
+  },
+  {
+    "id": 42,
+    "name": "Niepubliczne Przedszkole Dookoła Świata",
+    "address": "Białołęka, Sprawna 24 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3416592,
+      "lng": 20.9439862
+    }
+  },
+  {
+    "id": 43,
+    "name": "Niepubliczne Przedszkole \"Nasz Domek: Warszawa-Ostródzka (II niejsce: ul. Ostródzka 74, )",
+    "address": "Białołęka, Ostródzka 74 a ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.31142329999999,
+      "lng": 21.0525755
+    }
+  },
+  {
+    "id": 44,
+    "name": "Przedszkole Planeta marzeń ( II m.prowadzenia ul. Łokietka 1 lok 4 i 6)",
+    "address": "Białołęka, Kobiałka 14 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3557607,
+      "lng": 21.0326251
+    }
+  },
+  {
+    "id": 45,
+    "name": "Niepubliczne Oprzedszkole Wyspa Marzeń Warszawa - Białołeka",
+    "address": "Białołęka, Jagmina 23 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.32170050000001,
+      "lng": 20.9643311
+    }
+  },
+  {
+    "id": 46,
+    "name": "Niepubliczne Przedszkole Gucio",
+    "address": "Białołęka, Ostródzka 146B ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3214194,
+      "lng": 21.0506807
+    }
+  },
+  {
+    "id": 47,
+    "name": "Niepubliczne Przedszkole Integracyjne Dom rozwoju Przedszkolaka Promyczek",
+    "address": "Białołęka, Białołęcka 259 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3138693,
+      "lng": 21.0293264
+    }
+  },
+  {
+    "id": 48,
+    "name": "Niepubliczne Przedszkole \"Bajlandia\"(ul. Modlińska 61)",
+    "address": "Białołęka, Białołęcka 186 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3108094,
+      "lng": 21.0305868
+    }
+  },
+  {
+    "id": 49,
+    "name": "Niepubliczne Przedszkole Lula",
+    "address": "Białołęka, J. Antalla 4 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3145526,
+      "lng": 20.9576326
+    }
+  },
+  {
+    "id": 50,
+    "name": "Niepubliczne Przedszkole Małego Kopernika",
+    "address": "Białołęka, Zaułek 25 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3270141,
+      "lng": 21.0652991
+    }
+  },
+  {
+    "id": 51,
+    "name": "Niepubliczne Przedszkole MoreLove",
+    "address": "Białołęka, Morelowa 2a ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3066422,
+      "lng": 20.9880221
+    }
+  },
+  {
+    "id": 52,
+    "name": "Niepubliczne Przedszkole Pszczółka Maja",
+    "address": "Białołęka, Kąty Grodziskie 56 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3303147,
+      "lng": 21.0580018
+    }
+  },
+  {
+    "id": 53,
+    "name": "Niepubliczne Przedszkole Terapeutyczne \"Dobry Start\"",
+    "address": "Białołęka, Internetowa 33 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3203804,
+      "lng": 21.0739765
+    }
+  },
+  {
+    "id": 54,
+    "name": "Niepubliczne Przedszkole Wesoły Domek",
+    "address": "Białołęka, Szlachecka 48 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3149502,
+      "lng": 21.0232799
+    }
+  },
+  {
+    "id": 55,
+    "name": "Niepubliczne Przedszkole Zgromadzenia Sióstr Służebniczek NMP Niepokalanie Poczętej-Prowincja Łódzka",
+    "address": "Białołęka, J. Mehoffera 2 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.31927109999999,
+      "lng": 20.9390336
+    }
+  },
+  {
+    "id": 56,
+    "name": "Ołówkowa Kraina",
+    "address": "Białołęka, Ołówkowa 7A ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3395003,
+      "lng": 20.9912845
+    }
+  },
+  {
+    "id": 57,
+    "name": "Polsko - Angielskie Przedszkole Artystyczne \"AKADERO\"",
+    "address": "Białołęka, Strumykowa 23A ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3309339,
+      "lng": 20.9455498
+    }
+  },
+  {
+    "id": 58,
+    "name": "Prywatne Rodzinne Przedszkole \"Konradek\"",
+    "address": "Białołęka, Cieślewskich 27 n ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3302776,
+      "lng": 21.0219273
+    }
+  },
+  {
+    "id": 59,
+    "name": "Przedszkole \"Wesoły Teletubiś\"",
+    "address": "Białołęka, Skarbka z Gór 7A ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3153279,
+      "lng": 21.063634
+    }
+  },
+  {
+    "id": 60,
+    "name": "Przedszkole Niepubliczne Tequesta",
+    "address": "Białołęka, Zdziarska 61 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3412446,
+      "lng": 21.0586257
+    }
+  },
+  {
+    "id": 61,
+    "name": "Przedszkole Kids Love Dreams (II miesce Brzozowy Zagajnik 7)",
+    "address": "Białołęka, Naprzełaj 5a ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3574843,
+      "lng": 20.9815911
+    }
+  },
+  {
+    "id": 62,
+    "name": "Przedszkole Niepubliczne \"Senso-Smyki\"",
+    "address": "Białołęka, Głębocka 82A ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3152236,
+      "lng": 21.0673793
+    }
+  },
+  {
+    "id": 63,
+    "name": "Przedszkole Niepubliczne Integracyjne \"Echa Leśne\"",
+    "address": "Białołęka, Świderska 109h 60",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3167817,
+      "lng": 20.9459534
+    }
+  },
+  {
+    "id": 64,
+    "name": "Przedszkole Niepubliczne \"Cypisek\" (II miejsce: ul. Ostródzka 215)",
+    "address": "Białołęka, Ostródzka 213K ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3363759,
+      "lng": 21.0467354
+    }
+  },
+  {
+    "id": 65,
+    "name": "Przedszkole Niepubliczne \"EDUSFERA\"(II miejsce Głebocka56D lok1)",
+    "address": "Białołęka, Białołęcka 186A ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3110745,
+      "lng": 21.0307975
+    }
+  },
+  {
+    "id": 66,
+    "name": "Przedszkole Niepubliczne \"Jarzębinka\"",
+    "address": "Białołęka, Ruskowy Bród 27 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3459576,
+      "lng": 21.0551545
+    }
+  },
+  {
+    "id": 67,
+    "name": "Przedszkole Niepubliczne \"Krasnoludki\" (II niejsce: ul. Krokwi 29, III miejsce ul. Głębocka 147, IV ul. Osuchowska 1, V: Skarbka z Gó 148)",
+    "address": "Białołęka, Sprawna 16 E/F ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3409853,
+      "lng": 20.941318
+    }
+  },
+  {
+    "id": 68,
+    "name": "Przedszkole Niepubliczne \"Malinowe Przedszkole\"",
+    "address": "Białołęka, Płochocińska 84 B ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3357554,
+      "lng": 21.0300351
+    }
+  },
+  {
+    "id": 69,
+    "name": "Przedszkole Niepubliczne \"Miasto Dzieci\"",
+    "address": "Białołęka, Głębocka 56D ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3100923,
+      "lng": 21.0672665
+    }
+  },
+  {
+    "id": 70,
+    "name": "Przedszkole Niepubliczne \"Moje Przedszkole\"",
+    "address": "Białołęka, Świderska 137 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.320025,
+      "lng": 20.9429885
+    }
+  },
+  {
+    "id": 71,
+    "name": "Przedszkole Niepubliczne \"Niezapominajka\"",
+    "address": "Białołęka, Kąty Grodziskie 117 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.33538970000001,
+      "lng": 21.0533182
+    }
+  },
+  {
+    "id": 72,
+    "name": "Polsko-Angielskie Przedszkole MENTIS",
+    "address": "Białołęka, Piwoniowa 18 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3543048,
+      "lng": 20.9754571
+    }
+  },
+  {
+    "id": 73,
+    "name": "Przedszkole Niepubliczne \"Plastuś\" (II miejsce: ul. Jagmina 16)",
+    "address": "Białołęka, J. Mehoffera 57 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3327164,
+      "lng": 20.9581224
+    }
+  },
+  {
+    "id": 74,
+    "name": "Przedszkole Niepubliczne \"Progresja\"",
+    "address": "Białołęka, Pasłęcka 1 B ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.33016319999999,
+      "lng": 20.9506696
+    }
+  },
+  {
+    "id": 75,
+    "name": "Przedszkole Niepubliczne \"Progresja\"",
+    "address": "Białołęka, Erazma z Zakroczymia 12 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3216683,
+      "lng": 20.9507766
+    }
+  },
+  {
+    "id": 76,
+    "name": "Przedszkole Niepubliczne \"PROMYKI\"",
+    "address": "Białołęka, Geograficzna 4 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3330171,
+      "lng": 20.9652961
+    }
+  },
+  {
+    "id": 77,
+    "name": "Przedszkole Niepubliczne \"Przedszkolada\"",
+    "address": "Białołęka, Złotokwiatu 28 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3575513,
+      "lng": 21.0474348
+    }
+  },
+  {
+    "id": 78,
+    "name": "Przedszkole Niepubliczne \"Progresja\"",
+    "address": "Białołęka, Świderska 127 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.31966430000001,
+      "lng": 20.9437495
+    }
+  },
+  {
+    "id": 79,
+    "name": "Przedszkole Niepubliczne \"Raj Krasnali\"",
+    "address": "Białołęka, Światowida 58 U1, U2",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3303218,
+      "lng": 20.9418466
+    }
+  },
+  {
+    "id": 80,
+    "name": "Przedszkole Niepubliczne \"Skarb Malucha\"",
+    "address": "Białołęka, Skarbka z Gór 59D ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3211299,
+      "lng": 21.0543189
+    }
+  },
+  {
+    "id": 81,
+    "name": "Przedszkole Niepubliczne \"Smerf\" ( , III miejsce: ul. Aluzyjna 7, IV miejsce: ul. Odkryta 41 G )",
+    "address": "Białołęka, Odkryta 41 H ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3322329,
+      "lng": 20.932788
+    }
+  },
+  {
+    "id": 82,
+    "name": "Przedszkole niepubliczne \"SMERF 2\"",
+    "address": "Białołęka, Sprawna 9a ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3412058,
+      "lng": 20.9345749
+    }
+  },
+  {
+    "id": 83,
+    "name": "Przedszkole niepubliczne \"SMERF 1\"",
+    "address": "Białołęka, Świderska 143 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.32018350000001,
+      "lng": 20.941805
+    }
+  },
+  {
+    "id": 84,
+    "name": "Przedszkole niepubliczne \"Sportowa Kraina\"",
+    "address": "Białołęka, Skarbka z Gór 116C ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3172527,
+      "lng": 21.0601958
+    }
+  },
+  {
+    "id": 85,
+    "name": "Przedszkole Niepubliczne \"Stonoga\" (II m. ul. Skarbka z Gór 57)",
+    "address": "Białołęka, Skarbka z Gór 45 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3194882,
+      "lng": 21.057444
+    }
+  },
+  {
+    "id": 86,
+    "name": "Przedszkole Niepubliczne \"Wesoły Smok\"",
+    "address": "Białołęka, Frachtowa 13 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3604096,
+      "lng": 21.0390921
+    }
+  },
+  {
+    "id": 87,
+    "name": "Przedszkole Niepubliczne \"Wyspa Skarbów\"",
+    "address": "Białołęka, Skarbka z Gór 142B ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3229945,
+      "lng": 21.0582902
+    }
+  },
+  {
+    "id": 88,
+    "name": "Przedszkole Niepubliczne \"Kraina Twórczości\"",
+    "address": "Białołęka, H. Ordonówny 21B ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3322991,
+      "lng": 20.9516714
+    }
+  },
+  {
+    "id": 89,
+    "name": "Przedszkole Niepubliczne \"Zdobywcy Świata\"",
+    "address": "Białołęka, Aluzyjna 18B ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3453504,
+      "lng": 20.9442422
+    }
+  },
+  {
+    "id": 90,
+    "name": "Przedszkole Niepubliczne \"Zdobywcy Świata\"",
+    "address": "Białołęka, Światowida 51A ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3222313,
+      "lng": 20.9421305
+    }
+  },
+  {
+    "id": 91,
+    "name": "Przedszkole Niepubliczne Akademia Przedszkolaka",
+    "address": "Białołęka, Majolikowa 29 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3290435,
+      "lng": 20.9555392
+    }
+  },
+  {
+    "id": 92,
+    "name": "Przedszkole Niepubliczne JAGÓDKA",
+    "address": "Białołęka, Konwaliowa 38 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.2995606,
+      "lng": 20.9818915
+    }
+  },
+  {
+    "id": 93,
+    "name": "Przedszkole Niepubliczne Krasnoludki",
+    "address": "Białołęka, Nowodworska 30 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3227597,
+      "lng": 20.9394842
+    }
+  },
+  {
+    "id": 94,
+    "name": "Przedszkole Niepubliczne Sióstr Rodziny Maryi",
+    "address": "Białołęka, Wałuszewska 48 ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3420899,
+      "lng": 20.9905689
+    }
+  },
+  {
+    "id": 95,
+    "name": "Przedszkole Niepubliczne Słoneczny Domek o profilu angielskim (II miejsce: Modlińska 47, III miejsce Modlińska 241)",
+    "address": "Białołęka, Skarbka z Gór 45C ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3189864,
+      "lng": 21.0549733
+    }
+  },
+  {
+    "id": 96,
+    "name": "Przedszkole Niepubliczne Słoneczny Domek o profilu angielskim II",
+    "address": "Białołęka, Skarbka z Gór 45 D ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3191224,
+      "lng": 21.0555264
+    }
+  },
+  {
+    "id": 97,
+    "name": "Przedszkole Niepubliczne Smoczkowe Drzewo",
+    "address": "Białołęka, Aroniowa 11A ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3529627,
+      "lng": 21.0423176
+    }
+  },
+  {
+    "id": 98,
+    "name": "Przedszkole Niepubliczne Baśniowa Dolina",
+    "address": "Białołęka, Mańkowska 12A ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3477355,
+      "lng": 21.0504823
+    }
+  },
+  {
+    "id": 99,
+    "name": "Przedszkole Sióstr Felicjanek",
+    "address": "Białołęka, Żywiczna 40a ",
+    "district": "Białołęka",
+    "location": {
+      "lat": 52.3254611,
+      "lng": 20.9772126
+    }
+  },
+  {
+    "id": 100,
+    "name": "\"Bajeczka\" Niepubliczne Przedszkole Integracyjne",
+    "address": "Bielany, Wrzeciono 12 4",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.2909473,
+      "lng": 20.9377705
+    }
+  },
+  {
+    "id": 101,
+    "name": "Akademia Uśmiechu Dwujęzyczne Przedszkole",
+    "address": "Bielany, S. Przybyszewskiego 69 ",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.2820461,
+      "lng": 20.9442044
+    }
+  },
+  {
+    "id": 102,
+    "name": "Dwujęzyczno - Prozdrowotne Przedszkole Niepubliczne Kolorowe Kredy",
+    "address": "Bielany, Encyklopedyczna 17 ",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.3065749,
+      "lng": 20.9241573
+    }
+  },
+  {
+    "id": 103,
+    "name": "Mruczankowe Przedszkole (II m. prowadzenia ul. Skalbmierska 8a, III m. Nocznickiego 29B)",
+    "address": "Bielany, Lipińska 11 ",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.2813808,
+      "lng": 20.948675
+    }
+  },
+  {
+    "id": 104,
+    "name": "Niepubliczne Przedszkola Ciuchcia Puch Puch Agata Wawer (II miejsce: ul. Klaudyny 28a)",
+    "address": "Bielany, Klaudyny 32 ",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.2837267,
+      "lng": 20.9746911
+    }
+  },
+  {
+    "id": 105,
+    "name": "Niepubliczne przedszkole \"Motylkowa akademia\" (II miejsce ul.Balaton 8)",
+    "address": "Bielany, Balaton 8a ",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.3097469,
+      "lng": 20.922907
+    }
+  },
+  {
+    "id": 106,
+    "name": "Niepubliczne Przedszkole \"Radośni Odkrywcy\"",
+    "address": "Bielany, Estrady 128A ",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.301992,
+      "lng": 20.8836159
+    }
+  },
+  {
+    "id": 107,
+    "name": "Przedszkole niepubliczne VIVA KIDS",
+    "address": "Bielany, Renesansowa 20 U1, U2",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.27785550000001,
+      "lng": 20.9334979
+    }
+  },
+  {
+    "id": 108,
+    "name": "Integracyjne Przedszkole \"Swiat Dziecka\"",
+    "address": "Bielany, T. Nocznickiego 25 U 6-7",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.2868967,
+      "lng": 20.9264405
+    }
+  },
+  {
+    "id": 109,
+    "name": "Niepubliczne Przedszkole Językowe \"Spanglish Garden\" (II miejsce prowadz. Arkuszowa 128A)",
+    "address": "Bielany, Balaton 8a ",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.3097469,
+      "lng": 20.922907
+    }
+  },
+  {
+    "id": 110,
+    "name": "Niepubliczne Przedszkole \"Karuzela Montessori\"",
+    "address": "Bielany, Klaudyny 32 ",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.2837267,
+      "lng": 20.9746911
+    }
+  },
+  {
+    "id": 111,
+    "name": "Niepubliczne Przedszkole Kreatywne Dzieci",
+    "address": "Bielany, Maszewska 20/U2 ",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.2755702,
+      "lng": 20.9142714
+    }
+  },
+  {
+    "id": 112,
+    "name": "Niepubliczne Przedszkole Uniwersytetu Stefana Kardynała Wyszyńskiego",
+    "address": "Bielany, Żubrowa 12 ",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.311896,
+      "lng": 20.916118
+    }
+  },
+  {
+    "id": 113,
+    "name": "Prywatne Przedszkole \"Śpiewające Brzdące\"",
+    "address": "Bielany, Estrady 75b ",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.3021827,
+      "lng": 20.8815471
+    }
+  },
+  {
+    "id": 114,
+    "name": "Przedszkola Pomarańczowa Ciuchcia Sp. z o.o. Spółka Komandytowa",
+    "address": "Bielany, J. Bajana 35 ",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.2748256,
+      "lng": 20.9311304
+    }
+  },
+  {
+    "id": 115,
+    "name": "Przedszkole Akademia Małych Smoków",
+    "address": "Bielany, J. Conrada 7 ",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.271052,
+      "lng": 20.9277053
+    }
+  },
+  {
+    "id": 116,
+    "name": "Przedszkole Artystyczno-Językowe \"Super Przedszkole\"",
+    "address": "Bielany, Rudnickiego 3a ",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.2665557,
+      "lng": 20.9438631
+    }
+  },
+  {
+    "id": 117,
+    "name": "Przedszkole Niepubliczne \"Kraina Czarów\"",
+    "address": "Bielany, Literacka 19 4 i 5",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.2671465,
+      "lng": 20.9486048
+    }
+  },
+  {
+    "id": 118,
+    "name": "Przedszkole Niepubliczne \"Mały Odkrywca\" Sportowo-Integracyjne",
+    "address": "Bielany, M. Dąbrowskiej 15 ",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.2733776,
+      "lng": 20.930869
+    }
+  },
+  {
+    "id": 119,
+    "name": "Przedszkole Niepubliczne Zielona Wieża",
+    "address": "Bielany, Wergiliusza 5 ",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.2852188,
+      "lng": 20.9377434
+    }
+  },
+  {
+    "id": 120,
+    "name": "Przedszkole Sióstr Imienia Jezus",
+    "address": "Bielany, W. Smoleńskiego 31 ",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.279623,
+      "lng": 20.9627877
+    }
+  },
+  {
+    "id": 121,
+    "name": "Przedszkole Sióstr Salezjanek im. św. Zygmunta im. św. Dominika Savio(II lokalizacja : pl. Konfederacji 55)",
+    "address": "Bielany, Lisowska 29 ",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.2779698,
+      "lng": 20.9507345
+    }
+  },
+  {
+    "id": 122,
+    "name": "Społeczne Przedszkole Integracyjne Fundacji CZAS DZIECIŃSTWA(II miejsce: Zgrupowania AK żmija 19 A lok 32",
+    "address": "Bielany, Wolumen 3 ",
+    "district": "Bielany",
+    "location": {
+      "lat": 52.284392,
+      "lng": 20.9395112
+    }
+  },
+  {
+    "id": 123,
+    "name": "\"Niezapominajka\" - Przedszkole Niepubliczne",
+    "address": "Mokotów, Wołodyjowskiego 36A ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1745214,
+      "lng": 21.0223389
+    }
+  },
+  {
+    "id": 124,
+    "name": "Niepubliczne Przedszkole Integracyjne \"Dom rozwoju przedszkolaka Promyczek\"",
+    "address": "Mokotów, Woronicza 33 B",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.18870769999999,
+      "lng": 20.9899532
+    }
+  },
+  {
+    "id": 125,
+    "name": "Blossom Anglojęzyczne Przedszkole Artystyczne",
+    "address": "Mokotów, Racławicka 120 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1969521,
+      "lng": 20.9945556
+    }
+  },
+  {
+    "id": 126,
+    "name": "Dwujęzyczne Przedszkole Niepubliczne Primrose",
+    "address": "Mokotów, Bernardyńska 16A U7",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1948592,
+      "lng": 21.062782
+    }
+  },
+  {
+    "id": 127,
+    "name": "Dwujęzyczne Przedszkole Tęczowy Ogród/Warsaw Bilingual Preschool (II miejsce: ul. Racławicka 120)",
+    "address": "Mokotów, Miłobędzka 14 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1953693,
+      "lng": 20.99245
+    }
+  },
+  {
+    "id": 128,
+    "name": "Francusko-Polskie Przedszkole Niepubliczne \"La Fontaine\" (II miejsce: ul. Dygasińskiego 1 - punkt przedszkolny)",
+    "address": "Mokotów, Rolna 177 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1765669,
+      "lng": 21.026476
+    }
+  },
+  {
+    "id": 129,
+    "name": "Happy Kids' Academy-Europejskie Przedszkole Językowe",
+    "address": "Mokotów, Postępu 4 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1731667,
+      "lng": 20.9947409
+    }
+  },
+  {
+    "id": 130,
+    "name": "Przedszkole Niepubliczne Językowe 'ArtKids\"",
+    "address": "Mokotów, Cybernetyki 4 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1759621,
+      "lng": 20.9988602
+    }
+  },
+  {
+    "id": 131,
+    "name": "Happy Kids' Academy-Europejskie Przedszkole Językowe",
+    "address": "Mokotów, Jadźwingów 22A ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1721363,
+      "lng": 21.0019735
+    }
+  },
+  {
+    "id": 132,
+    "name": "Integracyjne Przedszkole Niepubliczne \"Małe Misie\"",
+    "address": "Mokotów, A. J. Madalińskiego 39/43 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.2038664,
+      "lng": 21.0138241
+    }
+  },
+  {
+    "id": 133,
+    "name": "Kanadyjskie Przedszkole w Warszawie",
+    "address": "Mokotów, I. Krasickiego 53 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1959567,
+      "lng": 21.0190401
+    }
+  },
+  {
+    "id": 134,
+    "name": "Katolickie Niepubliczne Przedszkole Językowe \"Anioła Stróża\"",
+    "address": "Mokotów, M. Smoluchowskiego 1 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1775275,
+      "lng": 21.0121156
+    }
+  },
+  {
+    "id": 135,
+    "name": "Katolickie Niepubliczne Przedszkole Językowe \"Dzieciątka Jezus\"",
+    "address": "Mokotów, Jana III Sobieskiego 15 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1745695,
+      "lng": 21.0619848
+    }
+  },
+  {
+    "id": 136,
+    "name": "Muzyczne Przedszkole Montessori \"MocArt\" (II miejsce ul. Odyńca 69)",
+    "address": "Mokotów, J. Kaczmarskiego 81 66",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.192982,
+      "lng": 21.0135408
+    }
+  },
+  {
+    "id": 137,
+    "name": "Niepubliczne Przedszkole Językowe \"Baśniowy Dom\"",
+    "address": "Mokotów, Irysowa 1a ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.174371,
+      "lng": 21.0168847
+    }
+  },
+  {
+    "id": 138,
+    "name": "Niepubliczne Dwujęzyczne Przedszkole Mały Podróżnik",
+    "address": "Mokotów, Balonowa 12 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1942739,
+      "lng": 20.9995672
+    }
+  },
+  {
+    "id": 139,
+    "name": "Niepubliczne Europejskie Przedszkole Ekologiczne \"Baby City\"",
+    "address": "Mokotów, Zielona 42 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1860358,
+      "lng": 21.0662286
+    }
+  },
+  {
+    "id": 140,
+    "name": "Niepubliczne Przedszkole \"Teddy&Me\"",
+    "address": "Mokotów, Magazynowa 11 u5",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1864909,
+      "lng": 21.0040005
+    }
+  },
+  {
+    "id": 141,
+    "name": "Niepubliczne Przedszkole \"U Smoka Co Buja W Obłokach\"",
+    "address": "Mokotów, św. Bonifacego 106 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.187877,
+      "lng": 21.0649661
+    }
+  },
+  {
+    "id": 142,
+    "name": "Niepubliczne Przedszkole British International Academy Kids III",
+    "address": "Mokotów, Czerska 14 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.2043636,
+      "lng": 21.045985
+    }
+  },
+  {
+    "id": 143,
+    "name": "Niepubliczne Przedszkole FIQMIKU",
+    "address": "Mokotów, Okrężna 95 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1819853,
+      "lng": 21.0621217
+    }
+  },
+  {
+    "id": 144,
+    "name": "Niepubliczne Przedszkole Integracyjne \"Raz, dwa, trzy-My\"",
+    "address": "Mokotów, Łowicka 19 1",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1997844,
+      "lng": 21.0059285
+    }
+  },
+  {
+    "id": 145,
+    "name": "Niepubliczne Przedszkole Integracyjne \"OMEGA\" (II miejsce: ul. Bluszczańska 69 lok. U1, U2, III miejsce: ul. Bluszczańska 48 lok. US1, US2)",
+    "address": "Mokotów, Grupy AK \"Północ\" 2 U3,U4,U5,U6,U7",
+    "district": "Mokotów"
+  },
+  {
+    "id": 146,
+    "name": "Niepubliczne Przedszkole Językowe \"4 kids\"",
+    "address": "Mokotów, Puławska 114 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.194373,
+      "lng": 21.023618
+    }
+  },
+  {
+    "id": 147,
+    "name": "Niepubliczne Przedszkole Językowe \"Baśniowy Dom\"",
+    "address": "Mokotów, Miłobędzka 2 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.19411729999999,
+      "lng": 20.9918328
+    }
+  },
+  {
+    "id": 148,
+    "name": "Niepubliczne Przedszkole Joy",
+    "address": "Mokotów, Racławicka 124 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.197365,
+      "lng": 20.9942017
+    }
+  },
+  {
+    "id": 149,
+    "name": "Niepubliczne Przedszkole montessori \"ITSY-BITSY\"",
+    "address": "Mokotów, Cybernetyki 7D ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1741906,
+      "lng": 20.9962327
+    }
+  },
+  {
+    "id": 150,
+    "name": "Niepubliczne Przedszkole Specjalne \"Zielony latawiec II\"",
+    "address": "Mokotów, Powsińska 56 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1889128,
+      "lng": 21.061972
+    }
+  },
+  {
+    "id": 151,
+    "name": "Niepubliczne Przedszkole Stacja Edukacja",
+    "address": "Mokotów, Pory 60 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1842614,
+      "lng": 21.0446776
+    }
+  },
+  {
+    "id": 152,
+    "name": "Niepubliczne Przedszkole z Oddziałęm Integracyjnym \"KRAINA EMOCJI\" o Profilu Inteligencji Emocjonalnej",
+    "address": "Mokotów, Warowna 3 1",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1964072,
+      "lng": 20.9867424
+    }
+  },
+  {
+    "id": 153,
+    "name": "Pijarskie Przedszkole w Warszawie",
+    "address": "Mokotów, Siekierkowska 7 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.208969,
+      "lng": 21.0745155
+    }
+  },
+  {
+    "id": 154,
+    "name": "Przedszkola Pomarańczowa Ciuchcia Sp. z o.o. Spółka Komandytowa",
+    "address": "Mokotów, Postępu 17b ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.18119189999999,
+      "lng": 20.9949758
+    }
+  },
+  {
+    "id": 155,
+    "name": "Przedszkole \"Małe Śmieszki\"",
+    "address": "Mokotów, Obrzeźna 3 U14",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1734249,
+      "lng": 20.9984849
+    }
+  },
+  {
+    "id": 156,
+    "name": "Przedszkole Językowe \"Bajkowa Kraina\" (II miejsce ul. Zawrat 4)",
+    "address": "Mokotów, L. Idzikowskiego 39 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1862284,
+      "lng": 21.025818
+    }
+  },
+  {
+    "id": 157,
+    "name": "Przedszkole Montessori \"Słonecznik\"",
+    "address": "Mokotów, W. A. Mozarta 4 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1714597,
+      "lng": 21.0310723
+    }
+  },
+  {
+    "id": 158,
+    "name": "Przedszkole Niepubliczne",
+    "address": "Mokotów, J. Dąbrowskiego 84 B 28",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.2010294,
+      "lng": 21.0077017
+    }
+  },
+  {
+    "id": 159,
+    "name": "Przedszkole Niepubliczne - Casa dei Bambini Warsaw Montessori School",
+    "address": "Mokotów, Badowska 19 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.208684,
+      "lng": 21.039523
+    }
+  },
+  {
+    "id": 160,
+    "name": "Przedszkole Niepubliczne Integracyjne \"AMO Kwiatowa\"",
+    "address": "Mokotów, Kwiatowa 28 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.20489870000001,
+      "lng": 21.0120284
+    }
+  },
+  {
+    "id": 161,
+    "name": "Przedszkole Niepubliczne \"Chatka Małolatka\" (II miejsce: Królewicza Jakuba 28)",
+    "address": "Mokotów, Orężna 45 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1814723,
+      "lng": 21.0590558
+    }
+  },
+  {
+    "id": 162,
+    "name": "Przedszkole Niepubliczne \"Frajda\"",
+    "address": "Wilanów, Wiertnicza 76 ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.1730919,
+      "lng": 21.0804213
+    }
+  },
+  {
+    "id": 163,
+    "name": "Przedszkole Niepubliczne AMO 81 (II miejsce: ul. Złotopolska 1 m. 79)",
+    "address": "Mokotów, Złotopolska 1 81",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.2746096,
+      "lng": 21.0513594
+    }
+  },
+  {
+    "id": 164,
+    "name": "Przedszkole Niepubliczne Misia Paddingtona (II m.prowadzenia Belwederska 6a)",
+    "address": "Mokotów, Górska 7 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.2030695,
+      "lng": 21.0365449
+    }
+  },
+  {
+    "id": 165,
+    "name": "Przedszkole Niepubliczne Rubik Music School",
+    "address": "Mokotów, Domaniewska 41 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1828493,
+      "lng": 21.0000902
+    }
+  },
+  {
+    "id": 166,
+    "name": "Przedszkole Niepubliczne TEQUESTA",
+    "address": "Mokotów, Przejazd 2 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1919032,
+      "lng": 20.9875013
+    }
+  },
+  {
+    "id": 167,
+    "name": "ZAGADKA s. c. Przedszkole Niepubliczne",
+    "address": "Mokotów, Sueska 2 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1731035,
+      "lng": 21.0571409
+    }
+  },
+  {
+    "id": 168,
+    "name": "Niepubliczne Dwujęzyczne Przedszkole KIDS&CO(II lokalizacja: ul. Krakowiaków 50)",
+    "address": "Mokotów, Domaniewska 48 ",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.183561,
+      "lng": 20.9969188
+    }
+  },
+  {
+    "id": 169,
+    "name": "Niepubliczne Przedszkole Parkowe",
+    "address": "Mokotów, Sobieskiego 104 U1",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.1987976,
+      "lng": 21.0387438
+    }
+  },
+  {
+    "id": 170,
+    "name": "Przedszkole Niepubliczne Zielona Żyrafa",
+    "address": "Mokotów, Bluszczańska 68 u1",
+    "district": "Mokotów",
+    "location": {
+      "lat": 52.2092797,
+      "lng": 21.0628314
+    }
+  },
+  {
+    "id": 171,
+    "name": "Przedszkole Włoskie Piccolo Leonardo",
+    "address": "Ochota, Grójecka 39 ",
+    "district": "Ochota",
+    "location": {
+      "lat": 52.217633,
+      "lng": 20.982775
+    }
+  },
+  {
+    "id": 172,
+    "name": "Niepubliczne Przedszkole \"Radosne Dzieciaki\"",
+    "address": "Ochota, Kurhan 12 K ",
+    "district": "Ochota",
+    "location": {
+      "lat": 52.21080809999999,
+      "lng": 20.9577855
+    }
+  },
+  {
+    "id": 173,
+    "name": "Niepubliczne Przedszkole Specjalne \"Tęcza\"",
+    "address": "Ochota, Kopińska 6/10 ",
+    "district": "Ochota",
+    "location": {
+      "lat": 52.217567,
+      "lng": 20.9797433
+    }
+  },
+  {
+    "id": 174,
+    "name": "Niepubliczne Przedszkole Sportowo-Językowe Fair Play(II miejsce ul. Przyokopowa 33)",
+    "address": "Ochota, Grójecka 208 ",
+    "district": "Ochota",
+    "location": {
+      "lat": 52.1995903,
+      "lng": 20.9656903
+    }
+  },
+  {
+    "id": 175,
+    "name": "Pierwsze Niepubliczne Przedszkole Terapeutyczne Fundacji SYNAPSIS",
+    "address": "Ochota, J. Siemieńskiego 21 ",
+    "district": "Ochota",
+    "location": {
+      "lat": 52.2026604,
+      "lng": 20.9732024
+    }
+  },
+  {
+    "id": 176,
+    "name": "Przedszkole \"Ala ma kota\" ( II miejsce: Al.. Jerozolimskie 181 C)",
+    "address": "Ochota, Altowa 5 ",
+    "district": "Ochota",
+    "location": {
+      "lat": 52.2007664,
+      "lng": 20.9618084
+    }
+  },
+  {
+    "id": 177,
+    "name": "Niepubliczne Przedszkole Niebieski Koralik",
+    "address": "Ochota, Kurhan 10 F ",
+    "district": "Ochota",
+    "location": {
+      "lat": 52.210426,
+      "lng": 20.956958
+    }
+  },
+  {
+    "id": 178,
+    "name": "Przedszkole Niepubliczne \"Motylek II\"",
+    "address": "Ochota, Włodarzewska 71 ",
+    "district": "Ochota",
+    "location": {
+      "lat": 52.2023933,
+      "lng": 20.9519388
+    }
+  },
+  {
+    "id": 179,
+    "name": "Przedszkole Niepubliczne \"Piotruś Pan\" (II miejsce: ul. Drawska 15)",
+    "address": "Ochota, Filipinki 6 ",
+    "district": "Ochota",
+    "location": {
+      "lat": 52.208053,
+      "lng": 20.9545681
+    }
+  },
+  {
+    "id": 180,
+    "name": "Przedszkole Niepubliczne Rubik Music School",
+    "address": "Ochota, Drawska 11 ",
+    "district": "Ochota",
+    "location": {
+      "lat": 52.2080116,
+      "lng": 20.9562546
+    }
+  },
+  {
+    "id": 181,
+    "name": "Przedszkole Niepubliczne \"Ulik\" (II m.prowadz. ul. St. Worcella 3 lok. U1)",
+    "address": "Ochota, al.. Bohaterów Września 18 2",
+    "district": "Ochota",
+    "location": {
+      "lat": 52.2136941,
+      "lng": 20.9612243
+    }
+  },
+  {
+    "id": 182,
+    "name": "Przedszkole Niepubliczne Lalilu (II miejsce: ul. Prokuratorska 2)",
+    "address": "Ochota, Wawelska 16 ",
+    "district": "Ochota",
+    "location": {
+      "lat": 52.2174838,
+      "lng": 21.0030716
+    }
+  },
+  {
+    "id": 183,
+    "name": "Przedszkole Niepubliczne Motylek 3",
+    "address": "Ochota, Usypiskowa 3 i 3A ",
+    "district": "Ochota",
+    "location": {
+      "lat": 52.2018633,
+      "lng": 20.9613317
+    }
+  },
+  {
+    "id": 184,
+    "name": "Przedszkole Niepubliczne Rubik Music School",
+    "address": "Ochota, Usypiskowa 14 ",
+    "district": "Ochota",
+    "location": {
+      "lat": 52.203106,
+      "lng": 20.9615317
+    }
+  },
+  {
+    "id": 185,
+    "name": "Przedszkole Niepubliczne Thames British School",
+    "address": "Ochota, Usypiskowa 5 ",
+    "district": "Ochota",
+    "location": {
+      "lat": 52.2020855,
+      "lng": 20.9613032
+    }
+  },
+  {
+    "id": 186,
+    "name": "Prywatne Przedszkole Pro-Beanusik",
+    "address": "Ochota, Przy Parku 36 ",
+    "district": "Ochota",
+    "location": {
+      "lat": 52.2025404,
+      "lng": 20.95539
+    }
+  },
+  {
+    "id": 187,
+    "name": "Przedszkole Niepubliczne Wróbelek Elemelek",
+    "address": "Ochota, Włodarzewska 71a ",
+    "district": "Ochota",
+    "location": {
+      "lat": 52.20243079999999,
+      "lng": 20.9518938
+    }
+  },
+  {
+    "id": 188,
+    "name": "Chrześcijańskie Przedszkole Samuel",
+    "address": "Praga Południe, Mieczysława Pożaryskiego 28 29",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.2071276,
+      "lng": 21.1738817
+    }
+  },
+  {
+    "id": 189,
+    "name": "Niepubliczne Przedszkole Sportowo-Językowe No Stress",
+    "address": "Praga Południe, Grochowska 75/77 u1",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.2403258,
+      "lng": 21.110194
+    }
+  },
+  {
+    "id": 190,
+    "name": "Integracyjne Przedszkole Niepubliczne \"Zaczarowany Ołówek\"",
+    "address": "Praga Południe, Gdecka 3 ",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.24003,
+      "lng": 21.1021218
+    }
+  },
+  {
+    "id": 191,
+    "name": "Niepubliczne Przedszkole Słoneczna Kraina",
+    "address": "Praga Południe, Mińska 25a u3-u5",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.249016,
+      "lng": 21.058974
+    }
+  },
+  {
+    "id": 192,
+    "name": "Przedszkole \"Marzenia do Spełnienia\"",
+    "address": "Praga Południe, Czapelska 36 ",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.2434466,
+      "lng": 21.0878206
+    }
+  },
+  {
+    "id": 193,
+    "name": "Niepubliczne Przedszkole \"Ciekawi Świata\"",
+    "address": "Praga Południe, Dęblińska 4 ",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.23722050000001,
+      "lng": 21.1149546
+    }
+  },
+  {
+    "id": 194,
+    "name": "Niepubliczne Przedszkole \"Kolorowe Kredki\"",
+    "address": "Praga Południe, Bakaliowa 5 ",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.237727,
+      "lng": 21.127104
+    }
+  },
+  {
+    "id": 195,
+    "name": "Niepubliczne Przedszkole \"Nasze Dzieci\" (II miejsce: ul. Pokrzywnicka 7)",
+    "address": "Praga Południe, Ostrobramska 83 6 B",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.2342644,
+      "lng": 21.0994718
+    }
+  },
+  {
+    "id": 196,
+    "name": "Niepubliczne Przedszkole \"Świetlik Montessori\"",
+    "address": "Praga Południe, Wał Miedzeszyński 646 III",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.2219825,
+      "lng": 21.0833427
+    }
+  },
+  {
+    "id": 197,
+    "name": "Niepubliczne Przedszkole Sprężynowo",
+    "address": "Praga Południe, Łukowska 46 7",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.2392954,
+      "lng": 21.0973349
+    }
+  },
+  {
+    "id": 198,
+    "name": "Niepubliczne Przedszkole Anglojęzyczne \"ABC Play & Learn\"",
+    "address": "Praga Południe, Genewska 27 ",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.2277183,
+      "lng": 21.0552519
+    }
+  },
+  {
+    "id": 199,
+    "name": "Niepubliczne Przedszkole Artystyczne \"Akademia Sztuk Dziecięcych\"",
+    "address": "Praga Południe, Kryniczna 11 ",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.230233,
+      "lng": 21.053175
+    }
+  },
+  {
+    "id": 200,
+    "name": "Niepubliczne przedszkole integracyjne Kolorowe Kredki",
+    "address": "Praga Południe, Grochowska 200 ",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.2458979,
+      "lng": 21.0873759
+    }
+  },
+  {
+    "id": 201,
+    "name": "Prywatne Przedszkole \"Rośnij z Didasko\"",
+    "address": "Praga Południe, Siennicka 40 ",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.2513514,
+      "lng": 21.0786392
+    }
+  },
+  {
+    "id": 202,
+    "name": "Przedszkole Anglojęzyczne \"HAPPY TIME\"",
+    "address": "Praga Południe, Drezdeńska 3 ",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.2261312,
+      "lng": 21.0651303
+    }
+  },
+  {
+    "id": 203,
+    "name": "Przedszkole Niepubliczne",
+    "address": "Praga Południe, Perkuna 54 2",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.2328164,
+      "lng": 21.1030682
+    }
+  },
+  {
+    "id": 204,
+    "name": "Przedszkole Niepubliczne \"Kolorowe Przedszkole\" (II miejsce: ul. Zakopiańska 8 - punkt przedszkolny)",
+    "address": "Praga Południe, Lotaryńska 18 ",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.2238852,
+      "lng": 21.062265
+    }
+  },
+  {
+    "id": 205,
+    "name": "Przedszkole Niepubliczne \" Trampoline\" (II miejsce: ul. Bajońska 9)",
+    "address": "Praga Południe, Poselska 5 ",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.2317222,
+      "lng": 21.0538222
+    }
+  },
+  {
+    "id": 206,
+    "name": "Przedszkole Niepubliczne \"7 Krasnoludków\"",
+    "address": "Praga Południe, Irlandzka 7 ",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.2359494,
+      "lng": 21.0562621
+    }
+  },
+  {
+    "id": 207,
+    "name": "Przedszkole Niepubliczne \"Agatka\" (II miejsce: ul. Mlądzka 27/13a )",
+    "address": "Praga Południe, J. Meissnera 8a ",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.2238736,
+      "lng": 21.0876846
+    }
+  },
+  {
+    "id": 208,
+    "name": "Przedszkole Niepubliczne \"Akademia Rozwoju Malucha\"",
+    "address": "Praga Południe, J. Nowaka-Jeziorańskiego 46 U17",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.230079,
+      "lng": 21.0760976
+    }
+  },
+  {
+    "id": 209,
+    "name": "Przedszkole Niepubliczne \"International Trilingual School of Warsaw \"",
+    "address": "Praga Południe, A. Nobla 16 ",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.2338413,
+      "lng": 21.0595341
+    }
+  },
+  {
+    "id": 210,
+    "name": "Przedszkole Niepubliczne \"Kraina Magii\"",
+    "address": "Praga Południe, Bracławska 4 ",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.2320542,
+      "lng": 21.0780795
+    }
+  },
+  {
+    "id": 211,
+    "name": "Przedszkole Niepubliczne \"Skarbusie\"",
+    "address": "Praga Południe, Poligonowa 1 ",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.2321092,
+      "lng": 21.0823223
+    }
+  },
+  {
+    "id": 212,
+    "name": "Przedszkole Niepubliczne Językowo - Sportowe \"Truskawkowe Pole\"",
+    "address": "Praga Południe, Krypska 25 ",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.24236579999999,
+      "lng": 21.0869395
+    }
+  },
+  {
+    "id": 213,
+    "name": "Niepubliczne Przedszkole Językowe Funny Fox",
+    "address": "Praga Południe, Przeworska 7 u7",
+    "district": "Praga Południe",
+    "location": {
+      "lat": 52.2548872,
+      "lng": 21.0812126
+    }
+  },
+  {
+    "id": 214,
+    "name": "KidsFirst Przedszkole Niepubliczne",
+    "address": "Praga Północ, Szwedzka 30 K.A.u1",
+    "district": "Praga Północ",
+    "location": {
+      "lat": 52.2666366,
+      "lng": 21.0403807
+    }
+  },
+  {
+    "id": 215,
+    "name": "Przedszkole Niepubliczne \"ULIK\"",
+    "address": "Praga Północ, Panieńska 9 4",
+    "district": "Praga Północ",
+    "location": {
+      "lat": 52.250636,
+      "lng": 21.0268729
+    }
+  },
+  {
+    "id": 216,
+    "name": "Niepubliczne Przedszkole \"Biedroneczka\" (II miejsce: ul. Paderewskiego 85)",
+    "address": "Rembertów, I. Paderewskiego 83 ",
+    "district": "Rembertów",
+    "location": {
+      "lat": 52.2666283,
+      "lng": 21.1541744
+    }
+  },
+  {
+    "id": 217,
+    "name": "Prywatne Przedszkole Gwiazdeczki",
+    "address": "Rembertów, Jerzego 38 ",
+    "district": "Rembertów",
+    "location": {
+      "lat": 52.270765,
+      "lng": 21.1656696
+    }
+  },
+  {
+    "id": 218,
+    "name": "Przedszkole Niepubliczne \"Delfinek\"",
+    "address": "Rembertów, Kordiana 85 ",
+    "district": "Rembertów",
+    "location": {
+      "lat": 52.2643633,
+      "lng": 21.1670765
+    }
+  },
+  {
+    "id": 219,
+    "name": "Przedszkole Niepubliczne \"Gumiś\"",
+    "address": "Rembertów, Szafarzy 22 ",
+    "district": "Rembertów",
+    "location": {
+      "lat": 52.2664897,
+      "lng": 21.1531742
+    }
+  },
+  {
+    "id": 220,
+    "name": "Przedszkole Niepubliczne \"Kubuś Puchatek i Przyjaciele\" (II miejsce:ul. Gościniec 14/16, III miejsce: ul. Kadrowa 5)",
+    "address": "Rembertów, Kordiana 71b ",
+    "district": "Rembertów",
+    "location": {
+      "lat": 52.2635101,
+      "lng": 21.1645382
+    }
+  },
+  {
+    "id": 221,
+    "name": "Przedszkole Niepubliczne \"U Kubusia Puchatka\"",
+    "address": "Rembertów, Bombardierów 13 ",
+    "district": "Rembertów",
+    "location": {
+      "lat": 52.263316,
+      "lng": 21.1619957
+    }
+  },
+  {
+    "id": 222,
+    "name": "Niepubliczne Przedszkole \"Żyrafki\"",
+    "address": "Śródmieście, Inflancka 11 u4",
+    "district": "Śródmieście",
+    "location": {
+      "lat": 52.2541185,
+      "lng": 20.9895197
+    }
+  },
+  {
+    "id": 223,
+    "name": "Niepubliczne Przedszkole Specjalne \"Zielony Latawiec\"(II. (II miejsce: ul. Dunikowskiego 9, III. Sołtana 3)",
+    "address": "Śródmieście, Czerniakowska 161 ",
+    "district": "Śródmieście",
+    "location": {
+      "lat": 52.21825219999999,
+      "lng": 21.0448814
+    }
+  },
+  {
+    "id": 224,
+    "name": "Prywatne Przedszkole im. Cecylii Plater-Zyberkówny",
+    "address": "Śródmieście, Piękna 24 26",
+    "district": "Śródmieście",
+    "location": {
+      "lat": 52.22355169999999,
+      "lng": 21.0180924
+    }
+  },
+  {
+    "id": 225,
+    "name": "Przedszkola Pomarańczowa Ciuchcia Sp. z o.o. Spółka Komandytowa",
+    "address": "Śródmieście, Rondo ONZ 1 ",
+    "district": "Śródmieście",
+    "location": {
+      "lat": 52.2326566,
+      "lng": 20.9996515
+    }
+  },
+  {
+    "id": 226,
+    "name": "Przedszkole \"Ala ma kota\"",
+    "address": "Śródmieście, Inflancka 4c ",
+    "district": "Śródmieście",
+    "location": {
+      "lat": 52.2555954,
+      "lng": 20.9937488
+    }
+  },
+  {
+    "id": 227,
+    "name": "Przedszkole Niepubliczne \"Trzy Języki\" (I m. prowadzenia ul. Karowa 14/16 lok. 2, 5, 6)",
+    "address": "Śródmieście, Karowa 14/16 LU 6a",
+    "district": "Śródmieście",
+    "location": {
+      "lat": 52.2428076,
+      "lng": 21.0178528
+    }
+  },
+  {
+    "id": 228,
+    "name": "Przedszkole Niepubliczne Zgromadzenia Sióstr Urszulanek SJK im. Św. Urszuli Ledóchowskiej",
+    "address": "Śródmieście, Wiślana 2 ",
+    "district": "Śródmieście",
+    "location": {
+      "lat": 52.2424921,
+      "lng": 21.0235952
+    }
+  },
+  {
+    "id": 229,
+    "name": "Przedszkole Politechniki Warszawskiej \"BOBOTECHNIKA\"",
+    "address": "Śródmieście, L. Waryńskiego 8 ",
+    "district": "Śródmieście",
+    "location": {
+      "lat": 52.2280471,
+      "lng": 21.0108046
+    }
+  },
+  {
+    "id": 230,
+    "name": "\"Tęczowe Przedszkole\"",
+    "address": "Targówek, Motycka 17 ",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.2752877,
+      "lng": 21.0464235
+    }
+  },
+  {
+    "id": 231,
+    "name": "Akademia Maluchów - Zacisze Niepubliczne Anglojęzyczne Przedszkole Integracyjne",
+    "address": "Targówek, Wiewiórki 1 ",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.290094,
+      "lng": 21.076465
+    }
+  },
+  {
+    "id": 232,
+    "name": "Integracyjne Niepubliczne Przedszkole \"Tęczowy Kącik\"",
+    "address": "Targówek, Lewinowska 30 ",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.2841531,
+      "lng": 21.078024
+    }
+  },
+  {
+    "id": 233,
+    "name": "Integracyjne Przedszkole Przedszkole Niepubliczne \"Kids World\"",
+    "address": "Targówek, Wyborna 4 ",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.2803575,
+      "lng": 21.0733265
+    }
+  },
+  {
+    "id": 234,
+    "name": "Integracyjne Przedszkole Tukan",
+    "address": "Targówek, Porannej Bryzy 19 ",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.2900875,
+      "lng": 21.0545815
+    }
+  },
+  {
+    "id": 235,
+    "name": "Niepublicze Przedszkola Ciuchcia Puch Puch Agata Wawer",
+    "address": "Targówek, Uranowa 24 ",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.2786014,
+      "lng": 21.0597737
+    }
+  },
+  {
+    "id": 236,
+    "name": "Niepubliczne Przedszkola Ciuchcia Puch Puch Agata Wawer",
+    "address": "Targówek, Łokietka 7 ",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.2788257,
+      "lng": 21.0599764
+    }
+  },
+  {
+    "id": 237,
+    "name": "Niepubliczne Przedszkole \"Akademia Krasnoludków\"",
+    "address": "Targówek, I. Łukasiewicza 4 ",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.2889198,
+      "lng": 21.0669142
+    }
+  },
+  {
+    "id": 238,
+    "name": "Niepubliczne Przedszkole \"Kolorowy Balonik\"",
+    "address": "Targówek, św. Wincentego 130 54",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.29713539999999,
+      "lng": 21.0564012
+    }
+  },
+  {
+    "id": 239,
+    "name": "Niepubliczne Przedszkole \"Krasnal\"",
+    "address": "Targówek, Łasińska 7 ",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.288489,
+      "lng": 21.0750499
+    }
+  },
+  {
+    "id": 240,
+    "name": "Niepubliczne Przedszkole Integracyjne \"Iskierka\"",
+    "address": "Targówek, Księcia Ziemowita 39 ",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.26646479999999,
+      "lng": 21.0689719
+    }
+  },
+  {
+    "id": 241,
+    "name": "Niepubliczne Przedszkole Integracyjne Artystyczno-Językowe \"Bystrzaki\"",
+    "address": "Targówek, Poborzańska 8 ",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.2905835,
+      "lng": 21.0319177
+    }
+  },
+  {
+    "id": 242,
+    "name": "Niepubliczne Przedszkole Zgromadzenia Sióstr Loretanek",
+    "address": "Targówek, M. K. Ogińskiego 7a ",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.2872762,
+      "lng": 21.0245445
+    }
+  },
+  {
+    "id": 243,
+    "name": "Niepubliczne Przedszkole Zgromadzenia SS Pocieszycielek Najświętszego Serca Jezusowego",
+    "address": "Targówek, W. Syrokomli 23 ",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.2851453,
+      "lng": 21.0273605
+    }
+  },
+  {
+    "id": 244,
+    "name": "Przedszkole Edukacyjno-Językowe La mariposa im. Matki Bożej Fatimskiej w Warszawie",
+    "address": "Targówek, Błędowska 3 ",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.2794848,
+      "lng": 21.0674024
+    }
+  },
+  {
+    "id": 245,
+    "name": "Przedszkole Niepubliczne \"Ale Frajda\"",
+    "address": "Targówek, Bolesławicka 40 ",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.290958,
+      "lng": 21.0260917
+    }
+  },
+  {
+    "id": 246,
+    "name": "Przedszkole Niepubliczne \"BAJKA\" (II miejsce: ul. Radziwie 7 lok. U9)",
+    "address": "Targówek, L. Kondratowicza 18 417",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.2911933,
+      "lng": 21.048164
+    }
+  },
+  {
+    "id": 247,
+    "name": "Przedszkole Niepubliczne \"Baśniowy Ogród\"",
+    "address": "Targówek, Ostródzka 10 ",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.2971914,
+      "lng": 21.0512087
+    }
+  },
+  {
+    "id": 248,
+    "name": "Przedszkole Niepubliczne \"Elfiki\" ( II miejsce: ul. Codzienna 8a, III miejsce ul. moździerzy 7)",
+    "address": "Targówek, Safony 1 ",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.2915393,
+      "lng": 21.0579951
+    }
+  },
+  {
+    "id": 249,
+    "name": "Przedszkole niepubliczne \"Marzenia do spełnienia\"",
+    "address": "Targówek, Wierna 24 u6,u7,u8",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.2758583,
+      "lng": 21.083004
+    }
+  },
+  {
+    "id": 250,
+    "name": "Przedszkole niepubliczne Baje i psoty",
+    "address": "Targówek, Bukowiecka 37 ",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.2737,
+      "lng": 21.0772189
+    }
+  },
+  {
+    "id": 251,
+    "name": "Przedszkole Niepubliczne MikiLand ( II miejsce: ul. Obywatelska 1)",
+    "address": "Targówek, Wolbromska 2 ",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.2797529,
+      "lng": 21.0745881
+    }
+  },
+  {
+    "id": 252,
+    "name": "Zielone Przedszkole w Folwarku",
+    "address": "Targówek, św. Wincentego 92 ",
+    "district": "Targówek",
+    "location": {
+      "lat": 52.2870852,
+      "lng": 21.0489678
+    }
+  },
+  {
+    "id": 253,
+    "name": "HIPOPO Niepubliczne Przedszkole XXI wieku Centrum Edukacji Lokalnej",
+    "address": "Ursus, Dzieci Warszawy 27 a ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.1929443,
+      "lng": 20.9043911
+    }
+  },
+  {
+    "id": 254,
+    "name": "Integracyjne Niepubliczne Przedszkole Montessori \"ELIPSOIDA\"",
+    "address": "Ursus, Cierlicka 19 ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.1952067,
+      "lng": 20.8838973
+    }
+  },
+  {
+    "id": 255,
+    "name": "Niepubliczne Przedszkole \"Bajeczka\" (II miejsce: ul. Prawnicza 26)",
+    "address": "Ursus, Prawnicza 29 ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.186679,
+      "lng": 20.8824125
+    }
+  },
+  {
+    "id": 256,
+    "name": "Niepubliczne Przedszkole \"Leśna Kraina\"",
+    "address": "Ursus, Baranowska 14 ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.1990941,
+      "lng": 20.8968873
+    }
+  },
+  {
+    "id": 257,
+    "name": "Niepubliczne Przedszkole \"Małe Przedszkole\"",
+    "address": "Ursus, Apartamentowa 12a ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.1950316,
+      "lng": 20.9057204
+    }
+  },
+  {
+    "id": 258,
+    "name": "Integracyjne Przedszkole \"Świat Dziecka\"",
+    "address": "Ursus, Rakietników 6/8 ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.1969416,
+      "lng": 20.8917569
+    }
+  },
+  {
+    "id": 259,
+    "name": "Niepubliczne przedszkole Angielsko-Polskie \"Maja\"",
+    "address": "Ursus, J. Michałowicza 78 ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.1905429,
+      "lng": 20.8805393
+    }
+  },
+  {
+    "id": 260,
+    "name": "Niepubliczne Przedszkole Artystyczne \"Delfinki\"",
+    "address": "Ursus, Orląt Lwowskich 1 ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.1941248,
+      "lng": 20.8743786
+    }
+  },
+  {
+    "id": 261,
+    "name": "Niepubliczne Przedszkole Edukacyjno-Sportowe \"Bambino\"",
+    "address": "Ursus, Rakietników 15 ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.1960016,
+      "lng": 20.8917979
+    }
+  },
+  {
+    "id": 262,
+    "name": "Niepubliczne Przedszkole integracyjne \"Biały Miś\"",
+    "address": "Ursus, Dzieci Warszawy 42 ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.19616689999999,
+      "lng": 20.899062
+    }
+  },
+  {
+    "id": 263,
+    "name": "Niepubliczne Przedszkole Integracyjne \"Baby Academy\" Warszawa Ursus (ul. Rybnicka 2)",
+    "address": "Ursus, Traktorzystów 20 ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.1979548,
+      "lng": 20.8879066
+    }
+  },
+  {
+    "id": 264,
+    "name": "Niepubliczne Przedszkole Językowe Smart Planet",
+    "address": "ursus, posag 7 Panien 14 u1",
+    "district": "ursus",
+    "location": {
+      "lat": 52.2049143,
+      "lng": 20.8810233
+    }
+  },
+  {
+    "id": 265,
+    "name": "Niepubliczne Przedszkole Qbuś",
+    "address": "Ursus, gen. K. Sosnkowskiego 32 ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.193301,
+      "lng": 20.8859989
+    }
+  },
+  {
+    "id": 266,
+    "name": "Polsko-Angielskie Przedszkole Niepubliczne Uśmiech",
+    "address": "Ursus, Zygmunta Augusta 6 ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.2045347,
+      "lng": 20.8639159
+    }
+  },
+  {
+    "id": 267,
+    "name": "Przedszkole Akademia Małych Smoków",
+    "address": "Ursus, Bełzy 15 ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.1962603,
+      "lng": 20.8751427
+    }
+  },
+  {
+    "id": 268,
+    "name": "Przedszkole integracyjne Domek Przedszkolaka",
+    "address": "Ursus, Nowotyska 11 ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.1978252,
+      "lng": 20.8950711
+    }
+  },
+  {
+    "id": 269,
+    "name": "Przedszkole Montessori (II miejsce ul. Prawnicza 60)",
+    "address": "Ursus, Henryka II Pobożnego 1 ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.1995534,
+      "lng": 20.8663504
+    }
+  },
+  {
+    "id": 270,
+    "name": "Przedszkole Niepubliczne \"Biedroneczka\"",
+    "address": "Ursus, Plutonu Torpedy 14 ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.1961549,
+      "lng": 20.889913
+    }
+  },
+  {
+    "id": 271,
+    "name": "Przedszkole Niepubliczne \"EDU SZKRABY\"",
+    "address": "Ursus, Opieńskiego 1 ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.1953614,
+      "lng": 20.8898656
+    }
+  },
+  {
+    "id": 272,
+    "name": "Przedszkole Niepubliczne \"TRALALA\"-Wychowanie przez sztukę",
+    "address": "Ursus, Przemysława 12 ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.200138,
+      "lng": 20.8641574
+    }
+  },
+  {
+    "id": 273,
+    "name": "Przedszkole Niepubliczne Artystyczno-Językowe Entliczek Pentliczek (II m. prowadzenia A. Prystora 4 lok. 10)",
+    "address": "Ursus, Skoroszewska 5 7",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.1901538,
+      "lng": 20.9005744
+    }
+  },
+  {
+    "id": 274,
+    "name": "Przedszkole Niepubliczne im. Księdza Bronisława Markiewicza",
+    "address": "Ursus, Bolesława Śmiałego 37 ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.19972000000001,
+      "lng": 20.8626594
+    }
+  },
+  {
+    "id": 275,
+    "name": "Przedszkole Niepubliczne Zgromadzenia Sióstr Imienia Jezus",
+    "address": "Ursus, Kaczorowska 3 ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.1905733,
+      "lng": 20.8796375
+    }
+  },
+  {
+    "id": 276,
+    "name": "Niepubliczne Dwujęzyczne Przedszkole \"Akwarelki\"",
+    "address": "Ursus, Quo Vadis 1:00 ",
+    "district": "Ursus",
+    "location": {
+      "lat": 52.1995269,
+      "lng": 20.8900887
+    }
+  },
+  {
+    "id": 277,
+    "name": "Niepubliczne Przedszkole Integracyjne \"Wolne Przedszkole\"",
+    "address": "Ursynów, Żołny 24F ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.13900599999999,
+      "lng": 21.0293614
+    }
+  },
+  {
+    "id": 278,
+    "name": "Niepubliczne Przedszkole\"Aniołowo\"",
+    "address": "Ursynów, Rumby 4 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1429625,
+      "lng": 21.0131636
+    }
+  },
+  {
+    "id": 279,
+    "name": "\"Przedszkole Leśne\"",
+    "address": "Ursynów, Bażancia 25 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.107419,
+      "lng": 21.031184
+    }
+  },
+  {
+    "id": 280,
+    "name": "Przedszkole Integracyjne Guzik",
+    "address": "Ursynów, Surowieckiego 12 3",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1569873,
+      "lng": 21.0207466
+    }
+  },
+  {
+    "id": 281,
+    "name": "\"Zaczarowana Pozytywka\" Przedszkole Niepubliczne",
+    "address": "Ursynów, Pozytywki 18 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1093041,
+      "lng": 21.0132753
+    }
+  },
+  {
+    "id": 282,
+    "name": "Accademia Dei Piccoli",
+    "address": "Ursynów, Ekologiczna 4 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.12988480000001,
+      "lng": 21.0623913
+    }
+  },
+  {
+    "id": 283,
+    "name": "Angielskie Integracyjne Przedszkole Muzyczne Żyrafa",
+    "address": "Ursynów, Urwisko 19 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1561422,
+      "lng": 21.0575738
+    }
+  },
+  {
+    "id": 284,
+    "name": "Chrześcijańskie Przedszkole Daniel",
+    "address": "Ursynów, Nowoursynowska 154a ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1541186,
+      "lng": 21.0569701
+    }
+  },
+  {
+    "id": 285,
+    "name": "Niepubliczne Przedszkole \"Harmony Montessori Parki II\"",
+    "address": "Ursynów, Pieskowa Skała 7 pu01, pu03,pu3",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.16166190000001,
+      "lng": 20.9959712
+    }
+  },
+  {
+    "id": 286,
+    "name": "CUKIERKOWO Przedszkole Integracyjne Niepubliczne",
+    "address": "Ursynów, Klubowa 7 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1249759,
+      "lng": 21.0146501
+    }
+  },
+  {
+    "id": 287,
+    "name": "Dwujęzyczne Przedszkole Sportowe \"Mali Odkrywcy\"",
+    "address": "Ursynów, Dereniowa 11 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.14714610000001,
+      "lng": 21.0422714
+    }
+  },
+  {
+    "id": 288,
+    "name": "EDUKACJA AKTYWNA.PL",
+    "address": "Ursynów, Ekologiczna 15 66",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1296137,
+      "lng": 21.0584246
+    }
+  },
+  {
+    "id": 289,
+    "name": "Integracyjne Przedszkole Niepubliczne \"Pluszowa Akademia\" (II miejsce Pełczyńskiego 5 lok US2,US3)",
+    "address": "Ursynów, Dereniowa 52 54",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1497793,
+      "lng": 21.0397697
+    }
+  },
+  {
+    "id": 290,
+    "name": "Integracyjne Przedszkole Niepubliczne Małe Misie nr 2",
+    "address": "Ursynów, Hawajska 3 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1494312,
+      "lng": 21.0430333
+    }
+  },
+  {
+    "id": 291,
+    "name": "Katolickie Przedszkole Fundacji Na Rzecz Rodziny",
+    "address": "Ursynów, Przy Bażantarni 3 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1370132,
+      "lng": 21.065385
+    }
+  },
+  {
+    "id": 292,
+    "name": "Kreatywne Niepubliczne Przedszkole Lingwistyczne \"Cztery Słonie\"",
+    "address": "Ursynów, S. Kulczyńskiego 22 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1488379,
+      "lng": 21.050868
+    }
+  },
+  {
+    "id": 293,
+    "name": "Międzynarodowe Przedszkole Montessori Children's House",
+    "address": "Ursynów, Dzierzby 26/28 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1347219,
+      "lng": 21.0198169
+    }
+  },
+  {
+    "id": 294,
+    "name": "Niepubliczne Przedszkole \"Jacek i Agatka\" ( II miejsce: ul. Stryjeńskich 10,)",
+    "address": "Ursynów, Pod Lipą 4 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1282244,
+      "lng": 21.0621144
+    }
+  },
+  {
+    "id": 295,
+    "name": "Niepubliczne Przedszkole \"Jaś i Małgosia\"",
+    "address": "Ursynów, M. Wańkowicza 2 187",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1329085,
+      "lng": 21.0666623
+    }
+  },
+  {
+    "id": 296,
+    "name": "Niepubliczne Przedszkole \"Nasze Przedszkole\"",
+    "address": "Ursynów, Migdałowa 10 U 10",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1444449,
+      "lng": 21.0558201
+    }
+  },
+  {
+    "id": 297,
+    "name": "Niepubliczne Przedszkole \"Przytulanka\"",
+    "address": "Ursynów, Kurantów 24 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.108477,
+      "lng": 20.991521
+    }
+  },
+  {
+    "id": 298,
+    "name": "Niepubliczne Przedszkole HiKids",
+    "address": "Ursynów, Kłobucka 23C 104",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1684168,
+      "lng": 20.994279
+    }
+  },
+  {
+    "id": 299,
+    "name": "Niepubliczne Przedszkole integracyjne \"Zielony Latawiec II\"",
+    "address": "Ursynów, X. Dunikowskiego 9 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1520587,
+      "lng": 21.0266038
+    }
+  },
+  {
+    "id": 300,
+    "name": "Niepubliczne Przedszkole Integracyjne Językowo-Muzyczne \"Drużyna Tygryska\"",
+    "address": "Ursynów, Bekasów 43A ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1484293,
+      "lng": 21.0213468
+    }
+  },
+  {
+    "id": 301,
+    "name": "Niepubliczne Przedszkole Montessori \"Artystyczny Kącik\" (II miejsce: ul. Pustułeczki 10)",
+    "address": "Ursynów, Pustułeczki 8 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1437551,
+      "lng": 21.0303261
+    }
+  },
+  {
+    "id": 302,
+    "name": "Niepubliczne Przedszkole Polsko-Angielskie \"BUZZY BEE\"",
+    "address": "Ursynów, Żołny 16 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1377295,
+      "lng": 21.0307844
+    }
+  },
+  {
+    "id": 303,
+    "name": "Niepubliczne Przedszkole Sióstr Niepokalanek",
+    "address": "Ursynów, J. Zaruby 2 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1277925,
+      "lng": 21.0758051
+    }
+  },
+  {
+    "id": 304,
+    "name": "Niepubliczne Przedszkole Sportowo-Językowe FAIR-PLAY",
+    "address": "Ursynów, Poleczki 33 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1555921,
+      "lng": 20.9978305
+    }
+  },
+  {
+    "id": 305,
+    "name": "Niepubliczne Przedszkole Szkoły Głównej Gospodarstwa Wiejskiego",
+    "address": "Ursynów, Nowoursynowska 161G ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.16367700000001,
+      "lng": 21.0410889
+    }
+  },
+  {
+    "id": 306,
+    "name": "Niepubliczne Przedszkole 'SZKRABKI\"",
+    "address": "Ursynów, J. Rosoła 10 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1341062,
+      "lng": 21.0761288
+    }
+  },
+  {
+    "id": 307,
+    "name": "Niepubliczne Przedszkole Twórczego Rozwoju active kids (II miejsce ul. Wąwozowa 18, lok 013,018,019,020)",
+    "address": "Ursynów, al. Komisji Edukacji Narodowej 20 U3",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.13241790000001,
+      "lng": 21.0660716
+    }
+  },
+  {
+    "id": 308,
+    "name": "Niepublicznee Przedszkole Integracyjn Babaloo",
+    "address": "Ursynów, Sarabandy 28 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1138979,
+      "lng": 21.0130419
+    }
+  },
+  {
+    "id": 309,
+    "name": "Przedszkole \"Ala ma kota\"",
+    "address": "Ursynów, Pistacjowa 16 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.15304,
+      "lng": 21.0599925
+    }
+  },
+  {
+    "id": 310,
+    "name": "Przedszkole Niepubliczne \"Happy lions\" Beata Bartos",
+    "address": "Ursynów, Rybałtów 14 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1291524,
+      "lng": 21.0560925
+    }
+  },
+  {
+    "id": 311,
+    "name": "Niepubliczne Przedszkole Tygrysek i Przyjaciele",
+    "address": "Ursynów, Chłapowskiego 1 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.16433929999999,
+      "lng": 21.0393192
+    }
+  },
+  {
+    "id": 312,
+    "name": "Przedszkole Edukacyjno-Sportowe \"Mały Olimpijczyk\"",
+    "address": "Ursynów, Symfonii 4 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1630932,
+      "lng": 21.0320925
+    }
+  },
+  {
+    "id": 313,
+    "name": "Przedszkole Heliantus",
+    "address": "Ursynów, Bażancia 18 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.108839,
+      "lng": 21.0327557
+    }
+  },
+  {
+    "id": 314,
+    "name": "Przedszkole INSPIREN",
+    "address": "Ursynów, E. Lokajskiego 14 U-1",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.13977449999999,
+      "lng": 21.0644655
+    }
+  },
+  {
+    "id": 315,
+    "name": "Przedszkole Montessori Ewa i Andrzej Bocheńscy",
+    "address": "Ursynów, S. Kulczyńskiego 16 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1489439,
+      "lng": 21.0523429
+    }
+  },
+  {
+    "id": 316,
+    "name": "Przedszkole Niepubliczne Domek Elfów",
+    "address": "Ursynów, J. Żabińskiego 8 49",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.13742300000001,
+      "lng": 21.0579593
+    }
+  },
+  {
+    "id": 317,
+    "name": "Przedszkole Niepubliczne Integracyjne \"Echa Leśne\"",
+    "address": "Ursynów, A. Janowskiego 50 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1537709,
+      "lng": 21.0202033
+    }
+  },
+  {
+    "id": 318,
+    "name": "Przedszkole Niepubliczne \" Wesołe Krasnale\" (II miejsce: Al.. Wyścigowa 18 lok. 1, \nul. Lanciego 11 lok. U 2)",
+    "address": "Ursynów, Alternatywy 7 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1427676,
+      "lng": 21.0325704
+    }
+  },
+  {
+    "id": 319,
+    "name": "Przedszkole Niepubliczne \"Akademia Małych Artystów\"",
+    "address": "Ursynów, Braci Wagów 1 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.138811,
+      "lng": 21.0516166
+    }
+  },
+  {
+    "id": 320,
+    "name": "Przedszkole Niepubliczne \"Chatka\" ( II miejsce: ul. Belgradzka 10 lok. 121)",
+    "address": "Ursynów, M. Wańkowicza 5A 69",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1336837,
+      "lng": 21.0650222
+    }
+  },
+  {
+    "id": 321,
+    "name": "Przedszkole Niepubliczne \"ECOKIDS\"",
+    "address": "Ursynów, Stryjeńskich 19 16A",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.13588679999999,
+      "lng": 21.0501688
+    }
+  },
+  {
+    "id": 322,
+    "name": "Przedszkole Little Academy preschool ( II. Miejsce: Rydygiera 13B lok U3)",
+    "address": "Ursynów, Wąwozowa 28 2U,3u,4UB",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1316999,
+      "lng": 21.0599224
+    }
+  },
+  {
+    "id": 323,
+    "name": "Przedszkole Niepubliczne \"Jeżykowa Dolinka\"",
+    "address": "Ursynów, Pięciolinii 1 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.15642649999999,
+      "lng": 21.0260875
+    }
+  },
+  {
+    "id": 324,
+    "name": "Przedszkole Niepubliczne \"Owocowe Przedszkole\"",
+    "address": "Ursynów, Krasnowolska 29c ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.14309189999999,
+      "lng": 21.0085043
+    }
+  },
+  {
+    "id": 325,
+    "name": "Przedszkole Niepubliczne Językowo-Artystyczne \"Diuna Kids\"",
+    "address": "Ursynów, F. M. Lanciego 13 12",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1454403,
+      "lng": 21.0561539
+    }
+  },
+  {
+    "id": 326,
+    "name": "Przedszkole Niepubliczne p.w. Aniołów Stróżów",
+    "address": "Ursynów, Nowoursynowska 143 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1513396,
+      "lng": 21.0588476
+    }
+  },
+  {
+    "id": 327,
+    "name": "Przedszkole Szumi Szum (II Lokalizacja: ul. Kabacki Dukt 14 lok U7)",
+    "address": "Ursynów, Relaksowa 33 U1",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1283561,
+      "lng": 21.078408
+    }
+  },
+  {
+    "id": 328,
+    "name": "Społeczne Przedszkole \"Baśniowy Świat Dziecka\"",
+    "address": "Ursynów, X. Dunikowskiego 4 ",
+    "district": "Ursynów",
+    "location": {
+      "lat": 52.1535259,
+      "lng": 21.0280402
+    }
+  },
+  {
+    "id": 329,
+    "name": "Niepubliczne Polsko-Angielskie Przedszkole KidsCollege",
+    "address": "Wawer, Akwarelowa 22 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.2305129,
+      "lng": 21.145572
+    }
+  },
+  {
+    "id": 330,
+    "name": "\"Przedszkole … jak z bajki\"",
+    "address": "Wawer, Wylotowa 5 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.21496029999999,
+      "lng": 21.1479081
+    }
+  },
+  {
+    "id": 331,
+    "name": "\"STRUMIENIE\" Przedszkole Stowarzyszenia Sternik (II miejsce: ul. Pożaryskiego 28)",
+    "address": "Wawer, Lokalna 51 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.1693511,
+      "lng": 21.2165929
+    }
+  },
+  {
+    "id": 332,
+    "name": "Integracyjne Przedszkole Montessori \"Mały Odkrywca\"",
+    "address": "Wawer, Zerzeńska 10b ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.1921283,
+      "lng": 21.1488597
+    }
+  },
+  {
+    "id": 333,
+    "name": "Integracyjne Przedszkole Montessori Wawer",
+    "address": "Wawer, Zerzeńska 10b ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.1921283,
+      "lng": 21.1488597
+    }
+  },
+  {
+    "id": 334,
+    "name": "Integracyjne Przedszkole Niepubliczne \"Przyjaciel\" (II miejsce ul. Ciepielowska 7)",
+    "address": "Wawer, Drwali 10A ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.18076610000001,
+      "lng": 21.1992127
+    }
+  },
+  {
+    "id": 335,
+    "name": "Niepbliczne Przedszkole Cali Mali",
+    "address": "Wawer, Korkowa 161c 36",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.2416052,
+      "lng": 21.1583679
+    }
+  },
+  {
+    "id": 336,
+    "name": "Niepubliczne Integracyjne Przedszkole \"Aniołkowo\"",
+    "address": "Wawer, Nenufarów 8 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.1714119,
+      "lng": 21.1864199
+    }
+  },
+  {
+    "id": 337,
+    "name": "Niepubliczne Przedszkola Ciuchcia Puch Puch Agata Wawer",
+    "address": "Wawer, Stradomska 12 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.2156663,
+      "lng": 21.1615235
+    }
+  },
+  {
+    "id": 338,
+    "name": "Integracyjne Niepubliczne Przedszkole \"Klub Ciastusia\"",
+    "address": "Wawer, Wilgi 31 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.185753,
+      "lng": 21.1975868
+    }
+  },
+  {
+    "id": 339,
+    "name": "Niepubliczne Przedszkole \"Domek Montessori\"",
+    "address": "Wawer, Rzeźbiarska 28 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.2136313,
+      "lng": 21.1642704
+    }
+  },
+  {
+    "id": 340,
+    "name": "Niepubliczne Przedszkole \"Karuzela\"",
+    "address": "Wawer, Wał Miedzeszyński 420 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.1981751,
+      "lng": 21.1212522
+    }
+  },
+  {
+    "id": 341,
+    "name": "Niepubliczne Przedszkole \"Milusin\"",
+    "address": "Wawer, Wał Miedzeszyński 131C ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.1597022,
+      "lng": 21.1683987
+    }
+  },
+  {
+    "id": 342,
+    "name": "Niepubliczne Przedszkole Maleństwo i Przyjaciele",
+    "address": "Wawer, Rekrucka 3 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.2373886,
+      "lng": 21.1415632
+    }
+  },
+  {
+    "id": 343,
+    "name": "Niepubliczne Przedszkole \"Okienko\"",
+    "address": "Wawer, I Poprzeczna 8a ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.2246565,
+      "lng": 21.1527053
+    }
+  },
+  {
+    "id": 344,
+    "name": "Niepubliczne Przedszkole \"Przedszkole Leśne\"",
+    "address": "Wawer, Jeziorowa 67T ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.19846500000001,
+      "lng": 21.126845
+    }
+  },
+  {
+    "id": 345,
+    "name": "Niepubliczne Przedszkole artystyczno- językowe \"Bułhaczek\"",
+    "address": "Wawer, J. Strusia 58 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.2339604,
+      "lng": 21.1475743
+    }
+  },
+  {
+    "id": 346,
+    "name": "Niepubliczne Przedszkole Dwujęzyczne Academy International Wawer",
+    "address": "Wawer, 27 Grudnia 52 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.2258963,
+      "lng": 21.1421578
+    }
+  },
+  {
+    "id": 347,
+    "name": "Niepubliczne Przedszkole Językowe Happy Hippo (II miejsce prowadzenia: ul. Jana Nowaka-Jeziorańskiego 46/U15/U14/U13)",
+    "address": "Wawer, 27 grudnia 42 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.2251325,
+      "lng": 21.1429314
+    }
+  },
+  {
+    "id": 348,
+    "name": "Niepubliczne Przedszkole TOTU",
+    "address": "Wawer, Dzielnicowa 19 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.22203589999999,
+      "lng": 21.1404937
+    }
+  },
+  {
+    "id": 349,
+    "name": "Niepubliczne Przedszkole Zgromadzenia Sióstr Prezentek w Warszawie",
+    "address": "Wawer, VII Poprzeczna 3 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.2149981,
+      "lng": 21.1597593
+    }
+  },
+  {
+    "id": 350,
+    "name": "Prywatne Przedszkole \"Prymulka\"",
+    "address": "Wawer, Prymulki 33 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.1799355,
+      "lng": 21.1776985
+    }
+  },
+  {
+    "id": 351,
+    "name": "Przedszkole \"Ala ma kota\"",
+    "address": "Wawer, Bronowska 32 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.20077389999999,
+      "lng": 21.1262695
+    }
+  },
+  {
+    "id": 352,
+    "name": "Przedszkole Niepubliczne",
+    "address": "Wawer, Wiązana 6 F ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.2007768,
+      "lng": 21.1468931
+    }
+  },
+  {
+    "id": 353,
+    "name": "Przedszkole Niepubliczne \" Pod Poziomką\"",
+    "address": "Wawer, Widoczna 61A ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.2209388,
+      "lng": 21.1504809
+    }
+  },
+  {
+    "id": 354,
+    "name": "Przedszkole Niepubliczne \"AMO Radość\"",
+    "address": "Wawer, Garncarska 48 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.1799939,
+      "lng": 21.1901072
+    }
+  },
+  {
+    "id": 355,
+    "name": "Niepubliczne Przedszkole \"Załoga Pana Boga\"",
+    "address": "Wawer, Garncarska 32 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.177195,
+      "lng": 21.1929898
+    }
+  },
+  {
+    "id": 356,
+    "name": "Przedszkole Niepubliczne \"Kocie Łapki\"",
+    "address": "Wawer, Złotej Jesieni 24 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.1698539,
+      "lng": 21.2378023
+    }
+  },
+  {
+    "id": 357,
+    "name": "Przedszkole Niepubliczne \"Myszka Mepi\"",
+    "address": "Wawer, Wielostronna 21 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.187743,
+      "lng": 21.1795429
+    }
+  },
+  {
+    "id": 358,
+    "name": "Przedszkole niepubliczne Akademia talentów",
+    "address": "Wawer, Odrodzenia 12A ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.2219759,
+      "lng": 21.1696811
+    }
+  },
+  {
+    "id": 359,
+    "name": "Przedszkole Niepubliczne Alicja Szybińska",
+    "address": "Wawer, Lubiana 13a ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.1853509,
+      "lng": 21.1739196
+    }
+  },
+  {
+    "id": 360,
+    "name": "Przedszkole Niepubliczne KRASNALKOWO",
+    "address": "Wawer, Wiązana 20 J ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.20245080000001,
+      "lng": 21.1468775
+    }
+  },
+  {
+    "id": 361,
+    "name": "Przedszkole Niepubliczne My First Academy Towarzystwa Edukacyjnego \"Vizja\" w Warszawie",
+    "address": "Wawer, Patriotów 148 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.1820002,
+      "lng": 21.1926012
+    }
+  },
+  {
+    "id": 362,
+    "name": "Przedszkole Niepubliczne Sióstr Salezjanek im. Dobrego Pasterza w Warszawie",
+    "address": "Wawer, Gruszy 41/43 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.198249,
+      "lng": 21.1668669
+    }
+  },
+  {
+    "id": 363,
+    "name": "Przedszkole Niepubliczne Zgromadzenia Służebnic Najświętszego Serca Jezusowego (Sióstr Sercanek)",
+    "address": "Wawer, Kresowa 18 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.23783359999999,
+      "lng": 21.1324426
+    }
+  },
+  {
+    "id": 364,
+    "name": "Przedszkole Sióstr Felicjanek im. Św. Franciszka z Asyżu",
+    "address": "Wawer, Kościuszkowców 85 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.2366373,
+      "lng": 21.1571145
+    }
+  },
+  {
+    "id": 365,
+    "name": "Specjalne Przedszkole Towarzystwa Przyjaciół Dzieci imienia Lady Sue Ryder",
+    "address": "Wawer, Hafciarska 80/86 ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.2161851,
+      "lng": 21.1895548
+    }
+  },
+  {
+    "id": 366,
+    "name": "Przedszkole niepubliczne Domisia",
+    "address": "Wawer, Tawułkowa 21b ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.1716741,
+      "lng": 21.1781753
+    }
+  },
+  {
+    "id": 367,
+    "name": "Lykkeland Przedszkole Skandynawskie",
+    "address": "Wawer, Izbicka 8a ",
+    "district": "Wawer",
+    "location": {
+      "lat": 52.1834745,
+      "lng": 21.1924592
+    }
+  },
+  {
+    "id": 368,
+    "name": "Przedszkole Niepubliczne Domek Wesoła",
+    "address": "Wesoła, Jana Pawła II 112 ",
+    "district": "Wesoła",
+    "location": {
+      "lat": 52.2162669,
+      "lng": 21.2294614
+    }
+  },
+  {
+    "id": 369,
+    "name": "Dwujęzyczne Przedszkole niepubliczne SUPERBOHATEROWIE",
+    "address": "Wesoła, Cieplarniana 25F 2",
+    "district": "Wesoła",
+    "location": {
+      "lat": 52.217837,
+      "lng": 21.234843
+    }
+  },
+  {
+    "id": 370,
+    "name": "Językowe Przedszkole Limonka",
+    "address": "Wesoła, Warszawska 57 ",
+    "district": "Wesoła",
+    "location": {
+      "lat": 52.2452637,
+      "lng": 21.1903001
+    }
+  },
+  {
+    "id": 371,
+    "name": "Niepubliczne Przedszkole \"Robuś\"",
+    "address": "Wesoła, Magnolii 6 ",
+    "district": "Wesoła",
+    "location": {
+      "lat": 52.2124866,
+      "lng": 21.2444657
+    }
+  },
+  {
+    "id": 372,
+    "name": "Niepubliczne Przedszkole Jacek i Agatka",
+    "address": "Wesoła, C. Godebskiego 2 ",
+    "district": "Wesoła",
+    "location": {
+      "lat": 52.2458783,
+      "lng": 21.225072
+    }
+  },
+  {
+    "id": 373,
+    "name": "Niepubliczne Przedszkole Językowo-Artystyczne \"Leśne Skrzaty\"",
+    "address": "Wesoła, al. marsz. J. Piłsudskiego 4c ",
+    "district": "Wesoła",
+    "location": {
+      "lat": 52.2369439,
+      "lng": 21.2539665
+    }
+  },
+  {
+    "id": 374,
+    "name": "Niepubliczne Przedszkole Montessori House",
+    "address": "Wesoła, Jana Pawła II 214 ",
+    "district": "Wesoła",
+    "location": {
+      "lat": 52.2158677,
+      "lng": 21.2379339
+    }
+  },
+  {
+    "id": 375,
+    "name": "Przedszkole \"abc\"",
+    "address": "Wesoła, Wspólna 35 ",
+    "district": "Wesoła",
+    "location": {
+      "lat": 52.24792679999999,
+      "lng": 21.191509
+    }
+  },
+  {
+    "id": 376,
+    "name": "Przedszkole Jaskinia Talentów",
+    "address": "Wesoła, orla 10 ",
+    "district": "Wesoła",
+    "location": {
+      "lat": 52.2496042,
+      "lng": 21.2538765
+    }
+  },
+  {
+    "id": 377,
+    "name": "Niepubliczne Bliskościowe Przedszkole Dziecięca Osada",
+    "address": "Wesoła, al. marsz. J. Piłsudskiego 73J ",
+    "district": "Wesoła",
+    "location": {
+      "lat": 52.2385306,
+      "lng": 21.2539514
+    }
+  },
+  {
+    "id": 378,
+    "name": "Przedszkole Niepubliczne \"Macierzanka\"",
+    "address": "Wesoła, Macierzanki 1 ",
+    "district": "Wesoła",
+    "location": {
+      "lat": 52.2164799,
+      "lng": 21.2506071
+    }
+  },
+  {
+    "id": 379,
+    "name": "Przedszkole Prywatne \"Jaś i Małgosia\"",
+    "address": "Wesoła, J. Kilińskiego 44 ",
+    "district": "Wesoła",
+    "location": {
+      "lat": 52.2525771,
+      "lng": 21.2215931
+    }
+  },
+  {
+    "id": 380,
+    "name": "Przedszkole Rodzinne w Wesołej",
+    "address": "Wesoła, Kruszyny 28 ",
+    "district": "Wesoła",
+    "location": {
+      "lat": 52.2169415,
+      "lng": 21.2162857
+    }
+  },
+  {
+    "id": 381,
+    "name": "Niepubliczne Przedszkole kids Joy",
+    "address": "Wilanów, Augustówka 8 u2,u3,u4,u5",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.1831363,
+      "lng": 21.0770702
+    }
+  },
+  {
+    "id": 382,
+    "name": "\"Deutscher Kindergarten\" Niepubliczne Przedszkole",
+    "address": "Wilanów, Prymasa A. Hlonda 3 ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.15854909999999,
+      "lng": 21.0687055
+    }
+  },
+  {
+    "id": 383,
+    "name": "\"The English Playhouse\" Przedszkole Niepubliczne",
+    "address": "Wilanów, Syta 78 ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.16280860000001,
+      "lng": 21.1141416
+    }
+  },
+  {
+    "id": 384,
+    "name": "\"Wilanowskie Przedszkole\"",
+    "address": "Wilanów, Sarmacka 1A 2",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.1668424,
+      "lng": 21.0752629
+    }
+  },
+  {
+    "id": 385,
+    "name": "Academy International Wilanów",
+    "address": "Wilanów, A. Branickiego 15 ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.1553949,
+      "lng": 21.0745361
+    }
+  },
+  {
+    "id": 386,
+    "name": "CREATIVE KIDS PRESCHOOL Niepubliczne Przedszkole (II miejsce ul. Bergamotki 3 lok u2)",
+    "address": "Wilanów, al.. Rzeczypospolitej 10 60",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.1624993,
+      "lng": 21.0722225
+    }
+  },
+  {
+    "id": 387,
+    "name": "Kids College Niepubliczne Przedszkole Polsko-Angielskie",
+    "address": "Wilanów, Jara 12A ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.174214,
+      "lng": 21.1092939
+    }
+  },
+  {
+    "id": 388,
+    "name": "Niepubliczne Przedszkole \" Happy Preschool\"(II miejsce prowadzenia ul. Kazachska 1 lok. 93)",
+    "address": "Wilanów, Kazachska 1 UA1",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.1618801,
+      "lng": 21.0802215
+    }
+  },
+  {
+    "id": 389,
+    "name": "Niepubliczne Przedszkole \"Bruzdowa 22c\"",
+    "address": "Wilanów, Bruzdowa 22c ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.1524401,
+      "lng": 21.1354609
+    }
+  },
+  {
+    "id": 390,
+    "name": "Jęzkowe Niepubliczne Przedszkole Pastel Garden",
+    "address": "Wilanów, Rycerstwa Polskiego 4 U1/2/3",
+    "district": "Wilanów"
+  },
+  {
+    "id": 391,
+    "name": "Niepubliczne Przedszkole \"Elemelki\"",
+    "address": "Wilanów, Z. Vogla 10 ",
+    "district": "Wilanów"
+  },
+  {
+    "id": 392,
+    "name": "Niepubliczne Przedszkole \"MINIHARVARD \" Wilanów",
+    "address": "Wilanów, Prymasa A. Hlonda 10F ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.1589306,
+      "lng": 21.0665163
+    }
+  },
+  {
+    "id": 393,
+    "name": "Niepubliczne Przedszkole muzyczne Zebra",
+    "address": "Wilanów, Prymasa A. Hlonda 6 u2 iu3",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.15968840000001,
+      "lng": 21.0692516
+    }
+  },
+  {
+    "id": 394,
+    "name": "Przedszkole Niepubliczne Zielona Żyrafa",
+    "address": "Wilanów, Sarmacka 6 LNM 1  ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.1651807,
+      "lng": 21.0733849
+    }
+  },
+  {
+    "id": 395,
+    "name": "Niepubliczne Przedszkole Artystyczne ACOTO",
+    "address": "Wilanów, al.. Rzeczypospolitej 20 u13",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.1672172,
+      "lng": 21.0710687
+    }
+  },
+  {
+    "id": 396,
+    "name": "Niepubliczne Przedszkole Big Litlle Steps",
+    "address": "Wilanów, A. Gieysztora 6 u11,u12",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.15886520000001,
+      "lng": 21.0837218
+    }
+  },
+  {
+    "id": 397,
+    "name": "Dibber International Preschool - Wilanów",
+    "address": "Wilanów, al.. Rzeczypospolitej 20 lok. U4",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.1661824,
+      "lng": 21.069948
+    }
+  },
+  {
+    "id": 398,
+    "name": "Niepubliczne Przedszkole Integracyjne \"Ziarenko\"",
+    "address": "Wilanów, Orszady 10 ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.15244819999999,
+      "lng": 21.0631339
+    }
+  },
+  {
+    "id": 399,
+    "name": "Niepubliczne Przedszkole Integracyjne Bałabajka",
+    "address": "Wilanów, Wiertnicza 83 ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.1728039,
+      "lng": 21.0796979
+    }
+  },
+  {
+    "id": 400,
+    "name": "Niepubliczne Przedszkole Karate Kids",
+    "address": "Wilanów, al.. Rzeczypospolitej 18 136",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.16515829999999,
+      "lng": 21.0700918
+    }
+  },
+  {
+    "id": 401,
+    "name": "Brytyjskie Przedszkole \"The English Preschool & Nursery\"",
+    "address": "Wilanów, Rzodkiewki 18 ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.1666787,
+      "lng": 21.0542822
+    }
+  },
+  {
+    "id": 402,
+    "name": "Niepubliczne Przedszkole KIDS Project",
+    "address": "Wilanów, Syta 78 ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.16280860000001,
+      "lng": 21.1141416
+    }
+  },
+  {
+    "id": 403,
+    "name": "Przedszkole Niepubliczne Zielona Żyrafa",
+    "address": "Wilanów, Al.. Wilanowska 7 u1",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.1662839,
+      "lng": 21.0787767
+    }
+  },
+  {
+    "id": 404,
+    "name": "Niepubliczne Przedszkole Moje Cudowne Lata",
+    "address": "Wilanów, Gąsek 74A ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.12981850000001,
+      "lng": 21.083779
+    }
+  },
+  {
+    "id": 405,
+    "name": "Polsko-Angielskie Przedszkole Artystyczne Magic Fish (II miejsce: ul. Królewicza Jakuba 69)",
+    "address": "Wilanów, Królewicza Jakuba 71 ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.1752174,
+      "lng": 21.0723482
+    }
+  },
+  {
+    "id": 406,
+    "name": "Przedszkole \"Ala ma kota\" (II miejsce: ul. Wygodna 4; III miejsce ul. Nasielska 32, IV miejsce: ul. Bogatki 23;)",
+    "address": "Wilanów, Bruzdowa 95G ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.166951,
+      "lng": 21.1163526
+    }
+  },
+  {
+    "id": 407,
+    "name": "Przedszkole \"Ala ma kota\"",
+    "address": "Wilanów, Klimczaka 1 ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.1638847,
+      "lng": 21.0828975
+    }
+  },
+  {
+    "id": 408,
+    "name": "Przedszkole Brytyjskie",
+    "address": "Wilanów, Prymasa A. Hlonda 12 ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.1584018,
+      "lng": 21.066096
+    }
+  },
+  {
+    "id": 409,
+    "name": "Przedszkole Niepubliczne im. Jasia i Małgosi",
+    "address": "Wilanów, Husarii 34 ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.1731232,
+      "lng": 21.0835649
+    }
+  },
+  {
+    "id": 410,
+    "name": "Przedszkole Niepubliczne \"Mini-Przedszkole\"",
+    "address": "Wilanów, Kosiarzy 26 ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.170509,
+      "lng": 21.0785208
+    }
+  },
+  {
+    "id": 411,
+    "name": "Przedszkole Niepubliczne \"Radosne Przedszkole\"",
+    "address": "Wilanów, Z. Vogla 9 ",
+    "district": "Wilanów"
+  },
+  {
+    "id": 412,
+    "name": "Przedszkole niepubliczne Baby English Academy (II miejsce ul. Kieslowskiego 3 lok. U5)",
+    "address": "Wilanów, F. Klimczaka 8 2",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.16315789999999,
+      "lng": 21.078787
+    }
+  },
+  {
+    "id": 413,
+    "name": "Przedszkole Niepubliczne Beztroski Świat",
+    "address": "Wilanów, Wiertnicza 36A ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.1699846,
+      "lng": 21.0837133
+    }
+  },
+  {
+    "id": 414,
+    "name": "Przedszkole Niepubliczne Hero ! Academy (II miejsce: Al.. Rzeczpospolitej 1)",
+    "address": "Wilanów, A. Branickiego 16 ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.15667699999999,
+      "lng": 21.0735111
+    }
+  },
+  {
+    "id": 415,
+    "name": "Przedszkole Niepubliczne Kid`s Academy",
+    "address": "Wilanów, Arbuzowa 33d ",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.1693848,
+      "lng": 21.0619856
+    }
+  },
+  {
+    "id": 416,
+    "name": "Przedszkole Numer Jeden (II miejsce: Al.. Rzeczypospolitej 31/AU2)",
+    "address": "Wilanów, al.. Rzeczypospolitej 31 AU1",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.1676837,
+      "lng": 21.0683163
+    }
+  },
+  {
+    "id": 417,
+    "name": "Little Academy Dwujęzyczne Przedszkole Niepubliczne",
+    "address": "Wilanów, Sarmacka 12 lok. 2",
+    "district": "Wilanów",
+    "location": {
+      "lat": 52.163604,
+      "lng": 21.0746708
+    }
+  },
+  {
+    "id": 418,
+    "name": "integracyjne Niepubliczne Przedszkole Montessori Elipsoida",
+    "address": "Włochy, W. Żeleńskiego 5 ",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.2064028,
+      "lng": 20.9066826
+    }
+  },
+  {
+    "id": 419,
+    "name": "Integracyjne Przedszkole Mądre Główki",
+    "address": "Włochy, Jutrzenki 146 ",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.1972618,
+      "lng": 20.9326826
+    }
+  },
+  {
+    "id": 420,
+    "name": "Międzynarodowe Przedszkole Towarzystwa Edukacyjnego 'Vizja\"",
+    "address": "Włochy, Gładka 31 ",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.1889242,
+      "lng": 20.9603962
+    }
+  },
+  {
+    "id": 421,
+    "name": "Niepubliczne Przedszkole \"BAMBINOLANDIA\"",
+    "address": "Włochy, Redaktorska 2 ",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.2123879,
+      "lng": 20.9155365
+    }
+  },
+  {
+    "id": 422,
+    "name": "Niepubliczne Przedszkole Tosi i Franka",
+    "address": "Włochy, F. Hynka 4a ",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.1899756,
+      "lng": 20.9620948
+    }
+  },
+  {
+    "id": 423,
+    "name": "Niepubliczne Przedszkole Artystyczno - Językowe \"Iskierka\" (II miejsce: ul. Regulska 71)",
+    "address": "Włochy, Świerszcza 74 ",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.20264179999999,
+      "lng": 20.9013338
+    }
+  },
+  {
+    "id": 424,
+    "name": "Niepubliczne Przedszkole TUPTU Włochy",
+    "address": "Włochy, Pola Karolińskie 2b 700",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.208918,
+      "lng": 20.8920561
+    }
+  },
+  {
+    "id": 425,
+    "name": "Have fun językowe przedszkole",
+    "address": "Włochy, Wirażowa 124a ",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.179088,
+      "lng": 20.9855959
+    }
+  },
+  {
+    "id": 426,
+    "name": "Niepubliczne Przedszkole 'Nasz Domek\" Warszawa-Potrzebna\n (II m.prowadzemia Al.. Jerozolimskie 162 a)",
+    "address": "Włochy, Potrzebna 19 lok. 2",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.20888430000001,
+      "lng": 20.9182087
+    }
+  },
+  {
+    "id": 427,
+    "name": "Niepubliczne Przedszkole Integracyjne \"Biały Miś\"",
+    "address": "Włochy, Pana Tadeusza 10 ",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.19860079999999,
+      "lng": 20.9232284
+    }
+  },
+  {
+    "id": 428,
+    "name": "Niepubliczne Przedszkole Integracyjne \"Mini Misie\"",
+    "address": "Włochy, Mikołajska 30 ",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.20748889999999,
+      "lng": 20.9300439
+    }
+  },
+  {
+    "id": 429,
+    "name": "Niepubliczne Przedszkole Językowo-Artystyczne \"Dzwoneczek\"",
+    "address": "Włochy, Rybnicka 24 ",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.20628550000001,
+      "lng": 20.9051427
+    }
+  },
+  {
+    "id": 430,
+    "name": "Niepubliczne Przedszkole Mali Wynalazcy dla Dzieci pracowników przy Przemysłowym Instytucie Automatyki i Pomiarów - PIAP",
+    "address": "Włochy, Al.. Jerozolimskie 202 ",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.1936616,
+      "lng": 20.9216763
+    }
+  },
+  {
+    "id": 431,
+    "name": "Niepubliczne przedszkole Matematyczno-Językowe \"Dolina Odkrywców\"",
+    "address": "Włochy, Bakalarska 15a u1",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.1939894,
+      "lng": 20.9549002
+    }
+  },
+  {
+    "id": 432,
+    "name": "Niepubliczne Przedszkole Polsko-Angielskie \"BUZZY BEE\"",
+    "address": "Włochy, Śląska 45 ",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.2039649,
+      "lng": 20.9291648
+    }
+  },
+  {
+    "id": 433,
+    "name": "Niepubliczne Przedszkole Tosi i Franka",
+    "address": "Włochy, Obywatelska 10 ",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.2058879,
+      "lng": 20.8946265
+    }
+  },
+  {
+    "id": 434,
+    "name": "Przedszkola Pomarańczowa Spółka z o.o. Spółka komandytowa",
+    "address": "Włochy, Śląska 36 ",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.2048157,
+      "lng": 20.9232729
+    }
+  },
+  {
+    "id": 435,
+    "name": "Przedszkole Eduventura",
+    "address": "Włochy, Na Skraju 32 32 ",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.1603331,
+      "lng": 20.9381995
+    }
+  },
+  {
+    "id": 436,
+    "name": "Przedszkole Niepubliczne \"PICCOLO\"",
+    "address": "Włochy, Kleszczowa 13 ",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.1993236,
+      "lng": 20.916571
+    }
+  },
+  {
+    "id": 437,
+    "name": "Przedszkole Niepubliczne \"Skrzaty\"",
+    "address": "Włochy, Śląska 26 ",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.2055099,
+      "lng": 20.9205863
+    }
+  },
+  {
+    "id": 438,
+    "name": "Przedszkole Niepubliczne \"Słoneczko\" ( II miejsce: ul. Górczewska 255 c)",
+    "address": "Włochy, Płomyka 13 ",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.2007558,
+      "lng": 20.9195552
+    }
+  },
+  {
+    "id": 439,
+    "name": "Przedszkole Niepubliczne \"Zielony Słonik\"",
+    "address": "Włochy, Bolesława Chrobrego 18A ",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.2034138,
+      "lng": 20.9149223
+    }
+  },
+  {
+    "id": 440,
+    "name": "Przedszkole Terapeutyczne Mądre Główki",
+    "address": "Włochy, Naukowa 35 A ",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.2066196,
+      "lng": 20.9332477
+    }
+  },
+  {
+    "id": 441,
+    "name": "Zielona Wieża Sabały",
+    "address": "Włochy, Sabały 29a ",
+    "district": "Włochy",
+    "location": {
+      "lat": 52.1884473,
+      "lng": 20.9588204
+    }
+  },
+  {
+    "id": 442,
+    "name": "Przedszkole Niepubliczne Małe Pasje",
+    "address": "Wola, ordona 5a U1",
+    "district": "Wola",
+    "location": {
+      "lat": 52.2240413,
+      "lng": 20.9541306
+    }
+  },
+  {
+    "id": 443,
+    "name": "Przedszkole niepubliczne Ele Mele Dutki",
+    "address": "Wola, Strąkowa 48 ",
+    "district": "Wola",
+    "location": {
+      "lat": 52.2321223,
+      "lng": 20.916751
+    }
+  },
+  {
+    "id": 444,
+    "name": "Academy International Centrum",
+    "address": "Wola, Krochmalna 3 ",
+    "district": "Wola",
+    "location": {
+      "lat": 52.2365541,
+      "lng": 20.9939795
+    }
+  },
+  {
+    "id": 445,
+    "name": "Dwujęzyczne Przedszkole Niepubliczne \"Kids & Co\"",
+    "address": "Wola, Chłodna 51 ",
+    "district": "Wola",
+    "location": {
+      "lat": 52.2356032,
+      "lng": 20.9826264
+    }
+  },
+  {
+    "id": 446,
+    "name": "Dwujęzyczne Przedszkole niepubliczne Big Little Things",
+    "address": "Wola, Jana Kazimierza 11b LU7",
+    "district": "Wola",
+    "location": {
+      "lat": 52.2241931,
+      "lng": 20.9487947
+    }
+  },
+  {
+    "id": 447,
+    "name": "Integracyjne Przedszkole Niepubliczne Językowo-Muzyczne \"Czarodziejski Dworek\"",
+    "address": "Wola, Górczewska 89 ",
+    "district": "Wola",
+    "location": {
+      "lat": 52.2378999,
+      "lng": 20.9494155
+    }
+  },
+  {
+    "id": 448,
+    "name": "Przedszkole Dwujęzyczne Baby Steps",
+    "address": "Wola, Jana Kazimierza 23 u2",
+    "district": "Wola",
+    "location": {
+      "lat": 52.2243555,
+      "lng": 20.9450075
+    }
+  },
+  {
+    "id": 449,
+    "name": "Niepubliczne Dwujęzyczne Przedszkole Kids&Co",
+    "address": "Wola, Prosta 36 ",
+    "district": "Wola",
+    "location": {
+      "lat": 52.2314023,
+      "lng": 20.9858406
+    }
+  },
+  {
+    "id": 450,
+    "name": "Niepubliczne Dwujęzyczne Przedszkole Kids&Co",
+    "address": "Wola, Wronia 31 ",
+    "district": "Wola",
+    "location": {
+      "lat": 52.2322455,
+      "lng": 20.985721
+    }
+  },
+  {
+    "id": 451,
+    "name": "międzynarodowe Przedszkole TE VIZJA \"My first Academy\"",
+    "address": "Wola, Okopowa 59 ",
+    "district": "Wola",
+    "location": {
+      "lat": 52.2505253,
+      "lng": 20.9786173
+    }
+  },
+  {
+    "id": 452,
+    "name": "Niepubliczne Przedszkole \"Bajeczka\"",
+    "address": "Wola, M. Kasprzaka 31b u6",
+    "district": "Wola",
+    "location": {
+      "lat": 52.2251618,
+      "lng": 20.9544025
+    }
+  },
+  {
+    "id": 453,
+    "name": "Niepubliczne Przedszkole \"MINIHARVARD \" Wola",
+    "address": "Wola, Sztuk Pięknych 1 ",
+    "district": "Wola",
+    "location": {
+      "lat": 52.2212444,
+      "lng": 20.9362461
+    }
+  },
+  {
+    "id": 454,
+    "name": "Niepubliczne Przedszkole \"Poziomka\"",
+    "address": "Wola, Obozowa 86 1",
+    "district": "Wola",
+    "location": {
+      "lat": 52.247226,
+      "lng": 20.9465823
+    }
+  },
+  {
+    "id": 455,
+    "name": "Niepubliczne przedszkole \"Zaczarowane motylki\"(II miejsce Jana Kazimierza 13/2)",
+    "address": "Wola, Jana Kazimierza 15 1",
+    "district": "Wola",
+    "location": {
+      "lat": 52.225299,
+      "lng": 20.946951
+    }
+  },
+  {
+    "id": 456,
+    "name": "Niepubliczne Przedszkole Waldorfskie",
+    "address": "Wola, Żytnia 79 ",
+    "district": "Wola",
+    "location": {
+      "lat": 52.23891949999999,
+      "lng": 20.961506
+    }
+  },
+  {
+    "id": 457,
+    "name": "Prywatne Przedszkole Lauder-Morasha",
+    "address": "Wola, H. Wawelberga 10 ",
+    "district": "Wola",
+    "location": {
+      "lat": 52.2360394,
+      "lng": 20.9697463
+    }
+  },
+  {
+    "id": 458,
+    "name": "Akademia Młodych talentów niepubliczne Przedszkole",
+    "address": "Wola, Cybernetyki 21 ",
+    "district": "Wola",
+    "location": {
+      "lat": 52.17693420000001,
+      "lng": 20.9884682
+    }
+  },
+  {
+    "id": 459,
+    "name": "Przedszkole \"U Cioci Gosi\"",
+    "address": "Wola, Obozowa 85 ",
+    "district": "Wola",
+    "location": {
+      "lat": 52.2466513,
+      "lng": 20.947985
+    }
+  },
+  {
+    "id": 460,
+    "name": "Niepubliczne Przedszkole House of Reggio",
+    "address": "Wola, Giełdowa 4B U12",
+    "district": "Wola",
+    "location": {
+      "lat": 52.231164,
+      "lng": 20.97431
+    }
+  },
+  {
+    "id": 461,
+    "name": "Przedszkole Niepubliczne \"Miasteczko Dzieci\"",
+    "address": "Wola, Ogrodowa 58 ",
+    "district": "Wola",
+    "location": {
+      "lat": 52.2373166,
+      "lng": 20.9822774
+    }
+  },
+  {
+    "id": 462,
+    "name": "Przedszkole Niepubliczne \"Przedszkolaki z Naszej Paki\"",
+    "address": "Wola, O. Boznańskiej 4 ",
+    "district": "Wola",
+    "location": {
+      "lat": 52.2306342,
+      "lng": 20.9261981
+    }
+  },
+  {
+    "id": 463,
+    "name": "Przedszkole Niepubliczne Zielona Żyrafa",
+    "address": "Wola, Jana Kazimierza 45 2",
+    "district": "Wola",
+    "location": {
+      "lat": 52.2217812,
+      "lng": 20.9363435
+    }
+  },
+  {
+    "id": 464,
+    "name": "Przedszkole Niepubliczne-Ochronka imienia Edmunda Bojanowskiego Sióstr Służebniczek N.M.P.",
+    "address": "Wola, Dobrogniewa 6 ",
+    "district": "Wola",
+    "location": {
+      "lat": 52.2488253,
+      "lng": 20.9423438
+    }
+  },
+  {
+    "id": 465,
+    "name": "Przedszkole Niepubliczne\"Maleństwo i Przyjaciele\"",
+    "address": "Żoliborz, ul. Broniewskiego 28 28 ",
+    "district": "Żoliborz",
+    "location": {
+      "lat": 52.2671734,
+      "lng": 20.9636427
+    }
+  },
+  {
+    "id": 466,
+    "name": "Academy International Żoliborz",
+    "address": "Żoliborz, ks. J. Popiełuszki 16 ",
+    "district": "Żoliborz",
+    "location": {
+      "lat": 52.2700337,
+      "lng": 20.9757927
+    }
+  },
+  {
+    "id": 467,
+    "name": "Niepubliczne \"Wesołe Przedszkole TPD\" im. Marii Konopnickiej",
+    "address": "Żoliborz, Elbląska 43 ",
+    "district": "Żoliborz",
+    "location": {
+      "lat": 52.2620277,
+      "lng": 20.9613608
+    }
+  },
+  {
+    "id": 468,
+    "name": "Prywatne Przedszkole \"Balibu\"",
+    "address": "Żoliborz, Szamocka 10B 138",
+    "district": "Żoliborz",
+    "location": {
+      "lat": 52.2565563,
+      "lng": 20.9573199
+    }
+  },
+  {
+    "id": 469,
+    "name": "Przedszkola LaliBam",
+    "address": "Żoliborz, J. Kossaka 12 ",
+    "district": "Żoliborz",
+    "location": {
+      "lat": 52.2669668,
+      "lng": 20.9817274
+    }
+  },
+  {
+    "id": 470,
+    "name": "Przedszkole Genialne Dzieciaki",
+    "address": "Żoliborz, Kaliny Jędrusik 5/U5 ",
+    "district": "Żoliborz",
+    "location": {
+      "lat": 52.257127,
+      "lng": 20.9657393
+    }
+  },
+  {
+    "id": 471,
+    "name": "Niepubliczne Przedszkole Zielona Wieża Żoliborz",
+    "address": "Żoliborz, ks. J. Popiełuszki 14 117",
+    "district": "Żoliborz",
+    "location": {
+      "lat": 52.2696254,
+      "lng": 20.9754759
+    }
+  },
+  {
+    "id": 472,
+    "name": "Niepubliczne Przedszkole Integracyjne Radosna Planeta ( II lokalizacja: Bora Komorowskiego 18A)",
+    "address": "Żoliborz, Al.. Wojska Polskiego 20 ",
+    "district": "Żoliborz",
+    "location": {
+      "lat": 52.2642027,
+      "lng": 20.9886167
+    }
+  },
+  {
+    "id": 473,
+    "name": "Niepubliczne Przedszkole Językowe Happy hippo",
+    "address": "Żoliborz, Z. Hubnera 1 u1",
+    "district": "Żoliborz",
+    "location": {
+      "lat": 52.2577125,
+      "lng": 20.9684724
+    }
+  },
+  {
+    "id": 474,
+    "name": "Przedszkole Niepubliczne Wioska Tiny Wings",
+    "address": "Żoliborz, Rydygiera 13B u4",
+    "district": "Żoliborz",
+    "location": {
+      "lat": 52.2586417,
+      "lng": 20.9755463
+    }
+  },
+  {
+    "id": 475,
+    "name": "Przedszkole Niepubliczne \"ZdrowoJeż\"",
+    "address": "Żoliborz, ks. J. Popiełuszki 16 ",
+    "district": "Żoliborz",
+    "location": {
+      "lat": 52.2700337,
+      "lng": 20.9757927
+    }
+  },
+  {
+    "id": 476,
+    "name": "Przedszkole Niepubliczne Baby Room Preschool \nII,III,IV, m. prow. ul. L. Rydygiera U2, U4, U5",
+    "address": "Żoliborz, L. Rydygiera 15A U3",
+    "district": "Żoliborz",
+    "location": {
+      "lat": 52.2581833,
+      "lng": 20.9753767
+    }
+  },
+  {
+    "id": 477,
+    "name": "Przedszkole niepubliczne Edu Flaming",
+    "address": "Żoliborz, Krasińskiego 59A 31",
+    "district": "Żoliborz",
+    "location": {
+      "lat": 52.2594631,
+      "lng": 20.9656559
+    }
+  }
+]

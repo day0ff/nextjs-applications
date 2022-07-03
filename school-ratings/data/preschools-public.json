@@ -1,0 +1,3380 @@
+[
+  {
+    "id": 1,
+    "name": "Przedszkole nr 1",
+    "address": " Grzybowska 12/14a",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2372502,
+      "lng": 20.9998899
+    }
+  },
+  {
+    "id": 2,
+    "name": "Przedszkole nr 2",
+    "address": " Orla 11",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2423144,
+      "lng": 20.9982474
+    }
+  },
+  {
+    "id": 3,
+    "name": "Przedszkole nr 3",
+    "address": " Grzybowska 7",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.23634389999999,
+      "lng": 21.0000821
+    }
+  },
+  {
+    "id": 4,
+    "name": "Przedszkole nr 4",
+    "address": " Elektoralna 15/17",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2401402,
+      "lng": 20.9986293
+    }
+  },
+  {
+    "id": 5,
+    "name": "Przedszkole nr 5",
+    "address": " Okrąg 6b",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2309126,
+      "lng": 21.0373824
+    }
+  },
+  {
+    "id": 6,
+    "name": "Przedszkole Integracyjne nr 6",
+    "address": " Śniegockiej 4/6",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.22733239999999,
+      "lng": 21.0362105
+    }
+  },
+  {
+    "id": 7,
+    "name": "Przedszkole z Oddziałami Integracyjnymi nr 7",
+    "address": " Sowia 4",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2456845,
+      "lng": 21.018205
+    }
+  },
+  {
+    "id": 8,
+    "name": "Przedszkole Integracyjne nr 8",
+    "address": " Karmelicka 3b",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.244493,
+      "lng": 20.9938964
+    }
+  },
+  {
+    "id": 9,
+    "name": "Przedszkole nr 9",
+    "address": " Dzielna 5a",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2466139,
+      "lng": 20.9945208
+    }
+  },
+  {
+    "id": 10,
+    "name": "Przedszkole nr 10",
+    "address": " Nowolipki 10a",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2458191,
+      "lng": 20.9922542
+    }
+  },
+  {
+    "id": 11,
+    "name": "Przedszkole nr 11",
+    "address": " Dubois 3",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2507136,
+      "lng": 20.995588
+    }
+  },
+  {
+    "id": 12,
+    "name": "Przedszkole nr 12",
+    "address": " Niska 9",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2510507,
+      "lng": 20.9880451
+    }
+  },
+  {
+    "id": 13,
+    "name": "Przedszkole nr 13",
+    "address": " Schillera 6a",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2469142,
+      "lng": 21.0056379
+    }
+  },
+  {
+    "id": 14,
+    "name": "Przedszkole nr 14",
+    "address": " Senatorska 24",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.243485,
+      "lng": 21.005831
+    }
+  },
+  {
+    "id": 15,
+    "name": "Przedszkole nr 16 „Zaczarowany Zakątek”",
+    "address": " Górskiego 5a",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2333272,
+      "lng": 21.0162432
+    }
+  },
+  {
+    "id": 16,
+    "name": "Przedszkole nr 17",
+    "address": " pl. Dąbrowskiego 10",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2380611,
+      "lng": 21.0088933
+    }
+  },
+  {
+    "id": 17,
+    "name": "Przedszkole nr 18",
+    "address": " Bolívara 6",
+    "district": " Targówek",
+    "location": {
+      "lat": 52.289447,
+      "lng": 21.0445489
+    }
+  },
+  {
+    "id": 18,
+    "name": "Przedszkole nr 19",
+    "address": " Śniadeckich 12",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2211961,
+      "lng": 21.0142699
+    }
+  },
+  {
+    "id": 19,
+    "name": "Przedszkole z Oddziałami Integracyjnymi nr 20",
+    "address": " Sempołowskiej 2a",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.21903529999999,
+      "lng": 21.0212983
+    }
+  },
+  {
+    "id": 20,
+    "name": "Przedszkole nr 21",
+    "address": " Marszałkowska 27/35a",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2188819,
+      "lng": 21.0179624
+    }
+  },
+  {
+    "id": 21,
+    "name": "Przedszkole nr 22",
+    "address": " Żwirki i Wigury 15b",
+    "district": " Włochy",
+    "location": {
+      "lat": 52.1892106,
+      "lng": 20.9791961
+    }
+  },
+  {
+    "id": 22,
+    "name": "Przedszkole nr 23",
+    "address": " Czerniakowska 128",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.21797189999999,
+      "lng": 21.046372
+    }
+  },
+  {
+    "id": 23,
+    "name": "Przedszkole nr 24",
+    "address": " Drewniana 10/16",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2396209,
+      "lng": 21.024941
+    }
+  },
+  {
+    "id": 24,
+    "name": "Przedszkole nr 25",
+    "address": " Boya-Żeleńskiego 4a",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.214167,
+      "lng": 21.0182782
+    }
+  },
+  {
+    "id": 25,
+    "name": "Przedszkole nr 26",
+    "address": " Nowowiejska 1/3",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.21975579999999,
+      "lng": 21.0169133
+    }
+  },
+  {
+    "id": 26,
+    "name": "Przedszkole nr 28",
+    "address": " Naruszewicza 15",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.1909848,
+      "lng": 21.0203417
+    }
+  },
+  {
+    "id": 27,
+    "name": "Przedszkole nr 29",
+    "address": " Sycowska 1",
+    "district": " Włochy",
+    "location": {
+      "lat": 52.17905039999999,
+      "lng": 20.9448264
+    }
+  },
+  {
+    "id": 28,
+    "name": "Przedszkole nr 30",
+    "address": " Rozbrat 10/14",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2232122,
+      "lng": 21.0355817
+    }
+  },
+  {
+    "id": 29,
+    "name": "Przedszkole nr 31 im. Zdzisława Witwickiego",
+    "address": " Krucza 19",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2261356,
+      "lng": 21.0183579
+    }
+  },
+  {
+    "id": 30,
+    "name": "Przedszkole nr 32",
+    "address": " Nowogrodzka 17",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.22944709999999,
+      "lng": 21.0160968
+    }
+  },
+  {
+    "id": 31,
+    "name": "Przedszkole nr 33",
+    "address": " Wilcza 63",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.22345379999999,
+      "lng": 21.0102257
+    }
+  },
+  {
+    "id": 32,
+    "name": "Przedszkole nr 34",
+    "address": " Emilii Plater 25",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2253969,
+      "lng": 21.0068746
+    }
+  },
+  {
+    "id": 33,
+    "name": "Przedszkole nr 35",
+    "address": " Górskiego 1",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2337077,
+      "lng": 21.0175511
+    }
+  },
+  {
+    "id": 34,
+    "name": "Przedszkole nr 36",
+    "address": " Nowy Świat 41a",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2346185,
+      "lng": 21.017198
+    }
+  },
+  {
+    "id": 35,
+    "name": "Przedszkole z Oddziałami Integracyjnymi nr 37 „Bajkowy Świat”",
+    "address": " Szlenkierów 8",
+    "district": " Wola",
+    "location": {
+      "lat": 52.2378773,
+      "lng": 20.9704857
+    }
+  },
+  {
+    "id": 36,
+    "name": "Przedszkole Integracyjne nr 38",
+    "address": " pl. Bankowy 3/5",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.242633,
+      "lng": 21.0016716
+    }
+  },
+  {
+    "id": 37,
+    "name": "Przedszkole nr 39 „Pod Topolami”",
+    "address": " Dorycka 1",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.2956075,
+      "lng": 20.9387605
+    }
+  },
+  {
+    "id": 38,
+    "name": "Przedszkole nr 41 „Wiślana Kropelka”",
+    "address": " Kruczkowskiego 12b",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2361624,
+      "lng": 21.0281811
+    }
+  },
+  {
+    "id": 39,
+    "name": "Przedszkole nr 42",
+    "address": " Agrykola 9",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2139499,
+      "lng": 21.0391011
+    }
+  },
+  {
+    "id": 40,
+    "name": "Przedszkole nr 44",
+    "address": " Ludna 8",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2314664,
+      "lng": 21.0349912
+    }
+  },
+  {
+    "id": 41,
+    "name": "Przedszkole Integracyjne nr 45",
+    "address": " Lenartowicza 4",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.1935237,
+      "lng": 21.0215044
+    }
+  },
+  {
+    "id": 42,
+    "name": "Przedszkole nr 46 „W Krainie Baśni”",
+    "address": " Jordanowska 3",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.23700210000001,
+      "lng": 21.1267989
+    }
+  },
+  {
+    "id": 43,
+    "name": "Przedszkole nr 47 „Mali Artyści”",
+    "address": " Krochmalna 1",
+    "district": " Wola",
+    "location": {
+      "lat": 52.2369018,
+      "lng": 20.9945619
+    }
+  },
+  {
+    "id": 44,
+    "name": "Przedszkole nr 48 „Zielony Groszek”",
+    "address": " Szaserów 119",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2488835,
+      "lng": 21.0939087
+    }
+  },
+  {
+    "id": 45,
+    "name": "Przedszkole nr 49 „Pluszowy Miś”",
+    "address": " Skalbmierska 12",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.2815071,
+      "lng": 20.9430126
+    }
+  },
+  {
+    "id": 46,
+    "name": "Przedszkole nr 50",
+    "address": " Hirszfelda 11",
+    "district": " Ursynów",
+    "location": {
+      "lat": 52.1445046,
+      "lng": 21.040749
+    }
+  },
+  {
+    "id": 47,
+    "name": "Przedszkole nr 51 „Misia Czarodzieja”",
+    "address": " Chrzanowskiego 7",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.252463,
+      "lng": 21.0836277
+    }
+  },
+  {
+    "id": 48,
+    "name": "Przedszkole nr 52",
+    "address": " Koncertowa 8",
+    "district": " Ursynów",
+    "location": {
+      "lat": 52.1650281,
+      "lng": 21.0300876
+    }
+  },
+  {
+    "id": 49,
+    "name": "Przedszkole nr 54",
+    "address": " Bracławska 8a",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2329727,
+      "lng": 21.0787424
+    }
+  },
+  {
+    "id": 50,
+    "name": "Przedszkole nr 55 im. „Polskich Podróżników”",
+    "address": " Cybisa 1",
+    "district": " Ursynów",
+    "location": {
+      "lat": 52.1546512,
+      "lng": 21.0252576
+    }
+  },
+  {
+    "id": 51,
+    "name": "Przedszkole nr 56 „Wesołe Kubusie”",
+    "address": " Gubinowska 28/30",
+    "district": " Wilanów",
+    "location": {
+      "lat": 52.1743514,
+      "lng": 21.0689671
+    }
+  },
+  {
+    "id": 52,
+    "name": "Przedszkole nr 57",
+    "address": " Pustelnicka 35",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2413439,
+      "lng": 21.1004365
+    }
+  },
+  {
+    "id": 53,
+    "name": "Przedszkole nr 58 im. Czesława Janczarskiego",
+    "address": " Batalionu AK Pięść 4",
+    "district": " Wola",
+    "location": {
+      "lat": 52.24115519999999,
+      "lng": 20.9476593
+    }
+  },
+  {
+    "id": 54,
+    "name": "Przedszkole nr 59",
+    "address": " Pruszkowska 10",
+    "district": " Ochota",
+    "location": {
+      "lat": 52.20247639999999,
+      "lng": 20.97615
+    }
+  },
+  {
+    "id": 55,
+    "name": "Przedszkole nr 60",
+    "address": " Rybnicka 42/44",
+    "district": " Włochy",
+    "location": {
+      "lat": 52.2088589,
+      "lng": 20.9073782
+    }
+  },
+  {
+    "id": 56,
+    "name": "Przedszkole nr 61",
+    "address": " Lelechowska 7",
+    "district": " Ochota",
+    "location": {
+      "lat": 52.21652539999999,
+      "lng": 20.9743315
+    }
+  },
+  {
+    "id": 57,
+    "name": "Przedszkole nr 62",
+    "address": " Szarych Szeregów 6",
+    "district": " Wola",
+    "location": {
+      "lat": 52.2274723,
+      "lng": 20.9742767
+    }
+  },
+  {
+    "id": 58,
+    "name": "Przedszkole nr 63",
+    "address": " Bolkowska 4",
+    "district": " Bemowo",
+    "location": {
+      "lat": 52.2409318,
+      "lng": 20.9151188
+    }
+  },
+  {
+    "id": 59,
+    "name": "Przedszkole nr 64 im. Przyjaciół Kubusia Puchatka",
+    "address": " Porajów 3",
+    "district": " Białołęka",
+    "location": {
+      "lat": 52.3148096,
+      "lng": 20.9596129
+    }
+  },
+  {
+    "id": 60,
+    "name": "Przedszkole z Oddziałami Integracyjnymi nr 65 „Tarchominek”",
+    "address": " Pancera 3",
+    "district": " Białołęka",
+    "location": {
+      "lat": 52.3189949,
+      "lng": 20.9472608
+    }
+  },
+  {
+    "id": 61,
+    "name": "Przedszkole nr 66",
+    "address": " Grójecka 93",
+    "district": " Ochota",
+    "location": {
+      "lat": 52.2102784,
+      "lng": 20.9784108
+    }
+  },
+  {
+    "id": 62,
+    "name": "Przedszkole nr 67 „Służewiaczek”",
+    "address": " Sonaty 6a",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.17077399999999,
+      "lng": 21.0294556
+    }
+  },
+  {
+    "id": 63,
+    "name": "Przedszkole Specjalne nr 68 w Centrum Rehabilitacji im. prof. M. Weissa",
+    "address": " Ożarowska 75a",
+    "district": " Wola",
+    "location": {
+      "lat": 52.2459903,
+      "lng": 20.9455974
+    }
+  },
+  {
+    "id": 64,
+    "name": "Przedszkole nr 69",
+    "address": " Narbutta 65/71",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.20407530000001,
+      "lng": 21.0077571
+    }
+  },
+  {
+    "id": 65,
+    "name": "Przedszkole z Oddziałami Integracyjnymi nr 70",
+    "address": " Rokosowska 2",
+    "district": " Ochota",
+    "location": {
+      "lat": 52.21394369999999,
+      "lng": 20.9757256
+    }
+  },
+  {
+    "id": 66,
+    "name": "Przedszkole nr 71",
+    "address": " Śląska 50/52",
+    "district": " Włochy",
+    "location": {
+      "lat": 52.2041788,
+      "lng": 20.9261357
+    }
+  },
+  {
+    "id": 67,
+    "name": "Przedszkole nr 72",
+    "address": " al. Solidarności 72a",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.24453459999999,
+      "lng": 20.9984649
+    }
+  },
+  {
+    "id": 68,
+    "name": "Przedszkole nr 73 „Bajeczka”",
+    "address": " Sygietyńskiego 4a",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2390495,
+      "lng": 21.0785274
+    }
+  },
+  {
+    "id": 69,
+    "name": "Przedszkole nr 74 „Przy Zielonym Wzgórzu”",
+    "address": " Wolska 79",
+    "district": " Wola",
+    "location": {
+      "lat": 52.2313018,
+      "lng": 20.961942
+    }
+  },
+  {
+    "id": 70,
+    "name": "Przedszkole nr 75",
+    "address": " Rozłogi 4a",
+    "district": " Bemowo",
+    "location": {
+      "lat": 52.222244,
+      "lng": 20.901775
+    }
+  },
+  {
+    "id": 71,
+    "name": "Przedszkole nr 76 im. „Warsa i Sawy”",
+    "address": " Odkryta 18",
+    "district": " Białołęka",
+    "location": {
+      "lat": 52.3285434,
+      "lng": 20.937469
+    }
+  },
+  {
+    "id": 72,
+    "name": "Przedszkole nr 77 „Akademia Pana Kleksa”",
+    "address": " Potrzebna 16",
+    "district": " Włochy",
+    "location": {
+      "lat": 52.20905690000001,
+      "lng": 20.9192356
+    }
+  },
+  {
+    "id": 73,
+    "name": "Przedszkole nr 78",
+    "address": " Radarowa 4a",
+    "district": " Włochy",
+    "location": {
+      "lat": 52.1928841,
+      "lng": 20.9672066
+    }
+  },
+  {
+    "id": 74,
+    "name": "Przedszkole nr 79",
+    "address": " Kajakowa 10",
+    "district": " Ursynów",
+    "location": {
+      "lat": 52.1304084,
+      "lng": 21.0208614
+    }
+  },
+  {
+    "id": 75,
+    "name": "Przedszkole nr 80",
+    "address": " Łukowa 4",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.1732893,
+      "lng": 21.0420914
+    }
+  },
+  {
+    "id": 76,
+    "name": "Przedszkole nr 81",
+    "address": " Barkocińska 19/21",
+    "district": " Targówek",
+    "location": {
+      "lat": 52.2689075,
+      "lng": 21.0546811
+    }
+  },
+  {
+    "id": 77,
+    "name": "Przedszkole nr 82",
+    "address": " Natolińska 2",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.22056300000001,
+      "lng": 21.0203324
+    }
+  },
+  {
+    "id": 78,
+    "name": "Przedszkole Publiczne nr 83",
+    "address": " Stefana Batorego 35",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.2106584,
+      "lng": 21.0088274
+    }
+  },
+  {
+    "id": 79,
+    "name": "Przedszkole nr 84 „Promyk”",
+    "address": " Dworcowa 1",
+    "district": " Wawer",
+    "location": {
+      "lat": 52.20406209999999,
+      "lng": 21.1714129
+    }
+  },
+  {
+    "id": 80,
+    "name": "Przedszkole nr 85 „Leśny Zakątek”",
+    "address": " Żegańska 27",
+    "district": " Wawer",
+    "location": {
+      "lat": 52.2078679,
+      "lng": 21.180642
+    }
+  },
+  {
+    "id": 81,
+    "name": "Przedszkole z Oddziałami Integracyjnymi nr 86",
+    "address": " Krupnicza 3",
+    "district": " Wawer",
+    "location": {
+      "lat": 52.2025634,
+      "lng": 21.1767397
+    }
+  },
+  {
+    "id": 82,
+    "name": "Przedszkole nr 87",
+    "address": " Broniewskiego 9d",
+    "district": " Żoliborz",
+    "location": {
+      "lat": 52.2642701,
+      "lng": 20.9678239
+    }
+  },
+  {
+    "id": 83,
+    "name": "Przedszkole nr 88 „Pod Zielonym Listkiem”",
+    "address": " Poborzańska 1",
+    "district": " Targówek",
+    "location": {
+      "lat": 52.2898613,
+      "lng": 21.0247886
+    }
+  },
+  {
+    "id": 84,
+    "name": "Przedszkole nr 89 „Niezapominajka”",
+    "address": " Kobielska 55a",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2469366,
+      "lng": 21.0829298
+    }
+  },
+  {
+    "id": 85,
+    "name": "Przedszkole nr 90",
+    "address": " Turmoncka 7",
+    "district": " Targówek",
+    "location": {
+      "lat": 52.2974602,
+      "lng": 21.0303529
+    }
+  },
+  {
+    "id": 86,
+    "name": "Przedszkole nr 91 „Zaczarowany Ogród”",
+    "address": " Suwalska 34",
+    "district": " Targówek",
+    "location": {
+      "lat": 52.2944273,
+      "lng": 21.0388597
+    }
+  },
+  {
+    "id": 87,
+    "name": "Przedszkole nr 93 „Baśniowy Dworek na Kole”",
+    "address": " Brożka 5",
+    "district": " Wola",
+    "location": {
+      "lat": 52.2428768,
+      "lng": 20.9428198
+    }
+  },
+  {
+    "id": 88,
+    "name": "Przedszkole nr 94 „Kraina Słonecznych Marzeń”",
+    "address": " Smoleńska 64",
+    "district": " Targówek",
+    "location": {
+      "lat": 52.2682424,
+      "lng": 21.0475921
+    }
+  },
+  {
+    "id": 89,
+    "name": "Przedszkole nr 95 z Oddziałami Integracyjnymi im. Króla Maciusia I",
+    "address": " Korzona 2",
+    "district": " Targówek",
+    "location": {
+      "lat": 52.2751664,
+      "lng": 21.0511042
+    }
+  },
+  {
+    "id": 90,
+    "name": "Przedszkole nr 96",
+    "address": " Wyspiańskiego 5",
+    "district": " Żoliborz",
+    "location": {
+      "lat": 52.2646841,
+      "lng": 20.979987
+    }
+  },
+  {
+    "id": 91,
+    "name": "Przedszkole nr 97 „Leśna Polanka”",
+    "address": " Twardowska 23",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.2838237,
+      "lng": 20.9503177
+    }
+  },
+  {
+    "id": 92,
+    "name": "Przedszkole nr 98",
+    "address": " Legendy 12",
+    "district": " Bemowo",
+    "location": {
+      "lat": 52.2317202,
+      "lng": 20.9091318
+    }
+  },
+  {
+    "id": 93,
+    "name": "Przedszkole nr 99",
+    "address": " Siewierska 3",
+    "district": " Ochota",
+    "location": {
+      "lat": 52.2124562,
+      "lng": 20.9761501
+    }
+  },
+  {
+    "id": 94,
+    "name": "Przedszkole nr 100",
+    "address": " Częstochowska 16/18",
+    "district": " Ochota",
+    "location": {
+      "lat": 52.2156777,
+      "lng": 20.9765148
+    }
+  },
+  {
+    "id": 95,
+    "name": "Przedszkole nr 101",
+    "address": " Chotomowska 3",
+    "district": " Ochota",
+    "location": {
+      "lat": 52.2157168,
+      "lng": 20.9792826
+    }
+  },
+  {
+    "id": 96,
+    "name": "Przedszkole z Oddziałami Integracyjnymi nr 102",
+    "address": " Siewierska 5/7",
+    "district": " Ochota",
+    "location": {
+      "lat": 52.2129353,
+      "lng": 20.9754394
+    }
+  },
+  {
+    "id": 97,
+    "name": "Przedszkole nr 103",
+    "address": " Mokra 25",
+    "district": " Targówek",
+    "location": {
+      "lat": 52.2731037,
+      "lng": 21.0589757
+    }
+  },
+  {
+    "id": 98,
+    "name": "Przedszkole Specjalne nr 104 w Instytucie „Pomnik – Centrum Zdrowia Dziecka” al. Dzieci Polskich 20",
+    "address": " Wawer",
+    "location": {
+      "lat": 52.205998,
+      "lng": 21.1713281
+    }
+  },
+  {
+    "id": 99,
+    "name": "Przedszkole nr 105 „Wesoła Stopiątka”",
+    "address": " Kochanowskiego 10",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.2672782,
+      "lng": 20.9525461
+    }
+  },
+  {
+    "id": 100,
+    "name": "Przedszkole nr 106",
+    "address": " Trocka 4",
+    "district": " Targówek",
+    "location": {
+      "lat": 52.2749399,
+      "lng": 21.0601974
+    }
+  },
+  {
+    "id": 101,
+    "name": "Przedszkole nr 107 „Bajkowe Przedszkole”",
+    "address": " Wilgi 29",
+    "district": " Wawer",
+    "location": {
+      "lat": 52.1861245,
+      "lng": 21.1969963
+    }
+  },
+  {
+    "id": 102,
+    "name": "Przedszkole nr 108 „Tęczowy Promyk”",
+    "address": " Olszewska 7/9",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.2089706,
+      "lng": 21.0224494
+    }
+  },
+  {
+    "id": 103,
+    "name": "Przedszkole nr 109 „Ludeczkowo”",
+    "address": " pl. Henkla 2",
+    "district": " Żoliborz",
+    "location": {
+      "lat": 52.2656314,
+      "lng": 20.97968
+    }
+  },
+  {
+    "id": 104,
+    "name": "Przedszkole nr 110",
+    "address": " Bystrzycka 38",
+    "district": " Wawer",
+    "location": {
+      "lat": 52.1600276,
+      "lng": 21.216772
+    }
+  },
+  {
+    "id": 105,
+    "name": "Przedszkole nr 111",
+    "address": " Błogosławionego Ładysława z Gielniowa 9/11",
+    "district": " Ochota",
+    "location": {
+      "lat": 52.2178716,
+      "lng": 20.9959408
+    }
+  },
+  {
+    "id": 106,
+    "name": "Przedszkole nr 112 „Leśne Skrzaty”",
+    "address": " Wapowskiego 3",
+    "district": " Ursus",
+    "location": {
+      "lat": 52.1915696,
+      "lng": 20.8907854
+    }
+  },
+  {
+    "id": 107,
+    "name": "Przedszkole nr 113 „Przedszkole w Tęczowym Kręgu”",
+    "address": " Krasiczyńska 4",
+    "district": " Targówek",
+    "location": {
+      "lat": 52.2948338,
+      "lng": 21.0448041
+    }
+  },
+  {
+    "id": 108,
+    "name": "Przedszkole nr 114",
+    "address": " Langiewicza 1/3",
+    "district": " Ochota",
+    "location": {
+      "lat": 52.2179905,
+      "lng": 21.0039412
+    }
+  },
+  {
+    "id": 109,
+    "name": "Przedszkole nr 115 „Przedszkole Pod Klonem”",
+    "address": " Suwalska 26",
+    "district": " Targówek",
+    "location": {
+      "lat": 52.29471359999999,
+      "lng": 21.0349866
+    }
+  },
+  {
+    "id": 110,
+    "name": "Przedszkole nr 116",
+    "address": " Okopowa 31",
+    "district": " Wola",
+    "location": {
+      "lat": 52.2415153,
+      "lng": 20.9762632
+    }
+  },
+  {
+    "id": 111,
+    "name": "Przedszkole Integracyjne nr 117 „Przyjazna Kraina”",
+    "address": " Sielecka 26",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.20579499999999,
+      "lng": 21.0399707
+    }
+  },
+  {
+    "id": 112,
+    "name": "Przedszkole nr 118 z Oddziałami Integracyjnymi",
+    "address": " Nowolipie 31a",
+    "district": " Wola",
+    "location": {
+      "lat": 52.2412384,
+      "lng": 20.9880438
+    }
+  },
+  {
+    "id": 113,
+    "name": "Przedszkole nr 119 „W Zielonym Ogrodzie”",
+    "address": " Turmoncka 18",
+    "district": " Targówek",
+    "location": {
+      "lat": 52.2982114,
+      "lng": 21.0395439
+    }
+  },
+  {
+    "id": 114,
+    "name": "Przedszkole Integracyjne nr 120",
+    "address": " Tokarza 2",
+    "district": " Targówek",
+    "location": {
+      "lat": 52.2971453,
+      "lng": 21.0468214
+    }
+  },
+  {
+    "id": 115,
+    "name": "Przedszkole nr 122",
+    "address": " Solec 37",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2277321,
+      "lng": 21.0414054
+    }
+  },
+  {
+    "id": 116,
+    "name": "Przedszkole nr 123 „Ocean Marzeń”",
+    "address": " Syrokomli 26",
+    "district": " Targówek",
+    "location": {
+      "lat": 52.2848936,
+      "lng": 21.0282089
+    }
+  },
+  {
+    "id": 117,
+    "name": "Przedszkole nr 124",
+    "address": " Dzielna 15b",
+    "district": " Wola",
+    "location": {
+      "lat": 52.242973,
+      "lng": 20.9834878
+    }
+  },
+  {
+    "id": 118,
+    "name": "Przedszkole nr 125 „Pod Złotym Promykiem”",
+    "address": " Suwalska 15",
+    "district": " Targówek",
+    "location": {
+      "lat": 52.2955647,
+      "lng": 21.030879
+    }
+  },
+  {
+    "id": 119,
+    "name": "Przedszkole nr 126",
+    "address": " Wokalna 1",
+    "district": " Ursynów",
+    "location": {
+      "lat": 52.16115,
+      "lng": 21.0330331
+    }
+  },
+  {
+    "id": 120,
+    "name": "Przedszkole z Oddziałami Integracyjnymi nr 127 im. Wandy Chotomskiej",
+    "address": " Nowolipki 21a",
+    "district": " Wola",
+    "location": {
+      "lat": 52.2436845,
+      "lng": 20.9896618
+    }
+  },
+  {
+    "id": 121,
+    "name": "Przedszkole nr 128",
+    "address": " Sternhela 40",
+    "district": " Targówek",
+    "location": {
+      "lat": 52.28587330000001,
+      "lng": 21.0557389
+    }
+  },
+  {
+    "id": 122,
+    "name": "Przedszkole nr 129 „Raj na Skarpie”",
+    "address": " Jazdów 10b",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.222274,
+      "lng": 21.030202
+    }
+  },
+  {
+    "id": 123,
+    "name": "Przedszkole nr 130 im. Marii Kownackiej",
+    "address": " Suzina 4",
+    "district": " Żoliborz",
+    "location": {
+      "lat": 52.2690634,
+      "lng": 20.9807276
+    }
+  },
+  {
+    "id": 124,
+    "name": "Przedszkole nr 131",
+    "address": " Sierpecka 9a",
+    "district": " Żoliborz",
+    "location": {
+      "lat": 52.2698906,
+      "lng": 20.9773232
+    }
+  },
+  {
+    "id": 125,
+    "name": "Przedszkole nr 132",
+    "address": " Śmiała 20",
+    "district": " Żoliborz",
+    "location": {
+      "lat": 52.2632491,
+      "lng": 20.9948495
+    }
+  },
+  {
+    "id": 126,
+    "name": "Przedszkole nr 133",
+    "address": " Okopowa 7a",
+    "district": " Wola",
+    "location": {
+      "lat": 52.23794119999999,
+      "lng": 20.9780883
+    }
+  },
+  {
+    "id": 127,
+    "name": "Przedszkole nr 134",
+    "address": " Leszno 24/26a",
+    "district": " Wola",
+    "location": {
+      "lat": 52.2381021,
+      "lng": 20.9765256
+    }
+  },
+  {
+    "id": 128,
+    "name": "Przedszkole nr 135",
+    "address": " Ringelbluma 1",
+    "district": " Wola",
+    "location": {
+      "lat": 52.2447141,
+      "lng": 20.9504737
+    }
+  },
+  {
+    "id": 129,
+    "name": "Przedszkole nr 136",
+    "address": " Dobiszewskiego 3a",
+    "district": " Wola",
+    "location": {
+      "lat": 52.2451055,
+      "lng": 20.9556222
+    }
+  },
+  {
+    "id": 130,
+    "name": "Przedszkole Integracyjne nr 137 im. Janusza Korczaka",
+    "address": " Zagłoby 11",
+    "district": " Ursus",
+    "location": {
+      "lat": 52.1936609,
+      "lng": 20.869494
+    }
+  },
+  {
+    "id": 131,
+    "name": "Przedszkole nr 138",
+    "address": " Karwińska 17",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.19487969999999,
+      "lng": 21.0003378
+    }
+  },
+  {
+    "id": 132,
+    "name": "Przedszkole nr 139",
+    "address": " Dąbrowskiego 71a",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.1995807,
+      "lng": 21.0086761
+    }
+  },
+  {
+    "id": 133,
+    "name": "Przedszkole nr 140",
+    "address": " Kaukaska 2",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.18031449999999,
+      "lng": 21.0520016
+    }
+  },
+  {
+    "id": 134,
+    "name": "Przedszkole nr 142",
+    "address": " Dąbrowskiego 25",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.2016315,
+      "lng": 21.017249
+    }
+  },
+  {
+    "id": 135,
+    "name": "Przedszkole nr 143",
+    "address": " Kickiego 5",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2470047,
+      "lng": 21.0795746
+    }
+  },
+  {
+    "id": 136,
+    "name": "Przedszkole nr 144 „Zaczarowany Ołówek”",
+    "address": " Wiktorska 95/97",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.19744490000001,
+      "lng": 21.0064921
+    }
+  },
+  {
+    "id": 137,
+    "name": "Przedszkole nr 145 „Czterolistna Koniczynka”",
+    "address": " Goszczyńskiego 17a",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.1946373,
+      "lng": 21.0173403
+    }
+  },
+  {
+    "id": 138,
+    "name": "Przedszkole nr 146",
+    "address": " Sandomierska 2",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.2061378,
+      "lng": 21.0201764
+    }
+  },
+  {
+    "id": 139,
+    "name": "Przedszkole nr 147",
+    "address": " Zakrzewska 13",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.2039416,
+      "lng": 21.0401349
+    }
+  },
+  {
+    "id": 140,
+    "name": "Przedszkole nr 148",
+    "address": " Kazimierzowska 45",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.20268369999999,
+      "lng": 21.0148372
+    }
+  },
+  {
+    "id": 141,
+    "name": "Przedszkole nr 149",
+    "address": " Dolna 8",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.2017299,
+      "lng": 21.0319703
+    }
+  },
+  {
+    "id": 142,
+    "name": "Przedszkole nr 150",
+    "address": " Prałatowska 12",
+    "district": " Targówek",
+    "location": {
+      "lat": 52.27081279999999,
+      "lng": 21.0494673
+    }
+  },
+  {
+    "id": 143,
+    "name": "Przedszkole nr 151",
+    "address": " Zaciszna 3",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.1874496,
+      "lng": 21.0687291
+    }
+  },
+  {
+    "id": 144,
+    "name": "Przedszkole nr 153 „Słoneczne Przedszkole”",
+    "address": " Chrzanowskiego 19",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2524096,
+      "lng": 21.0784442
+    }
+  },
+  {
+    "id": 145,
+    "name": "Przedszkole nr 154 „Pod Wesołą Truskaweczką”",
+    "address": " Świętego Hieronima 5",
+    "district": " Targówek",
+    "location": {
+      "lat": 52.2938388,
+      "lng": 21.0224013
+    }
+  },
+  {
+    "id": 146,
+    "name": "Przedszkole nr 155 „Roztańczona Kraina”",
+    "address": " Bartnicza 6",
+    "district": " Targówek",
+    "location": {
+      "lat": 52.2872116,
+      "lng": 21.0276594
+    }
+  },
+  {
+    "id": 147,
+    "name": "Przedszkole nr 156",
+    "address": " Żuromińska 2a",
+    "district": " Targówek",
+    "location": {
+      "lat": 52.286566,
+      "lng": 21.0432716
+    }
+  },
+  {
+    "id": 148,
+    "name": "Przedszkole nr 157 „Przedszkole z Serduszkiem”",
+    "address": " Bazyliańska 10",
+    "district": " Targówek",
+    "location": {
+      "lat": 52.2915507,
+      "lng": 21.0220872
+    }
+  },
+  {
+    "id": 149,
+    "name": "Przedszkole nr 158",
+    "address": " Dwóch Mieczy 30/36",
+    "district": " Rembertów",
+    "location": {
+      "lat": 52.2513199,
+      "lng": 21.1672051
+    }
+  },
+  {
+    "id": 150,
+    "name": "Przedszkole nr 159",
+    "address": " Wokalna 1",
+    "district": " Ursynów",
+    "location": {
+      "lat": 52.16115,
+      "lng": 21.0330331
+    }
+  },
+  {
+    "id": 151,
+    "name": "Przedszkole nr 160",
+    "address": " Niepołomicka 26",
+    "district": " Rembertów",
+    "location": {
+      "lat": 52.2469538,
+      "lng": 21.1358376
+    }
+  },
+  {
+    "id": 152,
+    "name": "Przedszkole nr 162 „Saski Zakątek”",
+    "address": " Dąbrówki 3",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2357568,
+      "lng": 21.0542663
+    }
+  },
+  {
+    "id": 153,
+    "name": "Przedszkole nr 163",
+    "address": " Markowska 18a",
+    "district": " Praga Północ",
+    "location": {
+      "lat": 52.255477,
+      "lng": 21.0427161
+    }
+  },
+  {
+    "id": 154,
+    "name": "Przedszkole nr 164",
+    "address": " Szanajcy 12",
+    "district": " Praga Północ",
+    "location": {
+      "lat": 52.2619723,
+      "lng": 21.0274174
+    }
+  },
+  {
+    "id": 155,
+    "name": "Przedszkole nr 165",
+    "address": " Ratuszowa 8a",
+    "district": " Praga Północ",
+    "location": {
+      "lat": 52.2565964,
+      "lng": 21.0302846
+    }
+  },
+  {
+    "id": 156,
+    "name": "Przedszkole nr 166",
+    "address": " Grochowska 309/317",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2459096,
+      "lng": 21.0642188
+    }
+  },
+  {
+    "id": 157,
+    "name": "Przedszkole nr 167",
+    "address": " Strzelecka 16",
+    "district": " Praga Północ",
+    "location": {
+      "lat": 52.2615081,
+      "lng": 21.0411144
+    }
+  },
+  {
+    "id": 158,
+    "name": "Przedszkole nr 168 „Misiowa Gromadka”",
+    "address": " Zagłoby 27",
+    "district": " Ursus",
+    "location": {
+      "lat": 52.1929502,
+      "lng": 20.8646534
+    }
+  },
+  {
+    "id": 159,
+    "name": "Przedszkole nr 169",
+    "address": " Namysłowska 11",
+    "district": " Praga Północ",
+    "location": {
+      "lat": 52.2636835,
+      "lng": 21.0330439
+    }
+  },
+  {
+    "id": 160,
+    "name": "Przedszkole nr 170",
+    "address": " Gandhiego 16",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.1941421,
+      "lng": 21.0060533
+    }
+  },
+  {
+    "id": 161,
+    "name": "Przedszkole nr 171",
+    "address": " Równa 2",
+    "district": " Praga Północ",
+    "location": {
+      "lat": 52.2601406,
+      "lng": 21.0435296
+    }
+  },
+  {
+    "id": 162,
+    "name": "Przedszkole nr 172 im. Danuty Wawiłow",
+    "address": " Żytnia 71",
+    "district": " Wola",
+    "location": {
+      "lat": 52.238644,
+      "lng": 20.9644813
+    }
+  },
+  {
+    "id": 163,
+    "name": "Przedszkole nr 173",
+    "address": " Szymanowskiego 5a",
+    "district": " Praga Północ",
+    "location": {
+      "lat": 52.2626186,
+      "lng": 21.0310984
+    }
+  },
+  {
+    "id": 164,
+    "name": "Przedszkole nr 174",
+    "address": " Markowska 8",
+    "district": " Praga Północ",
+    "location": {
+      "lat": 52.2539942,
+      "lng": 21.0470569
+    }
+  },
+  {
+    "id": 165,
+    "name": "Przedszkole nr 175",
+    "address": " Astronautów 5",
+    "district": " Włochy",
+    "location": {
+      "lat": 52.181573,
+      "lng": 20.9764016
+    }
+  },
+  {
+    "id": 166,
+    "name": "Przedszkole nr 176",
+    "address": " Trzech Budrysów 24",
+    "district": " Ochota",
+    "location": {
+      "lat": 52.20899180000001,
+      "lng": 20.9671079
+    }
+  },
+  {
+    "id": 167,
+    "name": "Przedszkole nr 177 „Bajkowe Przedszkole”",
+    "address": " Tarnowiecka 4",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2359109,
+      "lng": 21.10584
+    }
+  },
+  {
+    "id": 168,
+    "name": "Przedszkole nr 178 „Kolorowa Kraina”",
+    "address": " Londyńska 10",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2349292,
+      "lng": 21.0645292
+    }
+  },
+  {
+    "id": 169,
+    "name": "Przedszkole nr 179",
+    "address": " Jarocińska 12/14 04-171",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2397186,
+      "lng": 21.1066895
+    }
+  },
+  {
+    "id": 170,
+    "name": "Przedszkole nr 180",
+    "address": " Niekłańska 40",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2374173,
+      "lng": 21.0605011
+    }
+  },
+  {
+    "id": 171,
+    "name": "Przedszkole nr 181 „Wesołe Nutki”",
+    "address": " Pruszyńskiego 5",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.2793685,
+      "lng": 20.9581857
+    }
+  },
+  {
+    "id": 172,
+    "name": "Przedszkole nr 182 „Tajemniczy Ogród”",
+    "address": " Nałkowskiej 3",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.2749044,
+      "lng": 20.9564947
+    }
+  },
+  {
+    "id": 173,
+    "name": "Przedszkole nr 183",
+    "address": " Jagiellońska 28",
+    "district": " Praga Północ",
+    "location": {
+      "lat": 52.2525967,
+      "lng": 21.0348523
+    }
+  },
+  {
+    "id": 174,
+    "name": "Przedszkole nr 184",
+    "address": " Ratuszowa 21",
+    "district": " Praga Północ",
+    "location": {
+      "lat": 52.260562,
+      "lng": 21.034986
+    }
+  },
+  {
+    "id": 175,
+    "name": "Przedszkole nr 185 z Oddziałami Integracyjnymi",
+    "address": " Wołomińska 56",
+    "district": " Praga Północ",
+    "location": {
+      "lat": 52.26180360000001,
+      "lng": 21.0562035
+    }
+  },
+  {
+    "id": 176,
+    "name": "Przedszkole nr 186",
+    "address": " Wołomińska 12/18",
+    "district": " Praga Północ",
+    "location": {
+      "lat": 52.2579399,
+      "lng": 21.0529259
+    }
+  },
+  {
+    "id": 177,
+    "name": "Przedszkole Specjalne nr 188",
+    "address": " Kielecka 20",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.2039763,
+      "lng": 21.0062545
+    }
+  },
+  {
+    "id": 178,
+    "name": "Przedszkole nr 189 „Na Wierzbnie”",
+    "address": " Lenartowicza 27",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.19181409999999,
+      "lng": 21.017425
+    }
+  },
+  {
+    "id": 179,
+    "name": "Przedszkole nr 190",
+    "address": " Racławicka 30a",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.1988774,
+      "lng": 21.0142177
+    }
+  },
+  {
+    "id": 180,
+    "name": "Przedszkole nr 191 im. Marii Kownackiej",
+    "address": " Zawrat 22",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.1879029,
+      "lng": 21.0269915
+    }
+  },
+  {
+    "id": 181,
+    "name": "Przedszkole nr 192 „Wesoły Pędzelek”",
+    "address": " Liczydło 3a",
+    "district": " Białołęka",
+    "location": {
+      "lat": 52.313647,
+      "lng": 20.9792459
+    }
+  },
+  {
+    "id": 182,
+    "name": "Przedszkole nr 193",
+    "address": " Odyńca 61",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.195453,
+      "lng": 21.010072
+    }
+  },
+  {
+    "id": 183,
+    "name": "Przedszkole nr 194",
+    "address": " Sławka 7",
+    "district": " Ursus",
+    "location": {
+      "lat": 52.1936589,
+      "lng": 20.8963764
+    }
+  },
+  {
+    "id": 184,
+    "name": "Przedszkole nr 196 „Kraina Misiów”",
+    "address": " Nabielaka 18a",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.2063199,
+      "lng": 21.0351721
+    }
+  },
+  {
+    "id": 185,
+    "name": "Przedszkole nr 197 „Do-Re-Mi”",
+    "address": " Popiełuszki 3a",
+    "district": " Żoliborz",
+    "location": {
+      "lat": 52.2643818,
+      "lng": 20.9770528
+    }
+  },
+  {
+    "id": 186,
+    "name": "Przedszkole z Oddziałami Integracyjnymi nr 198 „Bajeczne Przedszkole”",
+    "address": " Bartosika 5",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2294744,
+      "lng": 21.0814492
+    }
+  },
+  {
+    "id": 187,
+    "name": "Przedszkole nr 199",
+    "address": " Bukietowa 10",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.19210899999999,
+      "lng": 21.0119684
+    }
+  },
+  {
+    "id": 188,
+    "name": "Przedszkole nr 200 „Gąski Balbinki”",
+    "address": " Balbinki 1",
+    "district": " Ursus",
+    "location": {
+      "lat": 52.1919537,
+      "lng": 20.8970378
+    }
+  },
+  {
+    "id": 189,
+    "name": "Przedszkole nr 201 „Misia Ursynka”",
+    "address": " Wilczy Dół 4",
+    "district": " Ursynów",
+    "location": {
+      "lat": 52.128578,
+      "lng": 21.0576911
+    }
+  },
+  {
+    "id": 190,
+    "name": "Przedszkole nr 205",
+    "address": " Irzykowskiego 1",
+    "district": " Bemowo",
+    "location": {
+      "lat": 52.2308989,
+      "lng": 20.9042462
+    }
+  },
+  {
+    "id": 191,
+    "name": "Przedszkole nr 206",
+    "address": " Franciszkańska 7",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.2523298,
+      "lng": 21.0040668
+    }
+  },
+  {
+    "id": 192,
+    "name": "Przedszkole Specjalne nr 208",
+    "address": " Dzielna 1a",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.24704089999999,
+      "lng": 20.9958992
+    }
+  },
+  {
+    "id": 193,
+    "name": "Przedszkole Integracyjne nr 209 „Zaczarowane Ziarenko”",
+    "address": " Deotymy 52",
+    "district": " Wola",
+    "location": {
+      "lat": 52.244524,
+      "lng": 20.9484394
+    }
+  },
+  {
+    "id": 194,
+    "name": "Przedszkole nr 211 im. Kubusia Puchatka",
+    "address": " Dąbrówki 20",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2367386,
+      "lng": 21.0561049
+    }
+  },
+  {
+    "id": 195,
+    "name": "Przedszkole nr 212",
+    "address": " Rybińskiego 2",
+    "district": " Żoliborz",
+    "location": {
+      "lat": 52.2723016,
+      "lng": 20.9863303
+    }
+  },
+  {
+    "id": 196,
+    "name": "Przedszkole Specjalne nr 213",
+    "address": " Teligi 1",
+    "district": " Ursynów",
+    "location": {
+      "lat": 52.15329879999999,
+      "lng": 21.0478754
+    }
+  },
+  {
+    "id": 197,
+    "name": "Przedszkole nr 214 im. Janiny Krzemińskiej",
+    "address": " Czumy 6",
+    "district": " Bemowo",
+    "location": {
+      "lat": 52.2362472,
+      "lng": 20.9114618
+    }
+  },
+  {
+    "id": 198,
+    "name": "Przedszkole nr 215",
+    "address": " Szwankowskiego 3",
+    "district": " Bemowo",
+    "location": {
+      "lat": 52.2333484,
+      "lng": 20.8999161
+    }
+  },
+  {
+    "id": 199,
+    "name": "Przedszkole nr 216",
+    "address": " Andriollego 1",
+    "district": " Bemowo",
+    "location": {
+      "lat": 52.2513535,
+      "lng": 20.9290438
+    }
+  },
+  {
+    "id": 200,
+    "name": "Przedszkole nr 217",
+    "address": " Szymanowskiego 4A",
+    "district": " Praga Północ",
+    "location": {
+      "lat": 52.2615439,
+      "lng": 21.0330261
+    }
+  },
+  {
+    "id": 201,
+    "name": "Przedszkole nr 218 „Iskra”",
+    "address": " Rechniewskiego 5b",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2277301,
+      "lng": 21.102051
+    }
+  },
+  {
+    "id": 202,
+    "name": "Przedszkole nr 219 „Niezapominajka”",
+    "address": " Keniga 16",
+    "district": " Ursus",
+    "location": {
+      "lat": 52.196479,
+      "lng": 20.8703192
+    }
+  },
+  {
+    "id": 203,
+    "name": "Przedszkole nr 220",
+    "address": " Walewska 7",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2412058,
+      "lng": 21.076864
+    }
+  },
+  {
+    "id": 204,
+    "name": "Przedszkole nr 222",
+    "address": " Wyki 17",
+    "district": " Bemowo",
+    "location": {
+      "lat": 52.2295546,
+      "lng": 20.8997827
+    }
+  },
+  {
+    "id": 205,
+    "name": "Przedszkole nr 223 „Skarby Powsina”",
+    "address": " Przyczółkowa 27",
+    "district": " Wilanów",
+    "location": {
+      "lat": 52.12059259999999,
+      "lng": 21.1018017
+    }
+  },
+  {
+    "id": 206,
+    "name": "Przedszkole nr 225",
+    "address": " Bobrowskiego 5",
+    "district": " Ochota",
+    "location": {
+      "lat": 52.2093593,
+      "lng": 20.9717916
+    }
+  },
+  {
+    "id": 207,
+    "name": "Przedszkole z Oddziałami Integracyjnymi nr 226 „Małego Europejczyka”",
+    "address": " Strumykowa 17",
+    "district": " Białołęka",
+    "location": {
+      "lat": 52.3281643,
+      "lng": 20.944682
+    }
+  },
+  {
+    "id": 208,
+    "name": "Przedszkole nr 227 „Wesołe Nutki”",
+    "address": " Świętosławska 3",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2387377,
+      "lng": 21.0829913
+    }
+  },
+  {
+    "id": 209,
+    "name": "Przedszkole nr 228",
+    "address": " Marzanny 8",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.191091,
+      "lng": 21.0047242
+    }
+  },
+  {
+    "id": 210,
+    "name": "Przedszkole nr 230",
+    "address": " Szaserów 118a",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2493969,
+      "lng": 21.096021
+    }
+  },
+  {
+    "id": 211,
+    "name": "Przedszkole nr 233 „Zielony Domek”",
+    "address": " Pazińskiego 11a",
+    "district": " Wawer",
+    "location": {
+      "lat": 52.21571789999999,
+      "lng": 21.1735256
+    }
+  },
+  {
+    "id": 212,
+    "name": "Przedszkole nr 234",
+    "address": " Ożarowska 59",
+    "district": " Wola",
+    "location": {
+      "lat": 52.2457217,
+      "lng": 20.9541414
+    }
+  },
+  {
+    "id": 213,
+    "name": "Przedszkole nr 235 „Tęczowe Przedszkole”",
+    "address": " Chroszczewska 3/5",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.241977,
+      "lng": 21.0815757
+    }
+  },
+  {
+    "id": 214,
+    "name": "Przedszkole nr 236 „Mali Odkrywcy”",
+    "address": " Fontany 2",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.27440259999999,
+      "lng": 20.9492427
+    }
+  },
+  {
+    "id": 215,
+    "name": "Przedszkole nr 237 im. Warszawskiej Syrenki",
+    "address": " Tyszkiewicza 33",
+    "district": " Wola",
+    "location": {
+      "lat": 52.2409578,
+      "lng": 20.9665172
+    }
+  },
+  {
+    "id": 216,
+    "name": "Przedszkole nr 238 „Tęczowy Pajacyk”",
+    "address": " Monte Cassino 5",
+    "district": " Wola",
+    "location": {
+      "lat": 52.23602169999999,
+      "lng": 20.9458486
+    }
+  },
+  {
+    "id": 217,
+    "name": "Przedszkole nr 239 Aleje Jerozolimskie 117a",
+    "address": " Ochota",
+    "location": {
+      "lat": 52.2216251,
+      "lng": 20.9866232
+    }
+  },
+  {
+    "id": 218,
+    "name": "Przedszkole nr 240 im. Polskich Olimpijczyków",
+    "address": " Marymoncka 34",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.2845092,
+      "lng": 20.9572562
+    }
+  },
+  {
+    "id": 219,
+    "name": "Przedszkole nr 241",
+    "address": " Księcia Trojdena 5b",
+    "district": " Ochota",
+    "location": {
+      "lat": 52.20423839999999,
+      "lng": 20.983947
+    }
+  },
+  {
+    "id": 220,
+    "name": "Przedszkole nr 243",
+    "address": " Kordiana 7/11",
+    "district": " Rembertów",
+    "location": {
+      "lat": 52.2597365,
+      "lng": 21.1534372
+    }
+  },
+  {
+    "id": 221,
+    "name": "Przedszkole nr 244 „Niegocińskie Skrzaty”",
+    "address": " Niegocińska 9",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.17485749999999,
+      "lng": 21.0071108
+    }
+  },
+  {
+    "id": 222,
+    "name": "Przedszkole Specjalne nr 245 Dla Dzieci Słabowidzących „Sowy Mądrej Głowy”",
+    "address": " Pruszyńskiego 1",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.2784063,
+      "lng": 20.958925
+    }
+  },
+  {
+    "id": 223,
+    "name": "Przedszkole Integracyjne nr 247",
+    "address": " Bieniewicka 32",
+    "district": " Żoliborz",
+    "location": {
+      "lat": 52.27316459999999,
+      "lng": 20.9728407
+    }
+  },
+  {
+    "id": 224,
+    "name": "Przedszkole nr 248",
+    "address": " Dickensa 5a",
+    "district": " Ochota",
+    "location": {
+      "lat": 52.2049302,
+      "lng": 20.9735635
+    }
+  },
+  {
+    "id": 225,
+    "name": "Przedszkole nr 249 Specjalne dla Dzieci z Upośledzeniem Umysłowym w Stopniu Umiarkowanym i Znacznym",
+    "address": " Kobielska 5",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2463469,
+      "lng": 21.0888813
+    }
+  },
+  {
+    "id": 226,
+    "name": "Przedszkole nr 250 „Akwarelka”",
+    "address": " Kinowa 10a",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2386959,
+      "lng": 21.0763471
+    }
+  },
+  {
+    "id": 227,
+    "name": "Przedszkole nr 253 „Akademia Pana Kleksa”",
+    "address": " Antka Rozpylacza 2",
+    "district": " Wola",
+    "location": {
+      "lat": 52.23308429999999,
+      "lng": 20.9351142
+    }
+  },
+  {
+    "id": 228,
+    "name": "Przedszkole nr 255",
+    "address": " Korotyńskiego 3",
+    "district": " Ochota",
+    "location": {
+      "lat": 52.19946299999999,
+      "lng": 20.9824468
+    }
+  },
+  {
+    "id": 229,
+    "name": "Przedszkole nr 259",
+    "address": " pl. Wojska Polskiego 18",
+    "district": " Wesoła",
+    "location": {
+      "lat": 52.2579676,
+      "lng": 21.229685
+    }
+  },
+  {
+    "id": 230,
+    "name": "Przedszkole nr 260",
+    "address": " Trakt Brzeski 85",
+    "district": " Wesoła",
+    "location": {
+      "lat": 52.2234578,
+      "lng": 21.2397758
+    }
+  },
+  {
+    "id": 231,
+    "name": "Przedszkole nr 261 „Pod Dębami”",
+    "address": " Armii Krajowej 72",
+    "district": " Wesoła",
+    "location": {
+      "lat": 52.2498345,
+      "lng": 21.2317878
+    }
+  },
+  {
+    "id": 232,
+    "name": "Przedszkole nr 262",
+    "address": " Wilanowska 3",
+    "district": " Wesoła",
+    "location": {
+      "lat": 52.243698,
+      "lng": 21.179868
+    }
+  },
+  {
+    "id": 233,
+    "name": "Przedszkole nr 263",
+    "address": " Miła 39",
+    "district": " Wola",
+    "location": {
+      "lat": 52.2476593,
+      "lng": 20.9816413
+    }
+  },
+  {
+    "id": 234,
+    "name": "Przedszkole nr 264 „Pluszowego Misia”",
+    "address": " Korkowa 147/149",
+    "district": " Wawer",
+    "location": {
+      "lat": 52.239951,
+      "lng": 21.1539147
+    }
+  },
+  {
+    "id": 235,
+    "name": "Przedszkole nr 267",
+    "address": " Małcużyńskiego 4",
+    "district": " Ursynów",
+    "location": {
+      "lat": 52.136626,
+      "lng": 21.055609
+    }
+  },
+  {
+    "id": 236,
+    "name": "Przedszkole nr 268 „Słoneczny Promyk”",
+    "address": " Przytyk 5a",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.2885281,
+      "lng": 20.9380234
+    }
+  },
+  {
+    "id": 237,
+    "name": "Przedszkole nr 269",
+    "address": " Smocza 22",
+    "district": " Wola",
+    "location": {
+      "lat": 52.2476213,
+      "lng": 20.9848844
+    }
+  },
+  {
+    "id": 238,
+    "name": "Przedszkole nr 270",
+    "address": " Bełdan 5",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.1726533,
+      "lng": 21.0094006
+    }
+  },
+  {
+    "id": 239,
+    "name": "Przedszkole nr 271 „Wróbelka Elemelka”",
+    "address": " Broniewskiego 93",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.2709661,
+      "lng": 20.9410689
+    }
+  },
+  {
+    "id": 240,
+    "name": "Przedszkole nr 272 im. „Misia Uszatka”",
+    "address": " Gajcego 9",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.291691,
+      "lng": 20.933127
+    }
+  },
+  {
+    "id": 241,
+    "name": "Przedszkole nr 273",
+    "address": " Jana Olbrachta 28",
+    "district": " Wola",
+    "location": {
+      "lat": 52.2376352,
+      "lng": 20.941017
+    }
+  },
+  {
+    "id": 242,
+    "name": "Przedszkole nr 274",
+    "address": " Bokserska 32",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.16870489999999,
+      "lng": 21.0042742
+    }
+  },
+  {
+    "id": 243,
+    "name": "Przedszkole nr 275",
+    "address": " Piwarskiego 5",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.1976786,
+      "lng": 21.0346156
+    }
+  },
+  {
+    "id": 244,
+    "name": "Przedszkole nr 278",
+    "address": " Tatrzańska 3",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.2053245,
+      "lng": 21.0355065
+    }
+  },
+  {
+    "id": 245,
+    "name": "Przedszkole nr 281 „Stokrotka”",
+    "address": " Gościniec 53",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.211858,
+      "lng": 21.0735738
+    }
+  },
+  {
+    "id": 246,
+    "name": "Przedszkole nr 282",
+    "address": " Na Uboczu 7",
+    "district": " Ursynów",
+    "location": {
+      "lat": 52.1390851,
+      "lng": 21.0500306
+    }
+  },
+  {
+    "id": 247,
+    "name": "Przedszkole nr 283",
+    "address": " Puszczyka 6",
+    "district": " Ursynów",
+    "location": {
+      "lat": 52.15789729999999,
+      "lng": 21.0243613
+    }
+  },
+  {
+    "id": 248,
+    "name": "Przedszkole nr 284",
+    "address": " Jałtańska 8",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.18303909999999,
+      "lng": 21.0532131
+    }
+  },
+  {
+    "id": 249,
+    "name": "Przedszkole nr 286",
+    "address": " Mandarynki 1",
+    "district": " Ursynów",
+    "location": {
+      "lat": 52.1444337,
+      "lng": 21.0607164
+    }
+  },
+  {
+    "id": 250,
+    "name": "Przedszkole nr 287 „Piotrusia Pana”",
+    "address": " Broniewskiego 81",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.2703436,
+      "lng": 20.9463047
+    }
+  },
+  {
+    "id": 251,
+    "name": "Przedszkole z Oddziałami Integracyjnymi nr 288",
+    "address": " Elbląska 63a",
+    "district": " Żoliborz",
+    "location": {
+      "lat": 52.2654699,
+      "lng": 20.961237
+    }
+  },
+  {
+    "id": 252,
+    "name": "Przedszkole nr 289",
+    "address": " Twarda 60a",
+    "district": " Wola",
+    "location": {
+      "lat": 52.2288418,
+      "lng": 20.9923355
+    }
+  },
+  {
+    "id": 253,
+    "name": "Przedszkole z Oddziałami Integracyjnymi nr 291 im. prof. dr med. Zofii Falkowskiej",
+    "address": " Siennicka 19b",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2486441,
+      "lng": 21.0759904
+    }
+  },
+  {
+    "id": 254,
+    "name": "Przedszkole nr 292",
+    "address": " Walecznych 4/6",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2344608,
+      "lng": 21.0482878
+    }
+  },
+  {
+    "id": 255,
+    "name": "Przedszkole nr 293",
+    "address": " Baleya 5",
+    "district": " Ochota",
+    "location": {
+      "lat": 52.1967398,
+      "lng": 20.9808692
+    }
+  },
+  {
+    "id": 256,
+    "name": "Przedszkole nr 294 „Promyk Czerniakowa”",
+    "address": " Czerniakowska 50a",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.209195,
+      "lng": 21.0497489
+    }
+  },
+  {
+    "id": 257,
+    "name": "Przedszkole nr 295 „Kraina Bajek”",
+    "address": " Afrykańska 9",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2268766,
+      "lng": 21.0695216
+    }
+  },
+  {
+    "id": 258,
+    "name": "Przedszkole nr 296 „Bajkowy Parasol”",
+    "address": " Międzynarodowa 36",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2318074,
+      "lng": 21.0684621
+    }
+  },
+  {
+    "id": 259,
+    "name": "Przedszkole nr 299 „Bernardyńskie Krasnale”",
+    "address": " Przy Bernardyńskiej Wodzie 13",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.1911089,
+      "lng": 21.0498453
+    }
+  },
+  {
+    "id": 260,
+    "name": "Przedszkole nr 300",
+    "address": " Portofino 4",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.1761138,
+      "lng": 21.0590556
+    }
+  },
+  {
+    "id": 261,
+    "name": "Przedszkole nr 301 „Zaczarowany Świat”",
+    "address": " Staffa 7b",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.27304609999999,
+      "lng": 20.9603106
+    }
+  },
+  {
+    "id": 262,
+    "name": "Przedszkole nr 305",
+    "address": " Bryły 8",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.181759,
+      "lng": 21.0125059
+    }
+  },
+  {
+    "id": 263,
+    "name": "Przedszkole nr 306 „Mali Optymyści”",
+    "address": " Szegedyńska 13",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.29215130000001,
+      "lng": 20.9426456
+    }
+  },
+  {
+    "id": 264,
+    "name": "Przedszkole nr 307 „Wesołe Ekoludki”",
+    "address": " Księgarzy 9",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.274696,
+      "lng": 20.9415634
+    }
+  },
+  {
+    "id": 265,
+    "name": "Przedszkole nr 308 „Krasnala Hałabały”",
+    "address": " al. Reymonta 8a",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.2725611,
+      "lng": 20.9360669
+    }
+  },
+  {
+    "id": 266,
+    "name": "Przedszkole z Oddziałami Integracyjnymi nr 309 „Baśniowa Kraina”",
+    "address": " Andersena 7",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.2833299,
+      "lng": 20.9378707
+    }
+  },
+  {
+    "id": 267,
+    "name": "Przedszkole z Oddziałami Integracyjnymi nr 310",
+    "address": " Brożka 17",
+    "district": " Wola",
+    "location": {
+      "lat": 52.24170520000001,
+      "lng": 20.9382486
+    }
+  },
+  {
+    "id": 268,
+    "name": "Przedszkole nr 311 „Sadybiańskie Świerszcze”",
+    "address": " Sobieskiego 72b",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.1857297,
+      "lng": 21.0566222
+    }
+  },
+  {
+    "id": 269,
+    "name": "Przedszkole Integracyjne nr 312",
+    "address": " Okińskiego 5",
+    "district": " Ochota",
+    "location": {
+      "lat": 52.19698469999999,
+      "lng": 20.9740469
+    }
+  },
+  {
+    "id": 270,
+    "name": "Przedszkole nr 313",
+    "address": " Sulmierzycka 1",
+    "district": " Włochy",
+    "location": {
+      "lat": 52.1915853,
+      "lng": 20.9698445
+    }
+  },
+  {
+    "id": 271,
+    "name": "Przedszkole Integracyjne nr 314",
+    "address": " 1 Sierpnia 36a",
+    "district": " Włochy",
+    "location": {
+      "lat": 52.1947223,
+      "lng": 20.967882
+    }
+  },
+  {
+    "id": 272,
+    "name": "Przedszkole nr 315 im. Zbigniewa Rychlickiego",
+    "address": " Grzeszczyka 2",
+    "district": " Ochota",
+    "location": {
+      "lat": 52.1996109,
+      "lng": 20.9732348
+    }
+  },
+  {
+    "id": 273,
+    "name": "Przedszkole nr 317 „Smykolandia”",
+    "address": " Gruszczyńskiego 11",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.1701931,
+      "lng": 21.0005867
+    }
+  },
+  {
+    "id": 274,
+    "name": "Przedszkole nr 318 „Zielony Zakątek”",
+    "address": " Kochanowskiego 9a",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.2655877,
+      "lng": 20.9518169
+    }
+  },
+  {
+    "id": 275,
+    "name": "Przedszkole nr 319",
+    "address": " Powstańców Śląskich 14",
+    "district": " Bemowo",
+    "location": {
+      "lat": 52.2262554,
+      "lng": 20.9182639
+    }
+  },
+  {
+    "id": 276,
+    "name": "Przedszkole nr 320",
+    "address": " Cokołowa 2",
+    "district": " Bemowo",
+    "location": {
+      "lat": 52.2259162,
+      "lng": 20.910423
+    }
+  },
+  {
+    "id": 277,
+    "name": "Przedszkole nr 325",
+    "address": " Kaspijska 5",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.1796432,
+      "lng": 21.0485043
+    }
+  },
+  {
+    "id": 278,
+    "name": "Przedszkole nr 326 „Chatka Skrzatka”",
+    "address": " Bernardyńska 14",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.1942819,
+      "lng": 21.0629686
+    }
+  },
+  {
+    "id": 279,
+    "name": "Przedszkole nr 327 „Kolorowa Kraina”",
+    "address": " Conrada 10a",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.2748212,
+      "lng": 20.9258486
+    }
+  },
+  {
+    "id": 280,
+    "name": "Przedszkole nr 328 „Akademia pod Czereśnią”",
+    "address": " Dąbrowskiej 5a",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.2725559,
+      "lng": 20.9318924
+    }
+  },
+  {
+    "id": 281,
+    "name": "Przedszkole nr 330",
+    "address": " al. Niepodległości 17",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.18185010000001,
+      "lng": 21.0178461
+    }
+  },
+  {
+    "id": 282,
+    "name": "Przedszkole nr 331 „U Słonia Szczęściarza”",
+    "address": " Szaserów 61a",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2451362,
+      "lng": 21.106876
+    }
+  },
+  {
+    "id": 283,
+    "name": "Przedszkole ngr 334 im. Jasia i Małgosi",
+    "address": " Przy Agorze 12",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.2937281,
+      "lng": 20.939526
+    }
+  },
+  {
+    "id": 284,
+    "name": "Przedszkole nr 336",
+    "address": " Siemiatycka 2",
+    "district": " Bemowo",
+    "location": {
+      "lat": 52.223822,
+      "lng": 20.9025094
+    }
+  },
+  {
+    "id": 285,
+    "name": "Przedszkole nr 337",
+    "address": " Reżyserska 19",
+    "district": " Bemowo",
+    "location": {
+      "lat": 52.2262408,
+      "lng": 20.907378
+    }
+  },
+  {
+    "id": 286,
+    "name": "Przedszkole nr 338 „Sosnowa Stacyjka”",
+    "address": " Włókiennicza 41",
+    "district": " Wawer",
+    "location": {
+      "lat": 52.15951700000001,
+      "lng": 21.2071947
+    }
+  },
+  {
+    "id": 287,
+    "name": "Przedszkole nr 340 „Kasztanowego Ludka”",
+    "address": " Bogusławskiego 8a",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.27743779999999,
+      "lng": 20.9187741
+    }
+  },
+  {
+    "id": 288,
+    "name": "Przedszkole z Oddziałami Integracyjnymi nr 341 „Kota Filemona”",
+    "address": " Wergiliusza 15",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.2865344,
+      "lng": 20.9367372
+    }
+  },
+  {
+    "id": 289,
+    "name": "Przedszkole nr 343",
+    "address": " Warszawska 53",
+    "district": " Ursus",
+    "location": {
+      "lat": 52.1941074,
+      "lng": 20.8643749
+    }
+  },
+  {
+    "id": 290,
+    "name": "Przedszkole Specjalne nr 343",
+    "address": " Zakroczymska 6",
+    "district": " Śródmieście",
+    "location": {
+      "lat": 52.25422100000001,
+      "lng": 21.006798
+    }
+  },
+  {
+    "id": 291,
+    "name": "Przedszkole nr 344",
+    "address": " Maklakiewicza 9a",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.19104859999999,
+      "lng": 20.9918872
+    }
+  },
+  {
+    "id": 292,
+    "name": "Przedszkole z Oddziałami Integracyjnymi nr 345",
+    "address": " Brygadzistów 18",
+    "district": " Bemowo",
+    "location": {
+      "lat": 52.225749,
+      "lng": 20.9123309
+    }
+  },
+  {
+    "id": 293,
+    "name": "Przedszkole nr 346 „Pod Kasztanem”",
+    "address": " Klaudyny 8",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.2806248,
+      "lng": 20.9778774
+    }
+  },
+  {
+    "id": 294,
+    "name": "Przedszkole nr 348",
+    "address": " Kadetów 15",
+    "district": " Wawer",
+    "location": {
+      "lat": 52.2132369,
+      "lng": 21.109891
+    }
+  },
+  {
+    "id": 295,
+    "name": "Przedszkole nr 349 „Barcelonka”",
+    "address": " Barcelońska 8",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.176303,
+      "lng": 21.055284
+    }
+  },
+  {
+    "id": 296,
+    "name": "Przedszkole nr 350 „Jaśminowy Gaj”",
+    "address": " Wieluńska 12",
+    "district": " Wola",
+    "location": {
+      "lat": 52.2320212,
+      "lng": 20.9533813
+    }
+  },
+  {
+    "id": 297,
+    "name": "Przedszkole nr 351 im. Wandy Chotomskiej",
+    "address": " Warchałowskiego 4",
+    "district": " Ursynów",
+    "location": {
+      "lat": 52.1449704,
+      "lng": 21.046026
+    }
+  },
+  {
+    "id": 298,
+    "name": "Przedszkole nr 352",
+    "address": " Teligi 3",
+    "district": " Ursynów",
+    "location": {
+      "lat": 52.15288,
+      "lng": 21.046655
+    }
+  },
+  {
+    "id": 299,
+    "name": "Przedszkole nr 360 „Słoneczny Domek”",
+    "address": " Wernyhory 23",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.1765257,
+      "lng": 21.0251832
+    }
+  },
+  {
+    "id": 300,
+    "name": "Przedszkole nr 361",
+    "address": " Włościańska 6a",
+    "district": " Żoliborz",
+    "location": {
+      "lat": 52.26862,
+      "lng": 20.964166
+    }
+  },
+  {
+    "id": 301,
+    "name": "Przedszkole nr 364 „Pod Tęczą”",
+    "address": " Gwiaździsta 27",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.283414,
+      "lng": 20.9782449
+    }
+  },
+  {
+    "id": 302,
+    "name": "Przedszkole nr 366",
+    "address": " Hawajska 7",
+    "district": " Ursynów",
+    "location": {
+      "lat": 52.1495896,
+      "lng": 21.0412529
+    }
+  },
+  {
+    "id": 303,
+    "name": "Przedszkole nr 370",
+    "address": " Umińskiego 11",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2263731,
+      "lng": 21.0976917
+    }
+  },
+  {
+    "id": 304,
+    "name": "Przedszkole nr 371",
+    "address": " Lencewicza 5",
+    "district": " Bemowo",
+    "location": {
+      "lat": 52.25411330000001,
+      "lng": 20.9177673
+    }
+  },
+  {
+    "id": 305,
+    "name": "Przedszkole nr 376 z Oddziałami Integracyjnymi",
+    "address": " Admiralska 17",
+    "district": " Rembertów",
+    "location": {
+      "lat": 52.2636833,
+      "lng": 21.1836271
+    }
+  },
+  {
+    "id": 306,
+    "name": "Przedszkole nr 380 „Promyk Gocławia”",
+    "address": " Bora-Komorowskiego 10a",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.224718,
+      "lng": 21.0986983
+    }
+  },
+  {
+    "id": 307,
+    "name": "Przedszkole nr 381",
+    "address": " Szobera 1/3",
+    "district": " Bemowo",
+    "location": {
+      "lat": 52.2360295,
+      "lng": 20.9013375
+    }
+  },
+  {
+    "id": 308,
+    "name": "Przedszkole nr 384",
+    "address": " Meissnera 8b",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2237297,
+      "lng": 21.0881872
+    }
+  },
+  {
+    "id": 309,
+    "name": "Przedszkole nr 385",
+    "address": " Związku Walki Młodych 10",
+    "district": " Ursynów",
+    "location": {
+      "lat": 52.1580755,
+      "lng": 21.0390037
+    }
+  },
+  {
+    "id": 310,
+    "name": "Przedszkole nr 389",
+    "address": " Szadkowskiego 3",
+    "district": " Bemowo",
+    "location": {
+      "lat": 52.2518819,
+      "lng": 20.9201793
+    }
+  },
+  {
+    "id": 311,
+    "name": "Przedszkole nr 390",
+    "address": " Secemińska 1",
+    "district": " Bemowo",
+    "location": {
+      "lat": 52.248884,
+      "lng": 20.9177598
+    }
+  },
+  {
+    "id": 312,
+    "name": "Przedszkole nr 391",
+    "address": " Czerniakowska 20a",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.2006446,
+      "lng": 21.0517139
+    }
+  },
+  {
+    "id": 313,
+    "name": "Przedszkole nr 392 „Wróbelka Elemelka”",
+    "address": " Afrykańska 14a",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2270029,
+      "lng": 21.0712549
+    }
+  },
+  {
+    "id": 314,
+    "name": "Przedszkole Specjalne nr 393",
+    "address": " Puławska 97",
+    "district": " Mokotów",
+    "location": {
+      "lat": 52.1987785,
+      "lng": 21.0250954
+    }
+  },
+  {
+    "id": 315,
+    "name": "Przedszkole Integracyjne nr 394",
+    "address": " Teligi 1",
+    "district": " Ursynów",
+    "location": {
+      "lat": 52.15329879999999,
+      "lng": 21.0478754
+    }
+  },
+  {
+    "id": 316,
+    "name": "Przedszkole nr 395",
+    "address": " Na Uboczu 9",
+    "district": " Ursynów",
+    "location": {
+      "lat": 52.140139,
+      "lng": 21.0489678
+    }
+  },
+  {
+    "id": 317,
+    "name": "Przedszkole nr 397 „Ziarenko”",
+    "address": " Komorska 6",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2364545,
+      "lng": 21.1023116
+    }
+  },
+  {
+    "id": 318,
+    "name": "Przedszkole nr 400",
+    "address": " Lokajskiego 2",
+    "district": " Ursynów",
+    "location": {
+      "lat": 52.138754,
+      "lng": 21.0658669
+    }
+  },
+  {
+    "id": 319,
+    "name": "Przedszkole nr 401",
+    "address": " Dembowskiego 9",
+    "district": " Ursynów",
+    "location": {
+      "lat": 52.1518865,
+      "lng": 21.032185
+    }
+  },
+  {
+    "id": 320,
+    "name": "Przedszkole nr 402",
+    "address": " Rosy Bailly 11",
+    "district": " Bemowo",
+    "location": {
+      "lat": 52.2508626,
+      "lng": 20.9271229
+    }
+  },
+  {
+    "id": 321,
+    "name": "Przedszkole nr 403",
+    "address": " Góralska 1",
+    "district": " Wola",
+    "location": {
+      "lat": 52.2369997,
+      "lng": 20.9383447
+    }
+  },
+  {
+    "id": 322,
+    "name": "Przedszkole Integracyjne nr 404",
+    "address": " Białobrzeska 19",
+    "district": " Ochota",
+    "location": {
+      "lat": 52.21403549999999,
+      "lng": 20.9723645
+    }
+  },
+  {
+    "id": 323,
+    "name": "Przedszkole nr 406",
+    "address": " Kaden-Bandrowskiego 8",
+    "district": " Bemowo",
+    "location": {
+      "lat": 52.24961339999999,
+      "lng": 20.9254062
+    }
+  },
+  {
+    "id": 324,
+    "name": "Przedszkole nr 407",
+    "address": " Pawlikowskiego 2",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.224723,
+      "lng": 21.0809474
+    }
+  },
+  {
+    "id": 325,
+    "name": "Przedszkole nr 409 „Królestwo Maciusia I”",
+    "address": " Tołstoja 2",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.28400730000001,
+      "lng": 20.9325568
+    }
+  },
+  {
+    "id": 326,
+    "name": "Przedszkole nr 411 „Akademia Króla Stasia”",
+    "address": " Stanisława Augusta 77",
+    "district": " Praga Południe",
+    "location": {
+      "lat": 52.2451662,
+      "lng": 21.0630811
+    }
+  },
+  {
+    "id": 327,
+    "name": "Przedszkole nr 412 z Oddziałami Integracyjnymi",
+    "address": " Telekiego 8",
+    "district": " Ursynów",
+    "location": {
+      "lat": 52.13255119999999,
+      "lng": 21.0593716
+    }
+  },
+  {
+    "id": 328,
+    "name": "Przedszkole nr 413",
+    "address": " Górna Droga 10",
+    "district": " Ursus",
+    "location": {
+      "lat": 52.1845223,
+      "lng": 20.8683821
+    }
+  },
+  {
+    "id": 329,
+    "name": "Przedszkole nr 414",
+    "address": " Hemara 8",
+    "district": " Białołęka",
+    "location": {
+      "lat": 52.326825,
+      "lng": 21.044873
+    }
+  },
+  {
+    "id": 330,
+    "name": "Przedszkole nr 415",
+    "address": " Obrońców Tobruku 23 lok. 112",
+    "district": " Bemowo",
+    "location": {
+      "lat": 52.2560614,
+      "lng": 20.9330341
+    }
+  },
+  {
+    "id": 331,
+    "name": "Przedszkole nr 416",
+    "address": " Syta 123",
+    "district": " Wilanów",
+    "location": {
+      "lat": 52.1735783,
+      "lng": 21.1074844
+    }
+  },
+  {
+    "id": 332,
+    "name": "Przedszkole nr 417",
+    "address": " Muszlowa 17",
+    "district": " Bemowo",
+    "location": {
+      "lat": 52.2341633,
+      "lng": 20.9124045
+    }
+  },
+  {
+    "id": 333,
+    "name": "Przedszkole z Oddziałami Integracyjnymi nr 418",
+    "address": " Szancera 7",
+    "district": " Ursus",
+    "location": {
+      "lat": 52.1938391,
+      "lng": 20.8980283
+    }
+  },
+  {
+    "id": 334,
+    "name": "Przedszkole nr 419",
+    "address": " Ryżowa 17",
+    "district": " Włochy",
+    "location": {
+      "lat": 52.1973494,
+      "lng": 20.9126496
+    }
+  },
+  {
+    "id": 335,
+    "name": "Przedszkole nr 420",
+    "address": " Ledóchowskiej 8",
+    "district": " Wilanów",
+    "location": {
+      "lat": 52.15698150000001,
+      "lng": 21.0678958
+    }
+  },
+  {
+    "id": 336,
+    "name": "Przedszkole nr 421",
+    "address": " Cegłowska 13a",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.2824233,
+      "lng": 20.9551793
+    }
+  },
+  {
+    "id": 337,
+    "name": "Przedszkole nr 422",
+    "address": " Brązownicza 17",
+    "district": " Bielany",
+    "location": {
+      "lat": 52.273832,
+      "lng": 20.9204255
+    }
+  },
+  {
+    "id": 338,
+    "name": "Przedszkole nr 426 „Kraina Odkrywców”",
+    "address": " Boguszewska 4",
+    "district": " Wola",
+    "location": {
+      "lat": 52.2215076,
+      "lng": 20.9390414
+    }
+  }
+]

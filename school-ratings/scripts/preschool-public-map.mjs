@@ -4,29 +4,29 @@ const secrets = await readFile(new URL('../secrets/secrets.json', import.meta.ur
 
 const db = await readFile(new URL('../data/db.json', import.meta.url));
 
-const {schools} = JSON.parse(db);
+const {"preschools-public": preschoolsPublic} = JSON.parse(db);
 const {apiKey} = JSON.parse(secrets);
 
 const map = new Client({});
 
-const schoolsPromiseArray = schools.map(school => {
-    const {address} = school;
+const preschoolsPublicPromiseArray = preschoolsPublic.map(preschool => {
+    const {address, district} = preschool;
     return map.textSearch({
         params: {
-            query: `Polska, Warszawa, ${address}`,
+            query: `Polska, Warszawa, ${district}, ${address}`,
             language: "pl",
             key: apiKey
         },
     }).then(response => {
         const {location} = response.data.results[0].geometry
         return ({
-            ...school,
+            ...preschool,
             location
         })
     })
 })
 
-const results = await Promise.allSettled(schoolsPromiseArray).then(results => results?.map(({value}, index) => value ?? schools[index]));
-const data = JSON.stringify({...JSON.parse(db), schools: results}, null, 2);
+const results = await Promise.allSettled(preschoolsPublicPromiseArray).then(results => results?.map(({value}, index) => value ?? preschoolsPublic[index]));
+const data = JSON.stringify({...JSON.parse(db), "preschools-public": results}, null, 2);
 
 await writeFile(new URL('../data/db.json', import.meta.url), data);

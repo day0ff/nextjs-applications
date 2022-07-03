@@ -1,9 +1,10 @@
 import {useEffect, useState} from "react";
 
-const FlatMarker = ({id, address, rating, location, phone, price, previousPrice, map}) => {
+const FlatMarker = ({id, address, rating, location, phone, price, previousPrice, available, map}) => {
     const [marker, setMarker] = useState();
 
     const getIcon = (rating) => {
+        if (!available) return '/home-icon-gray.png';
         if (rating === 5) return '/home-icon-red.png';
         if (rating === 4) return '/home-icon-yellow.png';
         if (rating === 3) return '/home-icon-green.png';
@@ -11,7 +12,7 @@ const FlatMarker = ({id, address, rating, location, phone, price, previousPrice,
     }
 
     useEffect(() => {
-        if (!marker) {
+        if (map && !marker) {
             setMarker(new window.google.maps.Marker({
                 position: new window.google.maps.LatLng(location?.lat, location?.lng),
                 icon: getIcon(rating),
@@ -25,7 +26,7 @@ const FlatMarker = ({id, address, rating, location, phone, price, previousPrice,
                 marker.setMap(null);
             }
         };
-    }, [marker]);
+    }, [map, marker]);
 
     return null;
 };
