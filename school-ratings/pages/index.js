@@ -1,7 +1,6 @@
 import React from "react";
 import {Wrapper, Status} from "@googlemaps/react-wrapper";
 
-import secrets from "../secrets/secrets.json";
 import preschoolsPublic from "../data/preschools-public.json";
 import preschoolsPrivate from "../data/preschools-private.json";
 import schools from "../data/schools.json";
@@ -25,7 +24,7 @@ export default function Home({flats}) {
     const {center, zoom} = MAP_OPTIONS;
 
     return (
-        <Wrapper apiKey={secrets.apiKey} render={render}>
+        <Wrapper apiKey={process.env.NEXT_PUBLIC_API_KEY} render={render}>
             <Map center={center} zoom={zoom}>
                 {preschoolsPublic?.map((preschool) => (<PreschoolPublicMarker key={`preschool-public-${preschool.id}`} {...preschool}/>))}
                 {preschoolsPrivate?.map((preschool) => (<PreschoolPrivateMarker key={`preschool-private-${preschool.id}`} {...preschool}/>))}

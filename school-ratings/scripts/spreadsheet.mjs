@@ -1,17 +1,13 @@
 import {google} from 'googleapis';
 
-import secrets from "../secrets/secrets.json";
-
 const sheets = google.sheets('v4');
 
 export default async function getSpreadsheetData() {
-    const {spreadsheetId} = secrets;
-
     const authClient = await authorize();
 
     const request = {
         // The ID of the spreadsheet to retrieve data from.
-        spreadsheetId,
+        spreadsheetId: process.env.NEXT_PRIVATE_SPREADSHEET_ID,
 
         // The A1 notation of the values to retrieve.
         range: 'flats!A2:O50',
