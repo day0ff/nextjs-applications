@@ -21,7 +21,8 @@ const render = (status) => {
 };
 
 export default function Home({flats}) {
-    const {center, zoom} = MAP_OPTIONS;
+    const center = {lat: 52.24495943013511, lng: 21.01493118045693};
+    const zoom = 12;
 
     return (
         <Wrapper apiKey={process.env.NEXT_PUBLIC_API_KEY} render={render}>
