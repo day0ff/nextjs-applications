@@ -10,7 +10,7 @@ export default async function getSpreadsheetData() {
         spreadsheetId: process.env.NEXT_PRIVATE_SPREADSHEET_ID,
 
         // The A1 notation of the values to retrieve.
-        range: 'flats!A2:O50',
+        range: 'flats!A2:P50',
 
         // How values should be represented in the output.
         // The default render option is ValueRenderOption.FORMATTED_VALUE.
@@ -28,7 +28,7 @@ export default async function getSpreadsheetData() {
     try {
         const flatsRawData = (await sheets.spreadsheets.values.get(request)).data;
 
-        return flatsRawData.values.map(([id, address, phone, price, lat, lng, parking, bathroom, park, metro, school, preschool, rating, available, link], index) => {
+        return flatsRawData.values.map(([id, address, phone, price, lat, lng, parking, bathroom, park, metro, school, preschool, rating, available, visible, link], index) => {
             return ({
                 id: Number(id),
                 address,
@@ -46,9 +46,10 @@ export default async function getSpreadsheetData() {
                 preschool: Boolean(preschool),
                 rating: Number(rating),
                 available: available !== "FALSE",
+                visible: visible !== "FALSE",
                 link
             })
-        })
+        }).filter(({visible}) => visible)
     } catch (err) {
         console.error(err);
     }

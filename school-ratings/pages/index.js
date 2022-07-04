@@ -11,7 +11,6 @@ import PreschoolPublicMarker from "./components/PreschoolPublicMarker/PreschoolP
 import PreschoolPrivateMarker from "./components/PreschoolPrivateMarker/PreschoolPrivateMarker";
 import FlatMarker from "./components/FlatMarker/FlatMarker";
 
-import {MAP_OPTIONS} from "./constants";
 import getSpreadsheetData from "../scripts/spreadsheet.mjs";
 
 const render = (status) => {
@@ -36,7 +35,7 @@ export default function Home({flats}) {
     );
 }
 
-export const getServerSideProps = async function () {
+export const getServerSideProps = async function (context) {
     const flats = await getSpreadsheetData();
 
     return {props: {flats}}

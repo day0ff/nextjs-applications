@@ -11,14 +11,20 @@ const FlatMarker = ({id, address, rating, location, phone, price, previousPrice,
         return '/home-icon-blue.png';
     }
 
+    const newMarker = (loc) => {
+        return new window.google.maps.Marker({
+            position: new window.google.maps.LatLng(loc?.lat, loc?.lng),
+            icon: getIcon(rating),
+            title: `${id}. ${rating} / ${price ?? ''} ${previousPrice ?? ''}\n${phone}\n${address}`,
+            map
+        })
+    }
+
     useEffect(() => {
         if (map && !marker) {
-            setMarker(new window.google.maps.Marker({
-                position: new window.google.maps.LatLng(location?.lat, location?.lng),
-                icon: getIcon(rating),
-                title: `${id}. ${rating} / ${price ?? ''} ${previousPrice ?? ''}\n${phone}\n${address}`,
-                map
-            }));
+            const {lat, lng} = location;
+
+            if (!!lat && !!lng) setMarker(newMarker(location));
         }
 
         return () => {
