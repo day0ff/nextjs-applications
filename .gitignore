@@ -10,3 +10,5 @@ yarn.lock
 
 # logs
 npm-debug.log
+
+.env.development

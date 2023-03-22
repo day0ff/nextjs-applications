@@ -1,6 +1,6 @@
 import {useEffect, useState} from "react";
 
-const FlatMarker = ({id, address, rating, location, phone, price, previousPrice, available, map}) => {
+const FlatMarker = ({id, address, rating, location, phone, price, previousPrice, available, map, link}) => {
     const [marker, setMarker] = useState();
 
     const getIcon = (rating) => {
@@ -12,12 +12,16 @@ const FlatMarker = ({id, address, rating, location, phone, price, previousPrice,
     }
 
     const newMarker = (loc) => {
-        return new window.google.maps.Marker({
+        const newMarker = new window.google.maps.Marker({
             position: new window.google.maps.LatLng(loc?.lat, loc?.lng),
             icon: getIcon(rating),
             title: `${id}. ${rating} / ${price ?? ''} ${previousPrice ?? ''}\n${phone}\n${address}`,
             map
         })
+        newMarker.addListener('click', () => {
+            window.open(link, "_blank");
+        });
+        return marker;
     }
 
     useEffect(() => {

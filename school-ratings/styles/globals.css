@@ -14,3 +14,7 @@ body {
 #__next {
   height: 100%;
 }
+
+img[role="presentation"] {
+  filter: contrast(120%) brightness(240%) saturate(120%);
+}
