@@ -1,42 +1,125 @@
-import React from "react";
-import {Wrapper, Status} from "@googlemaps/react-wrapper";
+import React, {useEffect, useState} from "react";
+
+import {getSpreadsheetData} from "../scripts/spreadsheet.mjs";
+import {getLocalStorageData, setLocalStorageData} from "../scripts/localStorage.mjs";
 
 import preschoolsPublic from "../data/preschools-public.json";
 import preschoolsPrivate from "../data/preschools-private.json";
 import schools from "../data/schools.json";
 
-import Map from "./components/Map/Map";
-import SchoolMarker from "./components/SchoolMarker/SchoolMarker";
-import PreschoolPublicMarker from "./components/PreschoolPublicMarker/PreschoolPublicMarker";
-import PreschoolPrivateMarker from "./components/PreschoolPrivateMarker/PreschoolPrivateMarker";
-import FlatMarker from "./components/FlatMarker/FlatMarker";
+import GoogleMp from "./components/GoogleMp/GoogleMp";
+import Filters from "./components/Filters/Filters";
+import Search from "./components/Search/Search";
+import List from "./components/List/List";
+import Detail from "./components/Detail/Detail";
 
-import {MAP_OPTIONS} from "./constants";
-import getSpreadsheetData from "../scripts/spreadsheet.mjs";
+const centerDefault = {lat: 52.24495943013511, lng: 21.01493118045693};
+const zoomDefault = 12;
 
-const render = (status) => {
-    if (status === Status.LOADING) return <h3>{status} ..</h3>;
-    if (status === Status.FAILURE) return <h3>{status} ...</h3>;
-    return null;
-};
+export default function Home({initialFlats}) {
+    const [flats, setFlats] = useState(initialFlats);
+    const [center, setCenter] = useState(centerDefault);
+    const [filters, setFilters] = useState();
+    const [newMarker, setNewMarker] = useState();
+    const [flatDetail, setFlatDetail] = useState();
 
-export default function Home({flats}) {
-    const {center, zoom} = MAP_OPTIONS;
+    const handleSetCenter = (location) => {
+        setCenter(location);
+    }
 
-    return (
-        <Wrapper apiKey={process.env.NEXT_PUBLIC_API_KEY} render={render}>
-            <Map center={center} zoom={zoom}>
-                {preschoolsPublic?.map((preschool) => (<PreschoolPublicMarker key={`preschool-public-${preschool.id}`} {...preschool}/>))}
-                {preschoolsPrivate?.map((preschool) => (<PreschoolPrivateMarker key={`preschool-private-${preschool.id}`} {...preschool}/>))}
-                {schools?.map((school) => (<SchoolMarker key={`school-${school.id}`} {...school}/>))}
-                {flats?.map((flat) => (<FlatMarker key={`flat-${flat.id}`} {...flat}/>))}
-            </Map>
-        </Wrapper>
+    const handleSetFilters = (newFilters) => {
+        setFilters(newFilters);
+        setLocalStorageData(newFilters);
+    }
+
+    const handleSetNewFlatDetail = (newFlatDetail) => {
+        const {location} = newFlatDetail || {};
+        const {lat, lng} = location || {};
+
+        setFlatDetail(newFlatDetail);
+
+        setCenter(undefined);
+        if (lat && lng) setTimeout(() => setCenter(location), 0);
+    }
+
+    const handleSetNewMarker = (newMarker) => {
+        const {location} = newMarker || {};
+
+        setNewMarker(newMarker);
+        setCenter(location);
+        setFlatDetail(undefined);
+    }
+
+    const handleDeleteNewMarker = () => {
+        setNewMarker(undefined);
+        setFlatDetail(undefined);
+    }
+
+    const handleDelete = (deletedItemId) => {
+        const newFlats = flats.filter(({id}) => id !== deletedItemId) || [];
+
+        setFlats([...newFlats]);
+        setFlatDetail(undefined);
+    }
+
+    const handleCreateNewFlat = (newFlatData) => {
+        setNewMarker(undefined);
+        setFlatDetail(newFlatData);
+        setFlats([...flats, newFlatData]);
+    }
+
+    const handleUpdate = (newFlatData) => {
+        setFlats(currentFlats => {
+            const newFlats = currentFlats.map((flat) => flat.id === newFlatData.id ? newFlatData : flat) || [];
+
+            return [...newFlats];
+        });
+    }
+
+    const handleNextFlat = (currentId) => {
+        let index = flats?.findIndex(({id}) => id === currentId) ?? -1;
+
+        if (index === -1 || index + 1 >= flats.length) index = 0;
+        else index++;
+
+
+        const newFlat = flats[index] || {};
+        const {location} = newFlat || {}
+
+        setFlatDetail(newFlat);
+        setCenter(location);
+    }
+
+    useEffect(() => {
+        setFlats(initialFlats);
+    }, [initialFlats]);
+
+    useEffect(() => {
+        if (filters) return;
+        const localStorageData = getLocalStorageData();
+
+        setFilters(localStorageData);
+    }, []);
+
+    return filters && (
+        <>
+            <GoogleMp center={center} zoom={zoomDefault} filters={filters} flats={flats}
+                      preschoolsPublic={preschoolsPublic} preschoolsPrivate={preschoolsPrivate}
+                      schools={schools} newMarker={newMarker} setFlatDetail={handleSetNewFlatDetail}/>
+            {flatDetail &&
+                <Detail flat={flatDetail} setFlatDetail={handleSetNewFlatDetail} deleteNewMarker={handleDeleteNewMarker}
+                        createNewFlat={handleCreateNewFlat} updateFlat={handleUpdate} deleteFlat={handleDelete}
+                        nextFlat={handleNextFlat}/>}
+            <Search setNewMarker={handleSetNewMarker}/>
+            <Filters filters={filters} setFilters={handleSetFilters}/>
+            <List flats={flats} setCenter={handleSetCenter} setFlatDetail={handleSetNewFlatDetail}/>
+        </>
     );
 }
 
-export const getServerSideProps = async function () {
-    const flats = await getSpreadsheetData();
+export const getServerSideProps = async function (context) {
+    const data = await getSpreadsheetData();
+    const initialFlats = data?.filter(({visible}) => visible) || [];
 
-    return {props: {flats}}
+    return {props: {initialFlats}}
 }

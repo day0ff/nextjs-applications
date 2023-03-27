@@ -1,6 +1,6 @@
 import React, {useEffect, useRef, useState} from "react";
 
-const MapComponent = ({center, zoom, children}) => {
+const MapComponent = ({center, zoom, children, type}) => {
     const ref = useRef(null);
     const [map, setMap] = useState();
 
@@ -9,6 +9,7 @@ const MapComponent = ({center, zoom, children}) => {
             setMap(new window.google.maps.Map(ref.current, {
                 center,
                 zoom,
+                mapTypeControl: false
             }));
         }
     }, [ref, map]);
@@ -20,6 +21,20 @@ const MapComponent = ({center, zoom, children}) => {
             transitLayer.setMap(map);
         }
     }, [map])
+
+    useEffect(() => {
+        if (!map) return;
+
+        map.setCenter(center);
+    }, [center])
+
+    useEffect(() => {
+        if (!map) return;
+
+        map.setMapTypeId(type);
+    }, [type])
+
+
     return (<>
         <div ref={ref} id="map"/>
         {React.Children.map(children, (child) => {

@@ -1,0 +1,142 @@
+.list {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    bottom: 60px;
+    left: 10px;
+    padding: 10px 0;
+    background-color: white;
+    max-width: calc(100vw - 70px);
+    overflow: hidden;
+    box-shadow: rgba(0, 0, 0, 0.3) 0 1px 4px -1px;
+}
+
+.list__background {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    background-color: azure;
+    opacity: 20%;
+}
+
+.list__icon_wrapper {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    bottom: 10px;
+    left: 10px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.3) 0 1px 4px -1px;
+}
+
+.list__icon,
+.list__icon_close,
+.list__icon__phone,
+.list__icon__link,
+.list__icon__edit {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    color: #666;
+    cursor: pointer;
+}
+
+.list__icon:hover,
+.list__icon__edit:hover {
+    color: #333;
+}
+
+.list__icon_close {
+    margin: 0 10px;
+    border-radius: 50%;
+    align-self: flex-end;
+}
+
+.list__icon_close:hover {
+    background-color: aliceblue;
+}
+
+.list__icon__phone {
+    color: #333;
+    cursor: initial;
+}
+
+.list__icon__link {
+    color: darkblue;
+}
+
+.list__icon__link:hover {
+    color: blue;
+}
+
+.list__list {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+}
+
+.list__list_title {
+    padding: 0;
+    color: #333;
+}
+
+.list__list_item,
+.list__list_item_empty {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 2px 10px;
+    padding: 5px 20px;
+    color: #333;
+}
+
+.list__list_item:not(:last-child) {
+    border-bottom: solid 1px #eeeeee;
+}
+
+.list__list_item:nth-child(even) {
+    background-color: ghostwhite;
+}
+
+.list__list_item_empty {
+    cursor: initial;
+}
+
+.list__list_item_img {
+    cursor: pointer;
+}
+
+.list__list_item_img:hover {
+    filter: brightness(130%) saturate(200%);
+}
+
+.list__list_item_no_img {
+    display: inline-block;
+    width: 20px;
+    height: 32px;
+}
+
+.list__list_item__price {
+    color: #454829;
+    font-weight: bold;
+}
+
+.list__list_item__phone {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+}
+
+.list__list_item__link {
+    line-height: 10px;
+}

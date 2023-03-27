@@ -1,0 +1,305 @@
+.excellent {
+    color: #d15146 !important;
+}
+
+.good {
+    color: #d15146 !important;
+}
+
+.average {
+    color: #e4d842 !important;
+}
+
+.fair {
+    color: #80d443 !important;
+}
+
+.poor {
+    color: #347de4 !important;
+}
+
+.not_available {
+    color: #a0a0a0 !important;
+}
+
+.excellent:hover,
+.good:hover,
+.average:hover,
+.fair:hover,
+.poor:hover,
+.not_available:hover {
+    filter: opacity(0.6);
+}
+
+.detail {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: transparent;
+    box-shadow: rgba(0, 0, 0, 0.3) 0 1px 4px -1px;
+    width: calc(100vw - 20px);
+    max-width: 500px;
+    height: 300px;
+}
+
+.detail__background {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    padding: 0;
+    margin: 0;
+    background-color: azure;
+    opacity: 20%;
+    overflow: hidden;
+}
+
+.detail__pending {
+    z-index: 10;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    padding: 0;
+    margin: 0;
+    color: white;
+    background-color: black;
+    opacity: 60%;
+    overflow: hidden;
+}
+
+.detail__top,
+.detail__bottom,
+.detail__left,
+.detail__right {
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    background: white;
+    width: calc(100vw - 20px);
+    max-width: 500px;
+    overflow: hidden;
+}
+
+.detail__top {
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 10px;
+    left: 50%;
+    top: calc(50% - 130px);
+    height: 120px;
+}
+
+.detail__bottom {
+    display: flex;
+    left: 50%;
+    flex-direction: column;
+    top: calc(50% + 52px);
+}
+
+.detail__left {
+    top: calc(50% - 20px);
+    left: calc(50% - 150px);
+    height: 100px;
+    max-width: 200px;
+    width: calc(50vw - 20px);
+}
+
+.detail__right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    top: calc(50% - 20px);
+    left: calc(50% + 150px);
+    height: 100px;
+    max-width: 200px;
+    width: calc(50vw - 20px);
+}
+
+.detail__overlay {
+    box-sizing: border-box;
+    position: absolute;
+    top: calc(50% - 20px);
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    color: orangered;
+    background: radial-gradient(transparent 50px, white 50px);
+    width: 100px;
+    height: 100px;
+    pointer-events: none;
+}
+
+.detail__rating_icons {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.detail__item,
+.detail__item_rating,
+.detail__item_info,
+.detail__item_controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.detail__item_rating {
+    justify-content: flex-start;
+}
+
+.detail__item_info {
+    justify-content: space-between;
+}
+
+.detail__item_controls {
+    justify-content: space-around;
+}
+
+.detail__input {
+    font-size: 16px;
+    border: none;
+    width: 100%;
+    border-bottom: 1px solid #999999;
+    outline: none;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.detail__icon,
+.detail__icon_next,
+.detail__icon_rating,
+.detail__icon_phone,
+.detail__icon_address,
+.detail__icon_link,
+.detail__icon_link__active,
+.detail__icon_parking,
+.detail__icon_delete,
+.detail__icon_save,
+.detail__icon_close {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    color: #666;
+    cursor: pointer;
+}
+
+.detail__icon_next {
+    width: 24px;
+    height: 16px;
+}
+
+.detail__icon:hover,
+.detail__icon_next:hover,
+.detail__icon_rating:hover,
+.detail__icon_close:hover {
+    color: #333;
+}
+
+.detail__icon_link,
+.detail__icon_phone,
+.detail__icon_address {
+    color: #000;
+    cursor: initial;
+}
+
+.detail__icon_rating,
+.detail__icon_delete,
+.detail__icon_save,
+.detail__icon_parking__active,
+.detail__icon_metro__active,
+.detail__icon_park__active,
+.detail__icon_bathroom__active,
+.detail__icon_school__active,
+.detail__icon_preschool__active {
+    width: 32px;
+    height: 32px;
+}
+
+.detail__icon_link__active {
+    color: darkblue;
+}
+
+.detail__icon_link__active:hover {
+    color: blue;
+}
+
+.detail__icon_close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    border-radius: 50%;
+}
+
+.detail__icon_delete {
+   color: darkred;
+}
+
+.detail__icon_delete:hover {
+   color: orangered;
+}
+
+.detail__icon_save {
+    color: darkgreen;
+}
+
+.detail__icon_save:hover {
+    color: green;
+}
+
+.detail__icon_parking__active {
+    color: darkblue;
+}
+
+.detail__icon_metro__active {
+    color: darkred;
+}
+
+.detail__icon_park__active {
+    color: darkgreen;
+}
+
+.detail__icon_bathroom__active {
+    color: deepskyblue;
+}
+
+.detail__icon_school__active {
+    color: darkgoldenrod;
+}
+
+.detail__icon_preschool__active {
+    color: saddlebrown;
+}
+
+.detail__icon_parking__active:hover,
+.detail__icon_metro__active:hover,
+.detail__icon_park__active:hover,
+.detail__icon_bathroom__active:hover,
+.detail__icon_school__active:hover,
+.detail__icon_preschool__active:hover {
+    cursor: pointer;
+    filter: opacity(0.8);
+}
+
+.detail__icon_close:hover {
+    background-color: aliceblue;
+}
+
+.detail__item__price,
+.detail__item__phone {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    gap: 5px;
+}
