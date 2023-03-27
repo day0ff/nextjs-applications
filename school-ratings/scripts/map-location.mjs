@@ -10,8 +10,10 @@ export default async function getLocation(address) {
             key: process.env.NEXT_PUBLIC_API_KEY
         },
     }).then(response => {
-        const {location} = response.data.results[0].geometry.location;
+        const {location} = response.data.results?.[0]?.geometry || {};
 
         return location;
-    }).catch(() => null)
+    }).catch((reject) => {
+        return undefined
+    })
 }

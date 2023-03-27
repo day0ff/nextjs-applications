@@ -1,0 +1,63 @@
+.search__icon_wrapper {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    top: 10px;
+    left: 50px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.3) 0 1px 4px -1px;
+}
+
+.search__icon,
+.search__icon_map_pin,
+.search__icon_map_pin__active {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    color: #666;
+    cursor: pointer;
+}
+
+.search__icon_map_pin {
+    color: #ccc;
+    cursor: initial;
+}
+
+.search__icon:hover,
+.search__icon_map_pin__active:hover {
+    color: #333;
+}
+
+.search {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 10px;
+    left: 90px;
+    height: 40px;
+    padding: 0 10px;
+    background-color: white;
+    min-width: calc(25vw);
+    max-width: calc(100vw - 110px);
+    overflow: hidden;
+    box-shadow: rgba(0, 0, 0, 0.3) 0 1px 4px -1px;
+}
+
+.search__input {
+    font-size: 16px;
+    border: none;
+    width: 100%;
+    border-bottom: 1px solid #999999;
+    outline: none;
+}
+
+@media (max-width: 600px) {
+    .search__input {
+        width: initial;
+        max-width: calc(100vw - 190px);
+    }
+}
