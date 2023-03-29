@@ -28,6 +28,12 @@
     color: #999;
 }
 
+.filters__container {
+    max-height: calc(100vh - 160px);
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
 .filters__list {
     display: flex;
     flex-wrap: wrap;

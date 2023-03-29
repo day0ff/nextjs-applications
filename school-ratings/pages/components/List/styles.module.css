@@ -36,6 +36,12 @@
     box-shadow: rgba(0, 0, 0, 0.3) 0 1px 4px -1px;
 }
 
+.list__container {
+    max-height: calc(100vh - 160px);
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
 .list__icon,
 .list__icon_close,
 .list__icon__phone,
