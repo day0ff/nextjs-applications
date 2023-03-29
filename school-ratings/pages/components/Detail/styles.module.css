@@ -107,10 +107,11 @@
 
 .detail__left {
     top: calc(50% - 20px);
-    left: calc(50% - 150px);
+    right: calc(50% + 50px);
+    transform: translate(0, -50%);
     height: 100px;
     max-width: 200px;
-    width: calc(50vw - 20px);
+    width: calc(50vw - 60px);
 }
 
 .detail__right {
@@ -118,10 +119,18 @@
     flex-direction: column;
     justify-content: space-between;
     top: calc(50% - 20px);
-    left: calc(50% + 150px);
+    left: calc(50% + 50px);
+    transform: translate(0, -50%);
     height: 100px;
     max-width: 200px;
-    width: calc(50vw - 20px);
+    width: calc(50vw - 60px);
+}
+
+@media (max-width: 600px) {
+    .detail__left {}
+    .detail__right {
+
+    }
 }
 
 .detail__overlay {
