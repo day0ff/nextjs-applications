@@ -57,7 +57,8 @@ const List = ({flats, setCenter, setFlatDetail}) => {
                                             )}
                                             {address && (<span>{address}</span>)}
                                             {link && (
-                                                <a className={styles.list__list_item__link} target="_blank" href={link}>
+                                                <a className={styles.list__list_item__link} target="_blank" href={link}
+                                                   rel="noreferrer">
                                                     <LinkIcon className={styles.list__icon__link} alt='link'/>
                                                 </a>
                                             )}
