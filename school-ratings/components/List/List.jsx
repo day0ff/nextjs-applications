@@ -1,10 +1,10 @@
 import React, {useState} from 'react';
 
-import CloseIcon from '../../../public/svg/close-fill.svg';
-import ListIcon from '../../../public/svg/list-unordered.svg';
-import PhoneIcon from '../../../public/svg/phone-fill.svg';
-import LinkIcon from '../../../public/svg/link-m.svg';
-import EditIcon from '../../../public/svg/pencil-line.svg';
+import CloseIcon from '../../public/svg/close-fill.svg';
+import ListIcon from '../../public/svg/list-unordered.svg';
+import PhoneIcon from '../../public/svg/phone-fill.svg';
+import LinkIcon from '../../public/svg/link-m.svg';
+import EditIcon from '../../public/svg/pencil-line.svg';
 
 import styles from './styles.module.css';
 import Image from "next/image";

@@ -1,19 +1,19 @@
 import React, {useEffect, useState} from 'react';
 
-import CloseIcon from '../../../public/svg/close-fill.svg';
-import MapPinIcon from '../../../public/svg/map-pin-2-fill.svg';
-import PhoneIcon from '../../../public/svg/phone-fill.svg';
-import LinkIcon from '../../../public/svg/link-m.svg';
-import ParkingIcon from '../../../public/svg/parking.svg';
-import MetroIcon from '../../../public/svg/metro.svg';
-import ParkIcon from '../../../public/svg/park.svg';
-import BathroomIcon from '../../../public/svg/bathroom.svg';
-import SchoolIcon from '../../../public/svg/school.svg';
-import PreschoolIcon from '../../../public/svg/teddy-bear.svg';
-import HomeIcon from '../../../public/svg/home-heart-fill.svg';
-import DeleteIcon from '../../../public/svg/delete-bin-2-fill.svg';
-import SaveIcon from '../../../public/svg/save-fill.svg';
-import NextIcon from '../../../public/svg/arrow-right-line.svg';
+import CloseIcon from '../../public/svg/close-fill.svg';
+import MapPinIcon from '../../public/svg/map-pin-2-fill.svg';
+import PhoneIcon from '../../public/svg/phone-fill.svg';
+import LinkIcon from '../../public/svg/link-m.svg';
+import ParkingIcon from '../../public/svg/parking.svg';
+import MetroIcon from '../../public/svg/metro.svg';
+import ParkIcon from '../../public/svg/park.svg';
+import BathroomIcon from '../../public/svg/bathroom.svg';
+import SchoolIcon from '../../public/svg/school.svg';
+import PreschoolIcon from '../../public/svg/teddy-bear.svg';
+import HomeIcon from '../../public/svg/home-heart-fill.svg';
+import DeleteIcon from '../../public/svg/delete-bin-2-fill.svg';
+import SaveIcon from '../../public/svg/save-fill.svg';
+import NextIcon from '../../public/svg/arrow-right-line.svg';
 
 import {flatRating} from "../GoogleMp/components/FlatMarker/FlatMarker";
 

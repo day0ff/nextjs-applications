@@ -1,8 +1,8 @@
 import React, {useState} from 'react';
 import Image from "next/image";
 
-import FilterIcon from '../../../public/svg/sound-module-fill.svg';
-import CloseIcon from '../../../public/svg/close-fill.svg';
+import FilterIcon from '../../public/svg/sound-module-fill.svg';
+import CloseIcon from '../../public/svg/close-fill.svg';
 
 import styles from './styles.module.css';
 
