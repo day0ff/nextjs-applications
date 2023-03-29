@@ -1,9 +1,9 @@
 import React, {useEffect, useState} from 'react';
 
-import useDebounce from "../../../hooks/useDebounce";
+import useDebounce from "../../hooks/useDebounce";
 
-import SearchIcon from '../../../public/svg/search-line.svg';
-import MapPinIcon from '../../../public/svg/map-pin-add-fill.svg';
+import SearchIcon from '../../public/svg/search-line.svg';
+import MapPinIcon from '../../public/svg/map-pin-add-fill.svg';
 
 import styles from './styles.module.css';
 

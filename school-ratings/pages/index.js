@@ -7,11 +7,11 @@ import preschoolsPublic from "../data/preschools-public.json";
 import preschoolsPrivate from "../data/preschools-private.json";
 import schools from "../data/schools.json";
 
-import GoogleMp from "./components/GoogleMp/GoogleMp";
-import Filters from "./components/Filters/Filters";
-import Search from "./components/Search/Search";
-import List from "./components/List/List";
-import Detail from "./components/Detail/Detail";
+import GoogleMp from "../components/GoogleMp/GoogleMp";
+import Filters from "../components/Filters/Filters";
+import Search from "../components/Search/Search";
+import List from "../components/List/List";
+import Detail from "../components/Detail/Detail";
 
 const centerDefault = {lat: 52.24495943013511, lng: 21.01493118045693};
 const zoomDefault = 12;

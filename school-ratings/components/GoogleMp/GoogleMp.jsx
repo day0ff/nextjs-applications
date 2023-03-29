@@ -1,8 +1,8 @@
 import React, {useState} from "react";
 import {Wrapper, Status} from "@googlemaps/react-wrapper";
 
-import TerrainIcon from '../../../public/svg/earth-line.svg';
-import SatelliteIcon from '../../../public/svg/map-2-line.svg';
+import TerrainIcon from '../../public/svg/earth-line.svg';
+import SatelliteIcon from '../../public/svg/map-2-line.svg';
 
 import Map from "./components/Map/Map";
 import SchoolMarker from "./components/SchoolMarker/SchoolMarker";
