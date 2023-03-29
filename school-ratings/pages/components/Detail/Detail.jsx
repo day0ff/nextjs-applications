@@ -208,7 +208,7 @@ const Detail = ({flat, setFlatDetail, deleteNewMarker, deleteFlat, createNewFlat
                     <input className={styles.detail__input} type="url" placeholder="link" value={link} name="link"
                            title="link" onChange={handleChangeInput}/>
                     {link ? (
-                        <a target="_blank" href={link} title="link">
+                        <a target="_blank" href={link} title="link" rel="noreferrer">
                             <LinkIcon className={styles.detail__icon_link__active}/>
                         </a>
                     ) : (<LinkIcon className={styles.detail__icon_link}/>)}
